@@ -2,7 +2,7 @@
 <0000> April 22 (Tue.)
 //// <0000> ４月２２日(火)
 //// <0000> 22 Апр (Вт)
-<0000> 22 апреля (вт.)
+<0000> 22 апреля (Вт)
 
 <0001> I'm late again this morning, but that's par for the course at this stage.
 //// <0001> 今朝も、いつものように遅刻。

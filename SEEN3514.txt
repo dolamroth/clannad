@@ -905,7 +905,7 @@
 
 <0226> May 15 (Thu.)
 //// <0226> ５月１５日(木)
-//// <0226> 15 Мая (Чт.)
+//// <0226> 15 Мая (Чт)
 
 <0227> It's lunch break right now. I am staring up at the sky with a lunch box in one hand, and chopsticks in the other.
 //// <0227> 昼休み…弁当片手、箸片手で空を見上げていた。
