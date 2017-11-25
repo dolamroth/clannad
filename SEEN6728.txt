@@ -1,162 +1,162 @@
 
-<0000> \{渚}I have to hurry home today because Mei-chan is waiting. So, see you.
-//// <0000> \{渚}「それでは芽衣ちゃんが待ってくれてますので、急いで帰ります」
+<0000> \{Нагиса}I have to hurry home today because Mei-chan is waiting. So, see you.
+//// <0000> \{Нагиса}「それでは芽衣ちゃんが待ってくれてますので、急いで帰ります」
 //// <0000> \{Нагиса}"Сегодня ждёт Мей-тян, поэтому мне нужно поспешить домой."
 
-<0001> \{\m{B}}Yeah. Bye.
-//// <0001> \{\m{B}}「ああ」
+<0001> \{Томоя}Yeah. Bye.
+//// <0001> \{Томоя}「ああ」
 //// <0001> \{Томоя}"Ага."
 
-<0002> \{春原}Please take care of my sister.
-//// <0002> \{春原}「よろしく」
+<0002> \{Сунохара}Please take care of my sister.
+//// <0002> \{Сунохара}「よろしく」
 //// <0002> \{Сунохара}"Давай."
 
 <0003> With Nagisa gone, now it's just me and Sunohara alone.
 //// <0003> 渚を見送って、ふたりきりになる。
 //// <0003> Мы проводили её взглядом.
 
-<0004> \{春原}Let's go home, too.
-//// <0004> \{春原}「僕たちも帰るかぁ」
+<0004> \{Сунохара}Let's go home, too.
+//// <0004> \{Сунохара}「僕たちも帰るかぁ」
 //// <0004> \{Сунохара}"Нам тоже нужно идти."
 
-<0005> \{春原}In the end, just what did she come here for...
-//// <0005> \{春原}「結局あいつは何しにきたんだかね…」
+<0005> \{Сунохара}In the end, just what did she come here for...
+//// <0005> \{Сунохара}「結局あいつは何しにきたんだかね…」
 //// <0005> \{Сунохара}"И чего она вообще приехала...?"
 
-<0006> \{\m{B}}Are you talking about Mei-chan?
-//// <0006> \{\m{B}}「芽衣ちゃんのことか？」
+<0006> \{Томоя}Are you talking about Mei-chan?
+//// <0006> \{Томоя}「芽衣ちゃんのことか？」
 //// <0006> \{Томоя}"Ты про Мей-тян?"
 
-<0007> \{\m{B}}She's come to check up on you, hasn't she?
-//// <0007> \{\m{B}}「おまえの様子見にきたんだろ」
+<0007> \{Томоя}She's come to check up on you, hasn't she?
+//// <0007> \{Томоя}「おまえの様子見にきたんだろ」
 //// <0007> \{Томоя}"Она же навестить тебя приехала, разве нет?"
 
-<0008> \{春原}I don't think she would come all the way here just for that.
-//// <0008> \{春原}「それだけのために、こんな場所までわざわざくるかよ」
+<0008> \{Сунохара}I don't think she would come all the way here just for that.
+//// <0008> \{Сунохара}「それだけのために、こんな場所までわざわざくるかよ」
 //// <0008> \{Сунохара}"Думаешь, она только ради этого приехала?"
 
-<0009> \{春原}She was really longing for life in the city, you see...
-//// <0009> \{春原}「あいつ、都会に憧れていたからなぁ…」
+<0009> \{Сунохара}She was really longing for life in the city, you see...
+//// <0009> \{Сунохара}「あいつ、都会に憧れていたからなぁ…」
 //// <0009> \{Сунохара}"Она так жаждала насладиться городской жизнью..."
 
-<0010> \{春原}Maybe her coming here to see me was just an excuse for her to go to the city... 
-//// <0010> \{春原}「僕の様子見って理由で、ただ単に別の町に来たかっただけなんじゃぁ…」
+<0010> \{Сунохара}Maybe her coming here to see me was just an excuse for her to go to the city... 
+//// <0010> \{Сунохара}「僕の様子見って理由で、ただ単に別の町に来たかっただけなんじゃぁ…」
 //// <0010> \{Сунохара}"Просто не верю, что она приехала ради меня..."
 
-<0011> \{\m{B}}You've grown pretty cynical, haven't you?
-//// <0011> \{\m{B}}「あまのじゃくだな、おまえも」
+<0011> \{Томоя}You've grown pretty cynical, haven't you?
+//// <0011> \{Томоя}「あまのじゃくだな、おまえも」
 //// <0011> \{Томоя}"А ты ей только жизнь усложняешь."
 
-<0012> \{春原}Cynical or not, just look at her now. She's just playing with Nagisa-chan all day, isn't she?
-//// <0012> \{春原}「あまのじゃくも何もないだろ。現に今、渚ちゃんと遊んでるわけだし」
+<0012> \{Сунохара}Cynical or not, just look at her now. She's just playing with Nagisa-chan all day, isn't she?
+//// <0012> \{Сунохара}「あまのじゃくも何もないだろ。現に今、渚ちゃんと遊んでるわけだし」
 //// <0012> \{Сунохара}"Да нет же. Сейчас она вообще с Нагисой."
 
-<0013> \{春原}If she felt even just a tiny bit worried about me, she should be here now, no?...
-//// <0013> \{春原}「少しでも心配してたら、今、一緒に居るはずだろ…」
+<0013> \{Сунохара}If she felt even just a tiny bit worried about me, she should be here now, no?...
+//// <0013> \{Сунохара}「少しでも心配してたら、今、一緒に居るはずだろ…」
 //// <0013> \{Сунохара}"Если бы мне не было всё равно, то я был бы с ней..."
 
-<0014> \{春原}Well, but then again, it'd be so annoying if she was here, though. Haha.
-//// <0014> \{春原}「ま、居たら居たで、鬱陶しくてたまらないんだけどね、はは」
+<0014> \{Сунохара}Well, but then again, it'd be so annoying if she was here, though. Haha.
+//// <0014> \{Сунохара}「ま、居たら居たで、鬱陶しくてたまらないんだけどね、はは」
 //// <0014> \{Сунохара}"Хотя, тогда у меня точно было бы плохое настроение, хаха..."
 
-<0015> \{\m{B}}Look at your face in the mirror. "I want her to come" is written all over it...
-//// <0015> \{\m{B}}「おまえ、居てほしいの、バレバレだぞ…」
+<0015> \{Томоя}Look at your face in the mirror. "I want her to come" is written all over it...
+//// <0015> \{Томоя}「おまえ、居てほしいの、バレバレだぞ…」
 //// <0015> \{Томоя}"Тебе же ведь хочется быть с ней, не отрицай..."
 
-<0016> \{春原}That's nooooot true! She's really just annoying!
-//// <0016> \{春原}「ちがわーーいっ！　本当に鬱陶しいだけなんだよ、あいつはっ」
+<0016> \{Сунохара}That's nooooot true! She's really just annoying!
+//// <0016> \{Сунохара}「ちがわーーいっ！　本当に鬱陶しいだけなんだよ、あいつはっ」
 //// <0016> \{Сунохара}"Вот уж нет! Я просто не могу быть рядом с ней!"
 
-<0017> \{\m{B}}Yeah, yeah.
-//// <0017> \{\m{B}}「はいはい」
+<0017> \{Томоя}Yeah, yeah.
+//// <0017> \{Томоя}「はいはい」
 //// <0017> \{Томоя}"Ладно, ладно."
 
-<0018> \{春原}Listen to what I say, will you?!
-//// <0018> \{春原}「軽く流すなっ」
+<0018> \{Сунохара}Listen to what I say, will you?!
+//// <0018> \{Сунохара}「軽く流すなっ」
 //// <0018> \{Сунохара}"Кончай надо мной издеваться!"
 
-<0019> \{\m{B}}But she may rush to see you once she's done playing with Nagisa.
-//// <0019> \{\m{B}}「でも、渚と遊んだ後に、こっちに駆けつけてくれるかもな」
+<0019> \{Томоя}But she may rush to see you once she's done playing with Nagisa.
+//// <0019> \{Томоя}「でも、渚と遊んだ後に、こっちに駆けつけてくれるかもな」
 //// <0019> \{Томоя}"Но наобщавшись с Нагисой, она наверняка вернётся сюда, да?"
 
-<0020> \{春原}That won't happen.
-//// <0020> \{春原}「そんなことは絶対ありません」
+<0020> \{Сунохара}That won't happen.
+//// <0020> \{Сунохара}「そんなことは絶対ありません」
 //// <0020> \{Сунохара}"Она точно не сделает этого."
 
-<0021> \{\m{B}}You never know...
-//// <0021> \{\m{B}}「そうかね…」
+<0021> \{Томоя}You never know...
+//// <0021> \{Томоя}「そうかね…」
 //// <0021> \{Томоя}"Вот как...?"
 
 <0022> Fast-forward to midnight.
 //// <0022> そして、深夜。
 //// <0022> Поздним вечером.
 
-<0023> \{春原}...
-//// <0023> \{春原}「………」
+<0023> \{Сунохара}...
+//// <0023> \{Сунохара}「………」
 //// <0023> \{Сунохара}"........."
 
-<0024> \{\m{B}}She really isn't coming.
-//// <0024> \{\m{B}}「本当に来なかったな」
+<0024> \{Томоя}She really isn't coming.
+//// <0024> \{Томоя}「本当に来なかったな」
 //// <0024> \{Томоя}"Она так и не пришла."
 
-<0025> \{春原}Don't say that out loud!
-//// <0025> \{春原}「言うなよっ！」
+<0025> \{Сунохара}Don't say that out loud!
+//// <0025> \{Сунохара}「言うなよっ！」
 //// <0025> \{Сунохара}"Мог бы и не говорить!"
 
-<0026> \{\m{B}}Well, maybe she's not coming because she was already relieved seeing you the other day?
-//// <0026> \{\m{B}}「ま、来ないってことは、顔見て安心できたからじゃないのか？」
+<0026> \{Томоя}Well, maybe she's not coming because she was already relieved seeing you the other day?
+//// <0026> \{Томоя}「ま、来ないってことは、顔見て安心できたからじゃないのか？」
 //// <0026> \{Томоя}"Ну, тебе разве не стало спокойнее?"
 
-<0027> \{春原}Relieved or not, in the end, she just came to play in a new town.
-//// <0027> \{春原}「安心も何も、あいつは結局、他の町を見たくて来たんだよ」
+<0027> \{Сунохара}Relieved or not, in the end, she just came to play in a new town.
+//// <0027> \{Сунохара}「安心も何も、あいつは結局、他の町を見たくて来たんだよ」
 //// <0027> \{Сунохара}"Стало или не стало, какая разница, она же просто приехала в другой город."
 
-<0028> \{春原}It must have been much easier for her to tell our parents that she was coming to check on me.
-//// <0028> \{春原}「親にも僕の様子を見てくるって言ったほうが、話が早かったんだろうしな」
+<0028> \{Сунохара}It must have been much easier for her to tell our parents that she was coming to check on me.
+//// <0028> \{Сунохара}「親にも僕の様子を見てくるって言ったほうが、話が早かったんだろうしな」
 //// <0028> \{Сунохара}"Зачем приходить ко мне и говорить со мной о наших родителях?"
 
-<0029> \{\m{B}}Well, that's most likely the case, but don't let yourself feel so down.
-//// <0029> \{\m{B}}「まぁ、そうだろうけど、気を落とすなよ」
+<0029> \{Томоя}Well, that's most likely the case, but don't let yourself feel so down.
+//// <0029> \{Томоя}「まぁ、そうだろうけど、気を落とすなよ」
 //// <0029> \{Томоя}"Ну, может и так, только вот ты себя чувствуешь брошенным."
 
-<0030> \{春原}Listen here, could you please be considerate of my feelings before just agreeing with me?!
-//// <0030> \{春原}「あんた、ぜんぜん否定してくれないんスね！」
+<0030> \{Сунохара}Listen here, could you please be considerate of my feelings before just agreeing with me?!
+//// <0030> \{Сунохара}「あんた、ぜんぜん否定してくれないんスね！」
 //// <0030> \{Сунохара}"Да вовсе я никакой не брошенный!"
 
-<0031> \{\m{B}}Now, now, I'll come here again tomorrow to play with you. Less lonely that way, right?
-//// <0031> \{\m{B}}「まぁまぁ、明日も来て、寂しさを紛らわせてやるから」
+<0031> \{Томоя}Now, now, I'll come here again tomorrow to play with you. Less lonely that way, right?
+//// <0031> \{Томоя}「まぁまぁ、明日も来て、寂しさを紛らわせてやるから」
 //// <0031> \{Томоя}"Ну, ну, она завтра придёт, тебе не будет одиноко."
 
-<0032> \{春原}I have the feeling being with you only makes me feel more miserable...
-//// <0032> \{春原}「おまえと居るほうが、よっぽど惨めな思いをする気がするぞ…」
+<0032> \{Сунохара}I have the feeling being with you only makes me feel more miserable...
+//// <0032> \{Сунохара}「おまえと居るほうが、よっぽど惨めな思いをする気がするぞ…」
 //// <0032> \{Сунохара}"Ох, зачем я с тобой болтаю..."
 
-<0033> \{春原}Well, that's kind of convenient, though.
-//// <0033> \{春原}「ま、ちょうどいいや」
+<0033> \{Сунохара}Well, that's kind of convenient, though.
+//// <0033> \{Сунохара}「ま、ちょうどいいや」
 //// <0033> \{Сунохара}"Ладно."
 
-<0034> \{春原}Let's practice in the school ground tomorrow.
-//// <0034> \{春原}「明日は学校のグラウンドで練習しようぜ」
+<0034> \{Сунохара}Let's practice in the school ground tomorrow.
+//// <0034> \{Сунохара}「明日は学校のグラウンドで練習しようぜ」
 //// <0034> \{Сунохара}"Завтра мы потренируемся на площадке перед школой."
 
-<0035> \{\m{B}}For our comedy act?
-//// <0035> \{\m{B}}「漫才のか？」
+<0035> \{Томоя}For our comedy act?
+//// <0035> \{Томоя}「漫才のか？」
 //// <0035> \{Томоя}"Выступать в шоу?"
 
-<0036> \{春原}For the basketball game!
-//// <0036> \{春原}「バスケだよっ」
+<0036> \{Сунохара}For the basketball game!
+//// <0036> \{Сунохара}「バスケだよっ」
 //// <0036> \{Сунохара}"Играть в баскетбол!"
 
-<0037> \{春原}It's the day after tomorrow, remember?
-//// <0037> \{春原}「明後日、試合だろっ」
+<0037> \{Сунохара}It's the day after tomorrow, remember?
+//// <0037> \{Сунохара}「明後日、試合だろっ」
 //// <0037> \{Сунохара}"Игра же послезавтра, ты забыл?!"
 
-<0038> \{\m{B}}Aah, speaking of which...
-//// <0038> \{\m{B}}「ああ、そうだったな…」
+<0038> \{Томоя}Aah, speaking of which...
+//// <0038> \{Томоя}「ああ、そうだったな…」
 //// <0038> \{Томоя}"А, да, точно..."
 
-<0039> \{春原}Oi oi, are you really up for it...?
-//// <0039> \{春原}「おまえ、本当に大丈夫かよ…」
+<0039> \{Сунохара}Oi oi, are you really up for it...?
+//// <0039> \{Сунохара}「おまえ、本当に大丈夫かよ…」
 //// <0039> \{Сунохара}"Тебе что, всё равно...?"
 
 <0040> *Knock* *Knock*
@@ -175,12 +175,12 @@
 //// <0043> 俺と春原は顔を見合わせる。
 //// <0043> Я и Сунохара переглянулись.
 
-<0044> \{\m{B}}Look who's come to see you.
-//// <0044> \{\m{B}}「よかったじゃん」
+<0044> \{Томоя}Look who's come to see you.
+//// <0044> \{Томоя}「よかったじゃん」
 //// <0044> \{Томоя}"Разве не здорово?"
 
-<0045> \{春原}Geez. Just what's she come here for, that little~
-//// <0045> \{春原}「ったく、何しにきやがったんだよぅ、あいつはよぅっ」
+<0045> \{Сунохара}Geez. Just what's she come here for, that little~
+//// <0045> \{Сунохара}「ったく、何しにきやがったんだよぅ、あいつはよぅっ」
 //// <0045> \{Сунохара}"Ё-моё, ну на фига она пришла?"
 
 <0046> Desperately trying to hide the big smile growing on his face, Sunohara stands up and opens the door.
@@ -195,8 +195,8 @@
 //// <0048> 芽衣ちゃんの目は、春原を無視して、俺に向いていた。
 //// <0048> Мей-тян посмотрела прямо на меня, не заметив Сунохару.
 
-<0049> \{\m{B}}Eh? Me?
-//// <0049> \{\m{B}}「え？　俺に用？」
+<0049> \{Томоя}Eh? Me?
+//// <0049> \{Томоя}「え？　俺に用？」
 //// <0049> \{Томоя}"Э? Я?"
 
 <0050> \{芽衣}Yes.
@@ -207,24 +207,24 @@
 //// <0051> \{芽衣}「あ、おにいちゃん、\m{A}さんとふたりで話したいから、外に出てて」
 //// <0051> \{Мей}"Ох, братец, мне нужно поговорить с Оказаки-саном наедине, можешь выйти?"
 
-<0052> \{春原}Ah, okay...
-//// <0052> \{春原}「あ、ああ…」
+<0052> \{Сунохара}Ah, okay...
+//// <0052> \{Сунохара}「あ、ああ…」
 //// <0052> \{Сунохара}"Л-ладно..."
 
 <0053> Sunohara's now walking past his sister with a vacant expression on his face.
 //// <0053> 呆然とした顔で芽衣ちゃんの脇を抜けていく春原。
 //// <0053> Лицо Сунохары скривилось, когда Мей-тян отошла от него.
 
-<0054> \{春原}Uhh...
-//// <0054> \{春原}「う…」
+<0054> \{Сунохара}Uhh...
+//// <0054> \{Сунохара}「う…」
 //// <0054> \{Сунохара}"Ууу..."
 
 <0055> His shoulders suddenly starts to tremble.
 //// <0055> その肩が小刻みに震え出す。
 //// <0055> У него затряслись плечи.
 
-<0056> \{春原}Uwaaaaaaahhhhhh!
-//// <0056> \{春原}「うわぁぁぁぁーーーーんっ！」
+<0056> \{Сунохара}Uwaaaaaaahhhhhh!
+//// <0056> \{Сунохара}「うわぁぁぁぁーーーーんっ！」
 //// <0056> \{Сунохара}"Уааааа----!"
 
 <0057> And he ends up running away, crying.
@@ -235,16 +235,16 @@
 //// <0058> \{芽衣}「うん？　どうしたんだろ？」
 //// <0058> \{Мей}"Мм? Что это с ним?"
 
-<0059> \{\m{B}}Never mind. He always goes out like that.
-//// <0059> \{\m{B}}「気にするな。いつもああやって出かけるんだ」
+<0059> \{Томоя}Never mind. He always goes out like that.
+//// <0059> \{Томоя}「気にするな。いつもああやって出かけるんだ」
 //// <0059> \{Томоя}"Да ничего. Он всегда так уходит."
 
 <0060> \{芽衣}Uh oh... His weirdness is getting worse.
 //// <0060> \{芽衣}「ありゃぁ…ヘンさが加速してるなぁ」
 //// <0060> \{Мей}"Ого... странная у него привычка."
 
-<0061> \{\m{B}}Don't just stand there, come in and take a seat.
-//// <0061> \{\m{B}}「立ってないで、あがって座れば？」
+<0061> \{Томоя}Don't just stand there, come in and take a seat.
+//// <0061> \{Томоя}「立ってないで、あがって座れば？」
 //// <0061> \{Томоя}"Что стоишь, может, присядешь?"
 
 <0062> \{芽衣}Okay. Pardon me.
@@ -255,52 +255,52 @@
 //// <0063> 歩いてきて、俺の正面に座り込む。
 //// <0063> Она села напротив меня.
 
-<0064> \{\m{B}}Oh, no, I should have made Sunohara make our tea before letting him go.
-//// <0064> \{\m{B}}「しまった、春原に茶を入れさせてから、出ていかせればよかった」
+<0064> \{Томоя}Oh, no, I should have made Sunohara make our tea before letting him go.
+//// <0064> \{Томоя}「しまった、春原に茶を入れさせてから、出ていかせればよかった」
 //// <0064> \{Томоя}"Жаль, что он ушёл. Мог бы заварить нам чаю."
 
 <0065> \{芽衣}Should I make some?
 //// <0065> \{芽衣}「入れてきましょうか？」
 //// <0065> \{Мей}"Может, мне сделать?"
 
-<0066> \{\m{B}}Nah, it's fine. So, what do you want to talk about?
-//// <0066> \{\m{B}}「いや、悪いからいいよ。で、話って？」
+<0066> \{Томоя}Nah, it's fine. So, what do you want to talk about?
+//// <0066> \{Томоя}「いや、悪いからいいよ。で、話って？」
 //// <0066> \{Томоя}"Было бы неплохо. Так что ты хотела?"
 
 <0067> \{芽衣}Yes. Well, let me be blunt, if I may.
 //// <0067> \{芽衣}「はい。それでは単刀直入に言いますね」
 //// <0067> \{Мей}"Ладно, выложу всё как есть."
 
-<0068> \{\m{B}}Okay.
-//// <0068> \{\m{B}}「ああ」
+<0068> \{Томоя}Okay.
+//// <0068> \{Томоя}「ああ」
 //// <0068> \{Томоя}"Давай."
 
 <0069> \{芽衣}I'm thinking of becoming a cupid of love.
 //// <0069> \{芽衣}「恋のキューピッドになろうかと思いまして」
 //// <0069> \{Мей}"Я думаю, что стану кем-то вроде купидона."
 
-<0070> \{\m{B}}Heh, so you're worried about him after all.
-//// <0070> \{\m{B}}「へぇ、やっぱあいつのこと心配してたんだな」
+<0070> \{Томоя}Heh, so you're worried about him after all.
+//// <0070> \{Томоя}「へぇ、やっぱあいつのこと心配してたんだな」
 //// <0070> \{Томоя}"А, ты так о нем заботишься?"
 
-<0071> \{\m{B}}But I don't think there's anyone out there who can be a good match.
-//// <0071> \{\m{B}}「でも、相手がいないと思うぞ」
+<0071> \{Томоя}But I don't think there's anyone out there who can be a good match.
+//// <0071> \{Томоя}「でも、相手がいないと思うぞ」
 //// <0071> \{Томоя}"Но что-то я не вижу твоей мишени."
 
 <0072> \{芽衣}No one at all? I'm sure there's someone.
 //// <0072> \{芽衣}「いない？　いるじゃないですか」
 //// <0072> \{Мей}"Разве? Она же тут."
 
-<0073> \{\m{B}}Where?
-//// <0073> \{\m{B}}「どこに」
+<0073> \{Томоя}Where?
+//// <0073> \{Томоя}「どこに」
 //// <0073> \{Томоя}"Где?"
 
 <0074> \{芽衣}Right here.
 //// <0074> \{芽衣}「ここに」
 //// <0074> \{Мей}"Вот."
 
-<0075> \{\m{B}}Eh...
-//// <0075> \{\m{B}}「えっ…」
+<0075> \{Томоя}Eh...
+//// <0075> \{Томоя}「えっ…」
 //// <0075> \{Томоя}"Э..."
 
 <0076> I lock eyes with her.
@@ -315,16 +315,16 @@
 //// <0078> \{芽衣}「あのね、おにいちゃん…」
 //// <0078> \{Мей}"Мм, братец..."
 
-<0079> \{春原}What's the matter, Mei?
-//// <0079> \{春原}「どうした、芽衣」
+<0079> \{Сунохара}What's the matter, Mei?
+//// <0079> \{Сунохара}「どうした、芽衣」
 //// <0079> \{Сунохара}"Что такое, Мей?"
 
 <0080> \{芽衣}After you left home, I started to think a great deal about you.
 //// <0080> \{芽衣}「遠く離れてから、おにいちゃんのこと、たくさん考えるようになったの」
 //// <0080> \{Мей}"Я всё время думала о тебе, пока ты был так далеко."
 
-<0081> \{春原}Heh, like what?
-//// <0081> \{春原}「へぇ、どんなこと」
+<0081> \{Сунохара}Heh, like what?
+//// <0081> \{Сунохара}「へぇ、どんなこと」
 //// <0081> \{Сунохара}"Ах, о чём же?"
 
 <0082> \{芽衣}Things I didn't realize... when we were together.
@@ -335,48 +335,48 @@
 //// <0083> \{芽衣}「それでね、わたしの中でね、どんどんおにいちゃんの見方が変わっていったの…」
 //// <0083> \{Мей}"А потом я поняла, братец..."
 
-<0084> \{春原}I see. Then do I appear more like a respectable brother to you now?
-//// <0084> \{春原}「そうか。少しは尊敬できる兄になったか？」
+<0084> \{Сунохара}I see. Then do I appear more like a respectable brother to you now?
+//// <0084> \{Сунохара}「そうか。少しは尊敬できる兄になったか？」
 //// <0084> \{Сунохара}"Я понял. Ты меня стала больше уважать?"
 
 <0085> \{芽衣}No... I can't respect you...
 //// <0085> \{芽衣}「ううん…尊敬はできないけど…」
 //// <0085> \{Мей}"Нет... не то..."
 
-<0086> \{春原}Tch. What's that supposed to mean...
-//// <0086> \{春原}「ちっ、なんだよ…」
+<0086> \{Сунохара}Tch. What's that supposed to mean...
+//// <0086> \{Сунохара}「ちっ、なんだよ…」
 //// <0086> \{Сунохара}"Но что же тогда...?"
 
 <0087> \{芽衣}But I started using your image to think about many things...
 //// <0087> \{芽衣}「でも、おにいちゃん使って、いろんなこと考えられるようになったよ…」
 //// <0087> \{Мей}"Ну, я думала о всяких неприличных вещах..."
 
-<0088> \{\m{B}}Oh, crap, I'm getting excited already!
-//// <0088> \{\m{B}}「やべぇ、興奮してきたよ！」
+<0088> \{Томоя}Oh, crap, I'm getting excited already!
+//// <0088> \{Томоя}「やべぇ、興奮してきたよ！」
 //// <0088> \{Томоя}"Вот чёрт, как круто!"
 
 <0089> \{芽衣}You're imagining something funny, aren't you?
 //// <0089> \{芽衣}「ヘンな想像してません？」
 //// <0089> \{Мей}"Ты же не подумал о чём-то странном, нет?"
 
-<0090> \{\m{B}}But think about it. You and Sunohara? How can I not feel excited!
-//// <0090> \{\m{B}}「だって、おまえと春原だろ？　そりゃ興奮するって」
+<0090> \{Томоя}But think about it. You and Sunohara? How can I not feel excited!
+//// <0090> \{Томоя}「だって、おまえと春原だろ？　そりゃ興奮するって」
 //// <0090> \{Томоя}"Ну, ты и Сунохара, да? Классно ведь же, да?"
 
 <0091> \{芽衣}Sorry, but... even though we're like this, we're real siblings connected by blood.
 //// <0091> \{芽衣}「あの…これでも血の繋がった兄妹なんですけど」
 //// <0091> \{Мей}"Мм... мы всё-таки родственники."
 
-<0092> \{\m{B}}Nah, that's exactly the reason.
-//// <0092> \{\m{B}}「いや、だから」
+<0092> \{Томоя}Nah, that's exactly the reason.
+//// <0092> \{Томоя}「いや、だから」
 //// <0092> \{Томоя}"Ясно."
 
 <0093> \{芽衣}\name{okazaki}-san, you seem to have the potential to become an erotic novelist.
 //// <0093> \{芽衣}「\m{A}さん、エッチな小説家になれますね」
 //// <0093> \{Мей}"Оказаки-сан, а ты прямо как извращенец, да?"
 
-<0094> \{\m{B}}Yeah, to be honest, it's pretty close...
-//// <0094> \{\m{B}}「ああ、正直、それに近かったな…」
+<0094> \{Томоя}Yeah, to be honest, it's pretty close...
+//// <0094> \{Томоя}「ああ、正直、それに近かったな…」
 //// <0094> \{Томоя}"Да уж, похоже на то..."
 
 <0095> \{芽衣}Anyway, please stop imagining those goosebumps-inducing scenarios.
@@ -387,104 +387,104 @@
 //// <0096> 笑顔で言われると恐い…。
 //// <0096> Что-то страшное было в её улыбке.
 
-<0097> \{\m{B}}Y-Yeah... My bad.
-//// <0097> \{\m{B}}「あ、ああ…わりぃ」
+<0097> \{Томоя}Y-Yeah... My bad.
+//// <0097> \{Томоя}「あ、ああ…わりぃ」
 //// <0097> \{Томоя}"Д-да... прости."
 
 <0098> \{芽衣}In the first place, I said I would become the cupid...
 //// <0098> \{芽衣}「そもそも、わたしがキューピッド役だって言ってるのに…」
 //// <0098> \{Мей}"Надо было сказать, что я стану купидоном не для него..."
 
-<0099> \{\m{B}}Then that means... you were talking about me?
-//// <0099> \{\m{B}}「そうだったな…ということは俺か」
+<0099> \{Томоя}Then that means... you were talking about me?
+//// <0099> \{Томоя}「そうだったな…ということは俺か」
 //// <0099> \{Томоя}"Значит... для меня."
 
-<0100> \{\m{B}}Wait! ME?!
-//// <0100> \{\m{B}}「って、俺！？」
+<0100> \{Томоя}Wait! ME?!
+//// <0100> \{Томоя}「って、俺！？」
 //// <0100> \{Томоя}"Эй, для меня?!"
 
 <0101> \{芽衣}Yes.
 //// <0101> \{芽衣}「はい」
 //// <0101> \{Мей}"Угу."
 
-<0102> \{\m{B}}Listen, Sunohara...
-//// <0102> \{\m{B}}「あのな、春原…」
+<0102> \{Томоя}Listen, Sunohara...
+//// <0102> \{Томоя}「あのな、春原…」
 //// <0102> \{Томоя}"Эй, Сунохара..."
 
-<0103> \{春原}What's the matter, \name{okazaki}?
-//// <0103> \{春原}「どうした、\m{A}」
+<0103> \{Сунохара}What's the matter, \name{okazaki}?
+//// <0103> \{Сунохара}「どうした、\m{A}」
 //// <0103> \{Сунохара}"Что, Оказаки?"
 
-<0104> \{\m{B}}Ever since I started visiting this room, I began to think a great deal about you.
-//// <0104> \{\m{B}}「この部屋に入り浸るようになってから、おまえのこと、たくさん考えるようになった」
+<0104> \{Томоя}Ever since I started visiting this room, I began to think a great deal about you.
+//// <0104> \{Томоя}「この部屋に入り浸るようになってから、おまえのこと、たくさん考えるようになった」
 //// <0104> \{Томоя}"Я часто думал о тебе с тех пор, как начал приходить к тебе."
 
-<0105> \{春原}Heh, like what?
-//// <0105> \{春原}「へぇ、どんなこと」
+<0105> \{Сунохара}Heh, like what?
+//// <0105> \{Сунохара}「へぇ、どんなこと」
 //// <0105> \{Сунохара}"Хех, почему это?"
 
-<0106> \{\m{B}}Things... I couldn't think of about other guys...
-//// <0106> \{\m{B}}「他の男相手には…考えもしなかったようなことだ…」
+<0106> \{Томоя}Things... I couldn't think of about other guys...
+//// <0106> \{Томоя}「他の男相手には…考えもしなかったようなことだ…」
 //// <0106> \{Томоя}"Ну, может быть... тут есть что-то большее..."
 
-<0107> \{\m{B}}After that, you know, inside of me, the way I look at you began to change more and more every day...
-//// <0107> \{\m{B}}「それで、俺の中で、どんどんおまえの見方が変わっていきやがった…」
+<0107> \{Томоя}After that, you know, inside of me, the way I look at you began to change more and more every day...
+//// <0107> \{Томоя}「それで、俺の中で、どんどんおまえの見方が変わっていきやがった…」
 //// <0107> \{Томоя}"А затем я начал понимать, что..."
 
-<0108> \{春原}I see. Then do I appear more like a friend you're proud to have now?
-//// <0108> \{春原}「そうか。少しは誇れる親友になったか？」
+<0108> \{Сунохара}I see. Then do I appear more like a friend you're proud to have now?
+//// <0108> \{Сунохара}「そうか。少しは誇れる親友になったか？」
 //// <0108> \{Сунохара}"Я понял. Ты подумал, что я стал для тебя близким другом, которым ты мог бы гордиться, да?"
 
-<0109> \{\m{B}}No... I can't feel proud about you...
-//// <0109> \{\m{B}}「いや…誇れはしねぇけど…」
+<0109> \{Томоя}No... I can't feel proud about you...
+//// <0109> \{Томоя}「いや…誇れはしねぇけど…」
 //// <0109> \{Томоя}"Ну... не то, чтобы мог гордиться..."
 
-<0110> \{春原}Tch. What's that supposed to mean...
-//// <0110> \{春原}「ちっ、なんだよ…」
+<0110> \{Сунохара}Tch. What's that supposed to mean...
+//// <0110> \{Сунохара}「ちっ、なんだよ…」
 //// <0110> \{Сунохара}"Тс, что же тогда...?"
 
-<0111> \{\m{B}}But I started feeling like... I want to run the route to school backward every morning with you in underwear!
-//// <0111> \{\m{B}}「でも、おまえとパンツ一丁で、朝の通学路を逆走したいって思えるようになったぜ！」
+<0111> \{Томоя}But I started feeling like... I want to run the route to school backward every morning with you in underwear!
+//// <0111> \{Томоя}「でも、おまえとパンツ一丁で、朝の通学路を逆走したいって思えるようになったぜ！」
 //// <0111> \{Томоя}"Ну, просто мне захотелось ходишь с тобой в школу под ручку, нося одинаковые трусы!"
 
-<0112> \{\m{B}}Oh, crap, I'm going to cry now!
-//// <0112> \{\m{B}}「やべぇ、シオシオだぁーっ！」
+<0112> \{Томоя}Oh, crap, I'm going to cry now!
+//// <0112> \{Томоя}「やべぇ、シオシオだぁーっ！」
 //// <0112> \{Томоя}"Вот чёрт, какой ужас!"
 
-<0113> \{\m{B}}Not to mention, what's so good about running that shitty route backward?!
-//// <0113> \{\m{B}}「しかも、んなもん逆走して、何が嬉しいんだっ」
+<0113> \{Томоя}Not to mention, what's so good about running that shitty route backward?!
+//// <0113> \{Томоя}「しかも、んなもん逆走して、何が嬉しいんだっ」
 //// <0113> \{Томоя}"Да с какого перепугу мне захочется пойти так в школу?!"
 
 <0114> \{芽衣}You're imagining something funny, aren't you?
 //// <0114> \{芽衣}「ヘンな想像してません？」
 //// <0114> \{Мей}"Ты же не подумал о чём-то странном, нет?"
 
-<0115> \{\m{B}}But think about it, Sunohara and me? How can I not cry imagining that?!
-//// <0115> \{\m{B}}「だって、俺と春原だろ？　そりゃシオシオだって」
+<0115> \{Томоя}But think about it, Sunohara and me? How can I not cry imagining that?!
+//// <0115> \{Томоя}「だって、俺と春原だろ？　そりゃシオシオだって」
 //// <0115> \{Томоя}"Но ведь это же я и Сунохара, да? Это просто ужасно."
 
 <0116> \{芽衣}But you two are both men, right?
 //// <0116> \{芽衣}「あの、おふたり、男同士ですよね」
 //// <0116> \{Мей}"Мм, вы же оба парни, разве нет?"
 
-<0117> \{\m{B}}Nah, that's exactly the reason.
-//// <0117> \{\m{B}}「いや、だから」
+<0117> \{Томоя}Nah, that's exactly the reason.
+//// <0117> \{Томоя}「いや、だから」
 //// <0117> \{Томоя}"Ну да."
 
 <0118> \{芽衣}\name{okazaki}-san, you seem to have the potential to become a novelist of that genre.
 //// <0118> \{芽衣}「\m{A}さん、そっち系の小説家にもなれますね」
 //// <0118> \{Мей}"Оказаки-сан, буйная у тебя фантазия, прямо для писателя, знаешь?"
 
-<0119> \{\m{B}}Well, to be honest, I'm not so confident when it comes to that field of science...
-//// <0119> \{\m{B}}「いや、いまいちそっちのセンスには自信ないが…」
+<0119> \{Томоя}Well, to be honest, I'm not so confident when it comes to that field of science...
+//// <0119> \{Томоя}「いや、いまいちそっちのセンスには自信ないが…」
 //// <0119> \{Томоя}"Ох, не думаю, что для писателя это нормально..."
 
 <0120> \{芽衣}In the first place, I don't understand why your partner has to be my brother.
 //// <0120> \{芽衣}「そもそも、どうして相手がおにいちゃんなのか、わからないんですけど」
 //// <0120> \{Мей}"Я даже не знаю, почему ты братца моего представил."
 
-<0121> \{\m{B}}Isn't that what you said? You wanted to be the cupid for Sunohara, right?
-//// <0121> \{\m{B}}「おまえが言ったんじゃないか。春原のキューピッド役を買ってでるって」
+<0121> \{Томоя}Isn't that what you said? You wanted to be the cupid for Sunohara, right?
+//// <0121> \{Томоя}「おまえが言ったんじゃないか。春原のキューピッド役を買ってでるって」
 //// <0121> \{Томоя}"Ты же что-то про него говорила?"
 
 <0122> \{芽衣}I don't remember saying anything like that.
@@ -495,52 +495,52 @@
 //// <0123> \{芽衣}「どうして、わたしがおにいちゃんの、そんな世話まで焼かないといけないんですか」
 //// <0123> \{Мей}"Да и вообще, с чего бы это мне делать для него что-то?"
 
-<0124> \{\m{B}}How should I know...
-//// <0124> \{\m{B}}「そりゃ俺に訊かれても困るけどさ…」
+<0124> \{Томоя}How should I know...
+//// <0124> \{Томоя}「そりゃ俺に訊かれても困るけどさ…」
 //// <0124> \{Томоя}"Ну, я не знаю..."
 
-<0125> \{\m{B}}Then, between whom and whom do you want to become the cupid for?
-//// <0125> \{\m{B}}「じゃあ、誰と誰のキューピッド役を買ってでるって言うんだよ」
+<0125> \{Томоя}Then, between whom and whom do you want to become the cupid for?
+//// <0125> \{Томоя}「じゃあ、誰と誰のキューピッド役を買ってでるって言うんだよ」
 //// <0125> \{Томоя}"Так тогда для кого ты станешь купидоном?"
 
 <0126> \{芽衣}Between you and Nagisa-san.
 //// <0126> \{芽衣}「\m{A}さんと渚さんの」
 //// <0126> \{Мей}"Для тебя и Нагисы-сан."
 
-<0127> \{\m{B}}Sorry?
-//// <0127> \{\m{B}}「はい？」
+<0127> \{Томоя}Sorry?
+//// <0127> \{Томоя}「はい？」
 //// <0127> \{Томоя}"Что?"
 
 <0128> \{芽衣}Can't I?
 //// <0128> \{芽衣}「ダメですか？」
 //// <0128> \{Мей}"Мне нельзя?"
 
-<0129> \{\m{B}}Listen...
-//// <0129> \{\m{B}}「あのな、おまえ…」
+<0129> \{Томоя}Listen...
+//// <0129> \{Томоя}「あのな、おまえ…」
 //// <0129> \{Томоя}"Можно вопрос..."
 
 <0130> \{芽衣}Yes.
 //// <0130> \{芽衣}「はい」
 //// <0130> \{Мей}"Да?"
 
-<0131> \{\m{B}}I'm already going out with her. Don't you know about that?
-//// <0131> \{\m{B}}「俺と渚は付き合ってんの。知らなかったのか？」
+<0131> \{Томоя}I'm already going out with her. Don't you know about that?
+//// <0131> \{Томоя}「俺と渚は付き合ってんの。知らなかったのか？」
 //// <0131> \{Томоя}"Ты что, не знаешь, что Нагиса моя девушка?"
 
 <0132> \{芽衣}Of course I know about that.
 //// <0132> \{芽衣}「もちろん知ってます」
 //// <0132> \{Мей}"Конечно знаю."
 
-<0133> \{\m{B}}So I don't need a cupid, do I?
-//// <0133> \{\m{B}}「じゃ、キューピッド役なんていらないだろ？」
+<0133> \{Томоя}So I don't need a cupid, do I?
+//// <0133> \{Томоя}「じゃ、キューピッド役なんていらないだろ？」
 //// <0133> \{Томоя}"Тогда тебе не нужно быть купидоном для нас, так?"
 
 <0134> \{芽衣}No, to be frank, you two haven't been honest with each other at all.
 //// <0134> \{芽衣}「いえ、ずばりおふたりは、まだ素直になれていないので」
 //// <0134> \{Мей}"Ну, ведь вы на самом деле серьёзно к этому не относитесь?"
 
-<0135> \{\m{B}}...
-//// <0135> \{\m{B}}「………」
+<0135> \{Томоя}...
+//// <0135> \{Томоя}「………」
 //// <0135> \{Томоя}"........."
 
 <0136> That's unexpected, coming from a girl younger than I am...
@@ -559,24 +559,24 @@
 //// <0139> \{芽衣}「ですよね？」
 //// <0139> \{Мей}"Так ведь?"
 
-<0140> \{\m{B}}Dunno... It's our intention to let it flow naturally, though...
-//// <0140> \{\m{B}}「さぁな…俺たちは自然なつもりでいるよ…」
+<0140> \{Томоя}Dunno... It's our intention to let it flow naturally, though...
+//// <0140> \{Томоя}「さぁな…俺たちは自然なつもりでいるよ…」
 //// <0140> \{Томоя}"Не знаю... мы собирались сходить на свидание..."
 
 <0141> \{芽衣}No, to put it clearly, there's a distance between you two. 
 //// <0141> \{芽衣}「いえ、はっきり言って、距離があります」
 //// <0141> \{Мей}"Нет, если ты скажешь ей это в открытую, то вы ещё больше отдалитесь."
 
-<0142> \{\m{B}}Is that so...
-//// <0142> \{\m{B}}「そうかよ…」
+<0142> \{Томоя}Is that so...
+//// <0142> \{Томоя}「そうかよ…」
 //// <0142> \{Томоя}"Правда...?"
 
 <0143> \{芽衣}Urban couples are supposed to be much more clingy.
 //// <0143> \{芽衣}「都会の恋人なんて、もっとベタベタしてますよ」
 //// <0143> \{Мей}"Может, влюблённым в больших городах стоит быть ближе?"
 
-<0144> \{\m{B}}It's fine 'cause we're a rural couple.
-//// <0144> \{\m{B}}「田舎だからいいんだよ」
+<0144> \{Томоя}It's fine 'cause we're a rural couple.
+//// <0144> \{Томоя}「田舎だからいいんだよ」
 //// <0144> \{Томоя}"А разве плохо иметь обычные отношения?"
 
 <0145> \{芽衣}But if you let it go on like this, your feelings for each other will dampen.
@@ -587,8 +587,8 @@
 //// <0146> \{芽衣}「渚さんも、寂しがっていました」
 //// <0146> \{Мей}"Нагиса-сан будет скучать по тебе."
 
-<0147> \{\m{B}}...Did she tell you that?
-//// <0147> \{\m{B}}「…おまえ、聞いたのかよ」
+<0147> \{Томоя}...Did she tell you that?
+//// <0147> \{Томоя}「…おまえ、聞いたのかよ」
 //// <0147> \{Томоя}"...Ты спрашивала у неё?"
 
 <0148> \{芽衣}Of course. The night between her and me was a long one.
@@ -603,8 +603,8 @@
 //// <0150> \{芽衣}「こんなのでいいのかな、って」
 //// <0150> \{Мей}"О том, хорошо ли вам быть парнем и девушкой."
 
-<0151> \{\m{B}}From there, it's just your speculation, right...?
-//// <0151> \{\m{B}}「途中から推測になってるだろ…」
+<0151> \{Томоя}From there, it's just your speculation, right...?
+//// <0151> \{Томоя}「途中から推測になってるだろ…」
 //// <0151> \{Томоя}"А ты сама обо всём догадалась, да...?"
 
 <0152> \{芽衣}Yeah, well, more or less.
@@ -619,16 +619,16 @@
 //// <0154> \{芽衣}「でも、\m{A}さんよりかは、同じ女性のわたしのほうが、そんな気持ち、わかると思いますよ？」
 //// <0154> \{Мей}"Ну, ведь такие, как я, всё-таки лучше разбираются в отношениях, чем ты, да, Оказаки-сан?"
 
-<0155> \{\m{B}}To me, it looks like you're just into that sort of topic...
-//// <0155> \{\m{B}}「俺には、ただ単に、おまえがそういった浮いた話が好きなだけに思えるがな…」
+<0155> \{Томоя}To me, it looks like you're just into that sort of topic...
+//// <0155> \{Томоя}「俺には、ただ単に、おまえがそういった浮いた話が好きなだけに思えるがな…」
 //// <0155> \{Томоя}"Ты говоришь прямо как обычная девушка..."
 
 <0156> \{芽衣}That's not true at all! I'm just earnestly worried about your future together.
 //// <0156> \{芽衣}「そんなことないですっ、真剣におふたりの今後を心配してるんです」
 //// <0156> \{Мей}"Вовсе нет, я и правда очень переживаю за вас двоих."
 
-<0157> \{\m{B}}Thank you for your unneeded kindness.
-//// <0157> \{\m{B}}「余計なお世話だよ」
+<0157> \{Томоя}Thank you for your unneeded kindness.
+//// <0157> \{Томоя}「余計なお世話だよ」
 //// <0157> \{Томоя}"Ну, тебя это не касается."
 
 <0158> \{芽衣}Please don't put it like that. I'm not trying to be kind or anything.
@@ -643,8 +643,8 @@
 //// <0160> \{芽衣}「もしわたしなんかの力で、ふたり仲が深まれば、と」
 //// <0160> \{Мей}"Вот поэтому я и хочу, чтобы ваши отношения стали крепче."
 
-<0161> \{\m{B}}You're... good with your words, aren't you...
-//// <0161> \{\m{B}}「おまえ…言葉うまいな…」
+<0161> \{Томоя}You're... good with your words, aren't you...
+//// <0161> \{Томоя}「おまえ…言葉うまいな…」
 //// <0161> \{Томоя}"А ты... неплохо умеешь убалтывать людей..."
 
 <0162> \{芽衣}They're all from my heart.
@@ -663,24 +663,24 @@
 //// <0165> \{芽衣}「\m{A}さんは、どんな渚さんになってほしいですか？」
 //// <0165> \{Мей}"Какой ты хочешь увидеть Нагису-сан?"
 
-<0166> \{\m{B}}Let's see... She tends to belittle herself too much.
-//// <0166> \{\m{B}}「そうだな…あいつは自分のことを卑下しすぎるからなぁ」
+<0166> \{Томоя}Let's see... She tends to belittle herself too much.
+//// <0166> \{Томоя}「そうだな…あいつは自分のことを卑下しすぎるからなぁ」
 //// <0166> \{Томоя}"Мм, ну... она всегда так старается."
 
-<0167> \{\m{B}}It would help if she could be more confident in herself.
-//// <0167> \{\m{B}}「自分に自信を持ってほしい」
+<0167> \{Томоя}It would help if she could be more confident in herself.
+//// <0167> \{Томоя}「自分に自信を持ってほしい」
 //// <0167> \{Томоя}"Хотелось бы, чтобы она была поувереннее в себе."
 
 <0168> \{芽衣}How much confidence are we talking about?
 //// <0168> \{芽衣}「どのぐらいですか」
 //// <0168> \{Мей}"Насколько?"
 
-<0169> \{\m{B}}I don't mind even if she becomes a narcissist. Maybe that would be just right.
-//// <0169> \{\m{B}}「もう、ナルシストなぐらいで、ちょうどいいんじゃないか？」
+<0169> \{Томоя}I don't mind even if she becomes a narcissist. Maybe that would be just right.
+//// <0169> \{Томоя}「もう、ナルシストなぐらいで、ちょうどいいんじゃないか？」
 //// <0169> \{Томоя}"Ну, просто, чтобы она была довольна собой."
 
-<0170> \{\m{B}}Like "I'm incredibly cute, so I can do anything I want!"... that much...
-//// <0170> \{\m{B}}「こんな可愛いわたしだから、何しちゃってもＯＫ！みたいなさ…」
+<0170> \{Томоя}Like "I'm incredibly cute, so I can do anything I want!"... that much...
+//// <0170> \{Томоя}「こんな可愛いわたしだから、何しちゃってもＯＫ！みたいなさ…」
 //// <0170> \{Томоя}"И говорила что-то вроде: 'Я такая милая, и всё так классно!'..."
 
 <0171> Hold on... What the heck am I saying?
@@ -703,68 +703,68 @@
 //// <0175> やめさせる
 //// <0175> Остановить её
 
-<0176> \{\m{B}}You can go ahead and do it...
-//// <0176> \{\m{B}}「好きにすればいいけどさ…」
+<0176> \{Томоя}You can go ahead and do it...
+//// <0176> \{Томоя}「好きにすればいいけどさ…」
 //// <0176> \{Томоя}"Думаю, ты можешь попытаться..."
 
-<0177> \{\m{B}}But do you understand who you're dealing with here? It's Nagisa the super late bloomer.
-//// <0177> \{\m{B}}「でも相手は、あの超奥手な渚だぞ？」
+<0177> \{Томоя}But do you understand who you're dealing with here? It's Nagisa the super late bloomer.
+//// <0177> \{Томоя}「でも相手は、あの超奥手な渚だぞ？」
 //// <0177> \{Томоя}"Но ведь это же супер-стеснительная Нагиса, так ведь?"
 
 <0178> \{芽衣}I think that would completely depend on how seriously Nagisa-san thinks about her relationship with you.
 //// <0178> \{芽衣}「それは、渚さんがどれだけ\m{A}さんのことを真剣に考えているかによるでしょうね」
 //// <0178> \{Мей}"Как думаешь, сколько Нагиса думала об этом?"
 
-<0179> \{\m{B}}Your putting it like that only makes me feel more worried...
-//// <0179> \{\m{B}}「それ考えると、余計に不安なんだけど…」
+<0179> \{Томоя}Your putting it like that only makes me feel more worried...
+//// <0179> \{Томоя}「それ考えると、余計に不安なんだけど…」
 //// <0179> \{Томоя}"Мне даже неловко как-то стало думать о таком..."
 
 <0180> \{芽衣}I'll do everything in my power.
 //// <0180> \{芽衣}「わたしも、できるだけのことはやってみますので」
 //// <0180> \{Мей}"И мне. Ладно, сделаю, что смогу."
 
-<0181> \{\m{B}}Yeah, and I'll wait for your results without expecting anything.
-//// <0181> \{\m{B}}「ああ、期待しないで待ってるよ」
+<0181> \{Томоя}Yeah, and I'll wait for your results without expecting anything.
+//// <0181> \{Томоя}「ああ、期待しないで待ってるよ」
 //// <0181> \{Томоя}"Ага, я буду ждать, но не ожидаю больших изменений."
 
 <0182> \{芽衣}Yes.
 //// <0182> \{芽衣}「はい」
 //// <0182> \{Мей}"Ладно."
 
-<0183> \{\m{B}}You don't have to do that.
-//// <0183> \{\m{B}}「んなもんやらなくていい」
+<0183> \{Томоя}You don't have to do that.
+//// <0183> \{Томоя}「んなもんやらなくていい」
 //// <0183> \{Томоя}"Тебе не нужно делать этого."
 
-<0184> \{\m{B}}I'm fine with the way Nagisa is right now. More than enough for me.
-//// <0184> \{\m{B}}「俺は、今の渚でいいよ。十分すぎるぐらいだ」
+<0184> \{Томоя}I'm fine with the way Nagisa is right now. More than enough for me.
+//// <0184> \{Томоя}「俺は、今の渚でいいよ。十分すぎるぐらいだ」
 //// <0184> \{Томоя}"Мне хватает и такой Нагисы."
 
 <0185> \{芽衣}But don't you want Nagisa-san to improve herself even just a little?
 //// <0185> \{芽衣}「でも、もうちょっと、渚さんに踏み込んできてほしいと思いませんか？」
 //// <0185> \{Мей}"Но ведь было бы лучше, если бы Нагиса немного изменилась?"
 
-<0186> \{\m{B}}Well, I wouldn't deny it...
-//// <0186> \{\m{B}}「まぁ、そりゃあな…」
+<0186> \{Томоя}Well, I wouldn't deny it...
+//// <0186> \{Томоя}「まぁ、そりゃあな…」
 //// <0186> \{Томоя}"Ну..."
 
 <0187> \{芽衣}Then, please let me handle her self-reform process.
 //// <0187> \{芽衣}「では、その意識改革、わたしに任せてください」
 //// <0187> \{Мей}"Так давай я помогу."
 
-<0188> \{\m{B}}I already said you don't have to.
-//// <0188> \{\m{B}}「いいっての」
+<0188> \{Томоя}I already said you don't have to.
+//// <0188> \{Томоя}「いいっての」
 //// <0188> \{Томоя}"Я сказал же, всё нормально."
 
-<0189> \{\m{B}}If you have time to do something like that, go play more.
-//// <0189> \{\m{B}}「んなことやってる暇があるんだったら、遊べ」
+<0189> \{Томоя}If you have time to do something like that, go play more.
+//// <0189> \{Томоя}「んなことやってる暇があるんだったら、遊べ」
 //// <0189> \{Томоя}"Если у тебя так много свободного времени, то лучше иди и погуляй."
 
-<0190> \{\m{B}}You can take Nagisa around with you tomorrow.
-//// <0190> \{\m{B}}「明日は、渚、連れ回していいから」
+<0190> \{Томоя}You can take Nagisa around with you tomorrow.
+//// <0190> \{Томоя}「明日は、渚、連れ回していいから」
 //// <0190> \{Томоя}"Вместе с Нагисой."
 
-<0191> \{\m{B}}There isn't much in this town, but... go make some good memories between the two of you.
-//// <0191> \{\m{B}}「何もない町だけどさ…いい思い出作ってけよ」
+<0191> \{Томоя}There isn't much in this town, but... go make some good memories between the two of you.
+//// <0191> \{Томоя}「何もない町だけどさ…いい思い出作ってけよ」
 //// <0191> \{Томоя}"Ведь ты должна уехать из города с хорошими воспоминаниями... так ведь?"
 
 <0192> \{芽衣}Thank you very much.
@@ -775,16 +775,16 @@
 //// <0193> \{芽衣}「\m{A}さん、渚さんが言う通り、口は悪いけど、いい人ですね」
 //// <0193> \{Мей}"Ты и правда такой, как о тебе говорит Нагиса. Ты часто грубишь, но на самом деле ты добрый человек."
 
-<0194> \{\m{B}}Is that so...
-//// <0194> \{\m{B}}「そうかよ…」
+<0194> \{Томоя}Is that so...
+//// <0194> \{Томоя}「そうかよ…」
 //// <0194> \{Томоя}"Правда...?"
 
 <0195> \{芽衣}Well, I should get going for today.
 //// <0195> \{芽衣}「それでは、今日は戻ります」
 //// <0195> \{Мей}"Что ж, тогда я вернусь завтра."
 
-<0196> \{\m{B}}Yeah, be careful on your way.
-//// <0196> \{\m{B}}「ああ、気をつけてな」
+<0196> \{Томоя}Yeah, be careful on your way.
+//// <0196> \{Томоя}「ああ、気をつけてな」
 //// <0196> \{Томоя}"Ага, будь осторожна."
 
 <0197> \{芽衣}Yes, see you tomorrow.

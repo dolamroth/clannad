@@ -107,8 +107,8 @@
 //// <0026> 離れて正解だったのかもしれないな…。
 //// <0026> ...они правильно поступили, отделившись друг от друга.
 
-<0027> \{\m{B}}(Turning into this sort of family would be terrible...)
-//// <0027> \{\m{B}}（こんな家族になってしまったら、最悪だからな…）
+<0027> \{Томоя}(Turning into this sort of family would be terrible...)
+//// <0027> \{Томоя}（こんな家族になってしまったら、最悪だからな…）
 //// <0027> \{Томоя}(Ведь быть частью семьи, это худшее что можно желать...)
 
 <0028> Maybe I'm tired. As I'm in the middle of changing clothes, fatigue strikes me.
@@ -123,8 +123,8 @@
 //// <0030> そのままベッドに倒れ込む。
 //// <0030> Я валюсь на кровать.
 
-<0031> \{\m{B}}I wish everything could be different when I wake up next...
-//// <0031> \{\m{B}}（起きたら、何もかもが変わってたらいいのに…）
+<0031> \{Томоя}I wish everything could be different when I wake up next...
+//// <0031> \{Томоя}（起きたら、何もかもが変わってたらいいのに…）
 //// <0031> \{Томоя}(Вот бы всё изменилось, когда я открою глаза...)
 
 <0032> But I know.
