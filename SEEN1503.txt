@@ -83,7 +83,7 @@
 //// <0020> \{Сунохара}「いでぇ、なにすんだよっっ！」
 //// <0020> \{Сунохара}"Ау, чё ты творишь?!"
 
-<0021> \{\l{A}}\name{tomoya}-kun, don't you feel sorry for Sunohara-san, suddenly hitting him like that?
+<0021> \{\l{A}}Томоя-kun, don't you feel sorry for Sunohara-san, suddenly hitting him like that?
 //// <0021> \{\l{A}}「\s{strS[0]}、いきなり叩いたら、春原さんが可哀想です」
 //// <0021> \{\s{strS[1800]}}"\s{strS[0]}, нельзя бить его ни с того ни с сего."
 
@@ -1931,7 +1931,7 @@
 //// <0482> 早苗さんは、やけに生徒の扱いに手慣れていた。
 //// <0482> Санае-сан знает подход к ученикам.
 
-<0483> \{Томоя}\name{tomoya} \name{okazaki}. I'm the school's official loafer.
+<0483> \{Томоя}Томоя \name{okazaki}. I'm the school's official loafer.
 //// <0483> \{Томоя}「\m{A}\m{B}っす。学校ではぐぅたらやってます」
 //// <0483> \{Томоя}"Оказаки Томоя. Моё хобби - слоняться по школе."*
 

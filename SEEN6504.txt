@@ -203,7 +203,7 @@
 //// <0050> \{Нагиса}「本当ですかっ、とても楽しみです」
 //// <0050> \{Нагиса}"Правда? Жду с нетерпением."
 
-<0051> \{Нагиса}\name{tomoya}-kun, is it okay to forget about the play for just one day to go have fun?
+<0051> \{Нагиса}Томоя-kun, is it okay to forget about the play for just one day to go have fun?
 //// <0051> \{Нагиса}「\m{B}くん、一日、演劇のこと忘れて遊んでもいいですか」
 //// <0051> \{Нагиса}"Томоя-кун, может, стоит отвлечься на денёк и просто отдохнуть?"
 

@@ -1327,7 +1327,7 @@
 //// <0331> \{Томоя}「大体、噂なんて堂々と否定すればいいだけだろ」
 //// <0331> \{Томоя}"Во первых, отрицания вполне бы хватило!"
 
-<0332> \{Томоя}She just has to say, "I'm not going out with \name{tomoya} \name{okazaki}," and that would solve the problem!
+<0332> \{Томоя}She just has to say, "I'm not going out with Томоя \name{okazaki}," and that would solve the problem!
 //// <0332> \{Томоя}「『あたしは\m{A}\m{B}と付き合ってない』って、そう言えば済むことじゃないか」
 //// <0332> \{Томоя}"Сказала бы: 'Я не встречаюсь с Оказаки Томоя', вот и всё!"
 
