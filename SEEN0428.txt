@@ -1394,8 +1394,8 @@
 //// <0347> その向こうに、長身の人影。
 //// <0347> ...виднелась фигура высокого человека.
 
-<0348> \{声}Thank you, you're far too kind...
-//// <0348> \{声}「アンコールありがとう…」
+<0348> \{Голос}Thank you, you're far too kind...
+//// <0348> \{Голос}「アンコールありがとう…」
 //// <0348> \{Голос}"Спасибо за вызов на бис..."
 
 <0349> I think I hear a voice say the words. They're the words of a performer thanking their adoring fans who beg for an encore.

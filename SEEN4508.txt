@@ -735,8 +735,8 @@
 //// <0183> もう一度会釈して、俺は職員室を後にした。
 //// <0183> Я кивнул ещё раз и покинул учительскую.
 
-<0184> \{声}\name{tomoya}-kun, hello.
-//// <0184> \{声}「\m{B}くん、こんにちは」
+<0184> \{Голос}\name{tomoya}-kun, hello.
+//// <0184> \{Голос}「\m{B}くん、こんにちは」
 //// <0184> \{Голос}"Томоя-кун, привет."
 
 <0185> The usual greeting.
@@ -2467,8 +2467,8 @@
 //// <0616> \{ことみ}「…もしもし」
 //// <0616> \{Котоми}"... алло?"
 
-<0617> \{声}Hello, I'm from the newspaper reporting department. I would like to confirm a few things regarding the accident.
-//// <0617> \{声}『…新聞社報道部の者ですが、今回の事故につきまして、二、三確認させていただきたいのですが…』
+<0617> \{Голос}Hello, I'm from the newspaper reporting department. I would like to confirm a few things regarding the accident.
+//// <0617> \{Голос}『…新聞社報道部の者ですが、今回の事故につきまして、二、三確認させていただきたいのですが…』
 //// <0617> \{Голос}"Я из информационного отдела одной из газет, я хотел бы услышать подтверждение по некоторым фактам..."
 
 <0618> It was the voice of a stranger.
@@ -2479,12 +2479,12 @@
 //// <0619> \{ことみ}「わたし、なんにもしらないの」
 //// <0619> \{Котоми}"Я ничего не знаю."
 
-<0620> \{声}Hello, miss. Are you Kotomi Ichinose-san? Do you have a minute to talk to me?
-//// <0620> \{声}『お嬢ちゃん、もしかして一ノ瀬ことみさん？　なら、ちょっとお話を聞かせてもらえるかな？』
+<0620> \{Голос}Hello, miss. Are you Kotomi Ichinose-san? Do you have a minute to talk to me?
+//// <0620> \{Голос}『お嬢ちゃん、もしかして一ノ瀬ことみさん？　なら、ちょっとお話を聞かせてもらえるかな？』
 //// <0620> \{Голос}"Вы должно быть Ичиносе Котоми-сан, юная леди? Если так, то прошу Вас меня выслушать?"
 
-<0621> \{声}It pains me to ask you this while your parents are still missing, but...
-//// <0621> \{声}『ご両親がまだ見つかっていない時に、こんなことを聞くのは心苦しいんだけど…』
+<0621> \{Голос}It pains me to ask you this while your parents are still missing, but...
+//// <0621> \{Голос}『ご両親がまだ見つかっていない時に、こんなことを聞くのは心苦しいんだけど…』
 //// <0621> \{Голос}"Мне очень жаль, что ваших родителей так и не нашли..."
 
 <0622> \{ことみ}I don't know anything...
