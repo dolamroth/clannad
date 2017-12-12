@@ -1999,7 +1999,7 @@
 //// <0499> \{椋}「わかりました」
 //// <0499> \{Рё}"Понятно."
 
-<0500> \{椋}According to the fortune, \name{okazaki}-san, you have schizophrenia.
+<0500> \{椋}According to the fortune, Оказаки-san, you have schizophrenia.
 //// <0500> \{椋}「占いの結果、\m{A}さんは分裂症と診断されました」
 //// <0500> \{Рё}"Судьба говорит мне, что у Оказаки-сана ужасная шизофрения."
 
@@ -2015,40 +2015,40 @@
 //// <0503> \{Томоя}「………」
 //// <0503> \{Томоя}"........."
 
-<0504> \{杏}Stop it, Ryou. He's my patient.
-//// <0504> \{杏}「ダメよ、椋。そいつはあたしの患者よ」
+<0504> \{Кё}Stop it, Ryou. He's my patient.
+//// <0504> \{Кё}「ダメよ、椋。そいつはあたしの患者よ」
 //// <0504> \{Кё}"Не надо, Рё. Он мой пациент."
 
 <0505> \{Томоя}I knew you'd be showing up soon.
 //// <0505> \{Томоя}「…そろそろ登場だろうと思ったけどな」
 //// <0505> \{Томоя}"Думаю, пора тебе уже понять..."
 
-<0506> \{杏}Hey, doesn't this room smell?
-//// <0506> \{杏}「っていうか、この部屋なーんか臭くない？」
+<0506> \{Кё}Hey, doesn't this room smell?
+//// <0506> \{Кё}「っていうか、この部屋なーんか臭くない？」
 //// <0506> \{Кё}"Кстати, тебе не кажется, что здесь воняет?"
 
 <0507> \{Томоя}It's because Furukawa is boiling bread.
 //// <0507> \{Томоя}「古河がパンを煮てるせいだな」
 //// <0507> \{Томоя}"Это из-за того, что Фурукава варит хлеб."
 
-<0508> \{杏}The aroma of boiled bread soaks up a person's sanity like a sponge.
-//// <0508> \{杏}「パンを煮る香気はじつに人間の心理を不健康にするものなのよ」
+<0508> \{Кё}The aroma of boiled bread soaks up a person's sanity like a sponge.
+//// <0508> \{Кё}「パンを煮る香気はじつに人間の心理を不健康にするものなのよ」
 //// <0508> \{Кё}"Да, этот запах не очень полезен человеку."
 
 <0509> \{Томоя}I don't understand what you're saying, and the way you're talking is weird, too.
 //// <0509> \{Томоя}「言ってることが意味不明だし、セリフ回しも妙なことになってるぞ」
 //// <0509> \{Томоя}"Ты несёшь бессмыслицу."
 
-<0510> \{杏}That's caused by the aroma of the boiled bread.
-//// <0510> \{杏}「それもまったくパンを煮る香気のためね」
+<0510> \{Кё}That's caused by the aroma of the boiled bread.
+//// <0510> \{Кё}「それもまったくパンを煮る香気のためね」
 //// <0510> \{Кё}"Это из-за запаха кипячённого хлеба."
 
 <0511> \{Томоя}I know this is a dream. It's a dream, right? Even you wouldn't talk complete nonsense like this unless it were a dream.
 //// <0511> \{Томоя}「つーかこれ夢だろ？　夢だよな？　いくらおまえらでも、夢でなきゃここまで支離滅裂になるわけ…」
 //// <0511> \{Томоя}"Это же сон, так? Это ведь точно? Потому что вне зависимости от того, что происходит, это всё сон."
 
-<0512> \{杏}It's your fault for not buying something delicious faster.
-//// <0512> \{杏}「早くうまいものを買ってこないか」
+<0512> \{Кё}It's your fault for not buying something delicious faster.
+//// <0512> \{Кё}「早くうまいものを買ってこないか」
 //// <0512> \{Кё}"Не хочешь купить чего-нибудь вкусненького?"
 
 <0513> \{Томоя}At least listen to me in my own dream!

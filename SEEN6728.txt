@@ -203,7 +203,7 @@
 //// <0050> \{Мэй}「はい」
 //// <0050> \{Мэй}"Да."
 
-<0051> \{Мэй}Ah, Onii-chan, I have something to talk about with \name{okazaki}-san, so could you go out for a while?
+<0051> \{Мэй}Ah, Onii-chan, I have something to talk about with Оказаки-san, so could you go out for a while?
 //// <0051> \{Мэй}「あ、おにいちゃん、\m{A}さんとふたりで話したいから、外に出てて」
 //// <0051> \{Мэй}"Ох, братец, мне нужно поговорить с Оказаки-саном наедине, можешь выйти?"
 
@@ -371,7 +371,7 @@
 //// <0092> \{Томоя}「いや、だから」
 //// <0092> \{Томоя}"Ясно."
 
-<0093> \{Мэй}\name{okazaki}-san, you seem to have the potential to become an erotic novelist.
+<0093> \{Мэй}Оказаки-san, you seem to have the potential to become an erotic novelist.
 //// <0093> \{Мэй}「\m{A}さん、エッチな小説家になれますね」
 //// <0093> \{Мэй}"Оказаки-сан, а ты прямо как извращенец, да?"
 
@@ -411,7 +411,7 @@
 //// <0102> \{Томоя}「あのな、春原…」
 //// <0102> \{Томоя}"Эй, Сунохара..."
 
-<0103> \{Сунохара}What's the matter, \name{okazaki}?
+<0103> \{Сунохара}What's the matter, Оказаки?
 //// <0103> \{Сунохара}「どうした、\m{A}」
 //// <0103> \{Сунохара}"Что, Оказаки?"
 
@@ -471,7 +471,7 @@
 //// <0117> \{Томоя}「いや、だから」
 //// <0117> \{Томоя}"Ну да."
 
-<0118> \{Мэй}\name{okazaki}-san, you seem to have the potential to become a novelist of that genre.
+<0118> \{Мэй}Оказаки-san, you seem to have the potential to become a novelist of that genre.
 //// <0118> \{Мэй}「\m{A}さん、そっち系の小説家にもなれますね」
 //// <0118> \{Мэй}"Оказаки-сан, буйная у тебя фантазия, прямо для писателя, знаешь?"
 
@@ -615,7 +615,7 @@
 //// <0153> だんだんと怪しくなってきた。
 //// <0153> Стало довольно-таки любопытно.
 
-<0154> \{Мэй}But, with my being a girl and all, don't you think I can understand her feelings better than you, \name{okazaki}-san?
+<0154> \{Мэй}But, with my being a girl and all, don't you think I can understand her feelings better than you, Оказаки-san?
 //// <0154> \{Мэй}「でも、\m{A}さんよりかは、同じ女性のわたしのほうが、そんな気持ち、わかると思いますよ？」
 //// <0154> \{Мэй}"Ну, ведь такие, как я, всё-таки лучше разбираются в отношениях, чем ты, да, Оказаки-сан?"
 

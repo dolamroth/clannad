@@ -19,8 +19,8 @@
 //// <0004> おぼつかない動きで、敵にやられる主人公。
 //// <0004> Играя в файтинг, она неуклюже нажимала на кнопки и постоянно пропускала удары компьютерного противника.
 
-<0005> \{智代}I really don't agree with what happened just now.
-//// <0005> \{智代}「納得いかないぞ、今のは」
+<0005> \{Томоё}I really don't agree with what happened just now.
+//// <0005> \{Томоё}「納得いかないぞ、今のは」
 //// <0005> \{Томоё}"Ничего не понимаю."
 
 <0006> It was just so much fun.
@@ -59,8 +59,8 @@
 //// <0014> \{Томоя}「そろそろ、聞かせてくれないか」
 //// <0014> \{Томоя}"Я бы хотел у тебя кое-что спросить."
 
-<0015> \{智代}Tell you what?
-//// <0015> \{智代}「何を」
+<0015> \{Томоё}Tell you what?
+//// <0015> \{Томоё}「何を」
 //// <0015> \{Томоё}"Что именно?"
 
 <0016> \{Томоя}Why you want to enter the student council.
@@ -75,16 +75,16 @@
 //// <0018> \{Томоя}「俺、彼氏なんだし」
 //// <0018> \{Томоя}"Я ведь твой парень, мне можно рассказать?"
 
-<0019> \{智代}You really want to know?
-//// <0019> \{智代}「本当に、聞きたいのか？」
+<0019> \{Томоё}You really want to know?
+//// <0019> \{Томоё}「本当に、聞きたいのか？」
 //// <0019> \{Томоё}"Ты правда хочешь знать?"
 
 <0020> \{Томоя}Yeah, I'd like to know.
 //// <0020> \{Томоя}「ああ、聞きたいね」
 //// <0020> \{Томоя}"Да, расскажи пожалуйста."
 
-<0021> \{智代}It's not at all interesting, you know.
-//// <0021> \{智代}「おもしろくもない話だぞ」
+<0021> \{Томоё}It's not at all interesting, you know.
+//// <0021> \{Томоё}「おもしろくもない話だぞ」
 //// <0021> \{Томоё}"Тут нет ничего особо интересного..."
 
 <0022> \{Томоя}I wasn't expecting it to be interesting.
@@ -95,28 +95,28 @@
 //// <0023> \{Томоя}「ただ、おまえの話だから聞きたい。それだけだよ」
 //// <0023> \{Томоя}"Просто хочу услышать, что ты скажешь, вот и всё."
 
-<0024> \{智代}I see...
-//// <0024> \{智代}「そうか…」
+<0024> \{Томоё}I see...
+//// <0024> \{Томоё}「そうか…」
 //// <0024> \{Томоё}"Вот как..."
 
-<0025> \{智代}Then I guess it can't be helped.
-//// <0025> \{智代}「なら、仕方がないな」
+<0025> \{Томоё}Then I guess it can't be helped.
+//// <0025> \{Томоё}「なら、仕方がないな」
 //// <0025> \{Томоё}"Тогда ладно."
 
-<0026> \{智代}I'll tell you.
-//// <0026> \{智代}「話してやる」
+<0026> \{Томоё}I'll tell you.
+//// <0026> \{Томоё}「話してやる」
 //// <0026> \{Томоё}"Расскажу тебе."
 
 <0027> Tomoyo looks yearningly into the setting sun.
 //// <0027> 智代は西日に目を細めた。
 //// <0027> Томоё улыбнулась в свете заходящего солнца.
 
-<0028> \{智代}Many people have a reason for not going wild.
-//// <0028> \{智代}「多くの人間には、荒れない理由がある」
+<0028> \{Томоё}Many people have a reason for not going wild.
+//// <0028> \{Томоё}「多くの人間には、荒れない理由がある」
 //// <0028> \{Томоё}"У большинства людей есть нечто, что не позволяет им сбиться с пути."
 
-<0029> \{智代}Do you know what that reason is?
-//// <0029> \{智代}「それが何かわかるか」
+<0029> \{Томоё}Do you know what that reason is?
+//// <0029> \{Томоё}「それが何かわかるか」
 //// <0029> \{Томоё}"Ты знаешь, что бы это могло быть?"
 
 <0030> \{Томоя}Hmm, let's see...
@@ -131,56 +131,56 @@
 //// <0032> \{Томоя}「才能があれば、やることが明確になる。それに夢中になればいい」
 //// <0032> \{Томоя}"Если у тебя есть талант, то становиться очевидным чем тебе нужно заняться в жизни. То же самое, если у тебя есть мечта."
 
-<0033> \{智代}You're quite smart, aren't you?
-//// <0033> \{智代}「おまえ、頭いいな」
+<0033> \{Томоё}You're quite smart, aren't you?
+//// <0033> \{Томоё}「おまえ、頭いいな」
 //// <0033> \{Томоё}"Неплохие примеры."
 
 <0034> \{Томоя}What, I was right...?
 //// <0034> \{Томоя}「正解なのかよ…」
 //// <0034> \{Томоя}"Но я не угадал, да...?"
 
-<0035> \{智代}But what do you do if you don't have any talent?
-//// <0035> \{智代}「けど、才能がなければどうする？」
+<0035> \{Томоё}But what do you do if you don't have any talent?
+//// <0035> \{Томоё}「けど、才能がなければどうする？」
 //// <0035> \{Томоё}"А что делать, если у человека нет какого-то определённого таланта?"
 
-<0036> \{智代}Talent isn't something an ordinary person has.
-//// <0036> \{智代}「才能は凡人じゃない人間だけが持てるものだ」
+<0036> \{Томоё}Talent isn't something an ordinary person has.
+//// <0036> \{Томоё}「才能は凡人じゃない人間だけが持てるものだ」
 //// <0036> \{Томоё}"Ведь известность обретают только люди неординарные и с большим талантом."
 
-<0037> \{智代}What's an ordinary person supposed to do?
-//// <0037> \{智代}「凡人はどうすればいい」
+<0037> \{Томоё}What's an ordinary person supposed to do?
+//// <0037> \{Томоё}「凡人はどうすればいい」
 //// <0037> \{Томоё}"А что делать обычным людям?"
 
 <0038> \{Томоя}Love. They just have to fall in love.
 //// <0038> \{Томоя}「恋だ。恋をすればいい」
 //// <0038> \{Томоя}"Любовь. Любовь заставляет человека совершать подвиги."
 
-<0039> \{智代}Ugh, that's so sweet I'm gonna get cavities.
-//// <0039> \{智代}「歯が浮くようなことを言うな」
+<0039> \{Томоё}Ugh, that's so sweet I'm gonna get cavities.
+//// <0039> \{Томоё}「歯が浮くようなことを言うな」
 //// <0039> \{Томоё}"Не говори об этом так, словно хвастаешься этим."
 
 <0040> ...But aren't the two of us in love right now?
 //// <0040> …してるじゃん、俺たち。
 //// <0040> ... а разве мы не всё время это делаем?
 
-<0041> \{智代}Not to mention, if your love ended up unrequited, it'd be horrible...
-//// <0041> \{智代}「それに恋は報われなければ、最悪だぞ…」
+<0041> \{Томоё}Not to mention, if your love ended up unrequited, it'd be horrible...
+//// <0041> \{Томоё}「それに恋は報われなければ、最悪だぞ…」
 //// <0041> \{Томоё}"К тому же, если твоя любовь не взаимна, у тебя ничего не будет..."
 
 <0042> \{Томоя}That's true...
 //// <0042> \{Томоя}「だな…」
 //// <0042> \{Томоя}"Пожалуй..."
 
-<0043> \{智代}You still don't know?
-//// <0043> \{智代}「わからないか」
+<0043> \{Томоё}You still don't know?
+//// <0043> \{Томоё}「わからないか」
 //// <0043> \{Томоё}"Ещё догадки есть?"
 
-<0044> \{智代}The answer is very close to you.
-//// <0044> \{智代}「答えはとても近くにある」
+<0044> \{Томоё}The answer is very close to you.
+//// <0044> \{Томоё}「答えはとても近くにある」
 //// <0044> \{Томоё}"Ты подобрался довольно близко."
 
-<0045> \{智代}Well, it's probably because it's so close that nobody ever notices it.
-//// <0045> \{智代}「いや、近くにあるからこそ、誰も気づかない」
+<0045> \{Томоё}Well, it's probably because it's so close that nobody ever notices it.
+//// <0045> \{Томоё}「いや、近くにあるからこそ、誰も気づかない」
 //// <0045> \{Томоё}"Хотя, даже находясь так близко к истине, её вряд ли кто обнаружит."
 
 <0046> When she said those words, I somehow felt like I knew what she meant.
@@ -195,8 +195,8 @@
 //// <0048> 俺にとっては。
 //// <0048> По какой-то причине.
 
-<0049> \{智代}The answer is family.
-//// <0049> \{智代}「答えは家族だ」
+<0049> \{Томоё}The answer is family.
+//// <0049> \{Томоё}「答えは家族だ」
 //// <0049> \{Томоё}"Семья."
 
 <0050> I was right on the money.
@@ -211,12 +211,12 @@
 //// <0052> \{Томоя}「例えば、俺のようにな…」
 //// <0052> \{Томоя}"Как например в моей..."
 
-<0053> \{智代}You're not actually going wild though, are you?
-//// <0053> \{智代}「おまえは荒れてるんじゃないだろ？」
+<0053> \{Томоё}You're not actually going wild though, are you?
+//// <0053> \{Томоё}「おまえは荒れてるんじゃないだろ？」
 //// <0053> \{Томоё}"Но ты ведь не сбился с пути?"
 
-<0054> \{智代}It only looks that way because your waking time's shifted a bit.
-//// <0054> \{智代}「たまたま、生活時間をずらして暮らしてるからそう見えるだけだ」
+<0054> \{Томоё}It only looks that way because your waking time's shifted a bit.
+//// <0054> \{Томоё}「たまたま、生活時間をずらして暮らしてるからそう見えるだけだ」
 //// <0054> \{Томоё}"Чья-то жизнь порой похожа на лежачий камень."
 
 <0055> \{Томоя}Well, I guess.
@@ -227,28 +227,28 @@
 //// <0056> \{Томоя}「でも家族が鬱陶しくて荒れてる奴は実際いるだろ？」
 //// <0056> \{Томоя}"Но разве нет проблемных семей с разногласиями и ссорами?"
 
-<0057> \{智代}Yeah, I guess there are.
-//// <0057> \{智代}「ああ、いるな」
+<0057> \{Томоё}Yeah, I guess there are.
+//// <0057> \{Томоё}「ああ、いるな」
 //// <0057> \{Томоё}"Есть, конечно."
 
-<0058> \{智代}Those people are just being shameful.
-//// <0058> \{智代}「そいつらは恥ずかしいだけだろう」
+<0058> \{Томоё}Those people are just being shameful.
+//// <0058> \{Томоё}「そいつらは恥ずかしいだけだろう」
 //// <0058> \{Томоё}"Просто это не всегда хотят признавать."
 
-<0059> \{智代}They'll notice that themselves when they get more life experience.
-//// <0059> \{智代}「もっと経験を積めばわかる」
+<0059> \{Томоё}They'll notice that themselves when they get more life experience.
+//// <0059> \{Томоё}「もっと経験を積めばわかる」
 //// <0059> \{Томоё}"Мне очень хорошо об этом известно."
 
 <0060> \{Томоя}Are you serious...?
 //// <0060> \{Томоя}「マジかよ…」
 //// <0060> \{Томоя}"В самом деле..."
 
-<0061> \{智代}Your family doesn't even have to be your real family. It's fine if they're just friends.
-//// <0061> \{智代}「家族は、本当の家族でなくてもいい。仲間でもいい」
+<0061> \{Томоё}Your family doesn't even have to be your real family. It's fine if they're just friends.
+//// <0061> \{Томоё}「家族は、本当の家族でなくてもいい。仲間でもいい」
 //// <0061> \{Томоё}"Не важно, кровные вы родственники или нет. Даже друзья могут быть твоей семьёй."
 
-<0062> \{智代}They're just an existence that feels like family.
-//// <0062> \{智代}「家族のような存在、ということだ」
+<0062> \{Томоё}They're just an existence that feels like family.
+//// <0062> \{Томоё}「家族のような存在、ということだ」
 //// <0062> \{Томоё}"Я считаю, что в этом смысл семьи."
 
 <0063> \{Томоя}In that case, I feel like I sort of do understand, but...
@@ -259,104 +259,104 @@
 //// <0064> \{Томоя}「つーかさ…そういう話をするってことはさ…」
 //// <0064> \{Томоя}"Просто... хоть ты и сказала так..."
 
-<0065> \{智代}What?
-//// <0065> \{智代}「なんだ」
+<0065> \{Томоё}What?
+//// <0065> \{Томоё}「なんだ」
 //// <0065> \{Томоё}"Что?"
 
 <0066> \{Томоя}You don't have a family?
 //// <0066> \{Томоя}「おまえ、家族いないの？」
 //// <0066> \{Томоя}"У тебя нет семьи?"
 
-<0067> \{智代}I do, and they're all in good health.
-//// <0067> \{智代}「居る。健在だ」
+<0067> \{Томоё}I do, and they're all in good health.
+//// <0067> \{Томоё}「居る。健在だ」
 //// <0067> \{Томоё}"Есть. И в ней всё в порядке."
 
 <0068> \{Томоя}What are you talking about, then...?
 //// <0068> \{Томоя}「どういう話をしたいんだよ、おまえは…」
 //// <0068> \{Томоя}"Тогда, что именно ты хочешь сказать...?"
 
-<0069> \{智代}The reverse of what I was talking about just now.
-//// <0069> \{智代}「さっきの逆だ」
+<0069> \{Томоё}The reverse of what I was talking about just now.
+//// <0069> \{Томоё}「さっきの逆だ」
 //// <0069> \{Томоё}"Прямо противоположное."
 
-<0070> \{智代}In other words, there are also situations where you don't have a family, even if you have a real family.
-//// <0070> \{智代}「つまり、本当の家族であっても、家族でない場合がある」
+<0070> \{Томоё}In other words, there are also situations where you don't have a family, even if you have a real family.
+//// <0070> \{Томоё}「つまり、本当の家族であっても、家族でない場合がある」
 //// <0070> \{Томоё}"То есть, хоть у меня и есть настоящая семья, раньше я совершенно так не чувствовала."
 
-<0071> \{智代}And that was it in my case.
-//// <0071> \{智代}「家はそれだった」
+<0071> \{Томоё}And that was it in my case.
+//// <0071> \{Томоё}「家はそれだった」
 //// <0071> \{Томоё}"Будто всё, что у меня было - это пустой дом."
 
-<0072> \{智代}Ever since I was little, I never got along with my parents.
-//// <0072> \{智代}「小さい頃から、両親はずっと仲が悪かった」
+<0072> \{Томоё}Ever since I was little, I never got along with my parents.
+//// <0072> \{Томоё}「小さい頃から、両親はずっと仲が悪かった」
 //// <0072> \{Томоё}"Раньше мои родители были всё не в ладах друг с другом."
 
 <0073> \{Томоя}But were things so bad that you'd fight?
 //// <0073> \{Томоя}「でも、喧嘩するほどって言うぜ？」
 //// <0073> \{Томоя}"Значит они всё время ругались?"
 
-<0074> \{智代}It wasn't as simple as that...
-//// <0074> \{智代}「そんな生やさしいものじゃない…」
+<0074> \{Томоё}It wasn't as simple as that...
+//// <0074> \{Томоё}「そんな生やさしいものじゃない…」
 //// <0074> \{Томоё}"Не совсем так..."
 
-<0075> \{智代}Fighting is just about the only thing we wouldn't do.
-//// <0075> \{智代}「喧嘩すらしないんだ」
+<0075> \{Томоё}Fighting is just about the only thing we wouldn't do.
+//// <0075> \{Томоё}「喧嘩すらしないんだ」
 //// <0075> \{Томоё}"Они не ругались."
 
 <0076> \{Томоя}Well, I don't really know your situation, so...
 //// <0076> \{Томоя}「どんな状況か、よくわかんねぇんだけど…」
 //// <0076> \{Томоя}"Я тебя не понимаю..."
 
-<0077> \{智代}Our household just didn't feel warm at all.
-//// <0077> \{智代}「温もりのない家庭だ」
+<0077> \{Томоё}Our household just didn't feel warm at all.
+//// <0077> \{Томоё}「温もりのない家庭だ」
 //// <0077> \{Томоё}"В моей семье не было тепла."
 
-<0078> \{智代}They were always cold and apathetic. No matter what happened.
-//// <0078> \{智代}「いつだって冷めている。何があってもだぞ」
+<0078> \{Томоё}They were always cold and apathetic. No matter what happened.
+//// <0078> \{Томоё}「いつだって冷めている。何があってもだぞ」
 //// <0078> \{Томоё}"Что бы ни случалось, все были холодны."
 
-<0079> \{智代}Even when I started elementary school, even during sports day, even when I got good grades, even when I got a prize for a drawing for summer vacation homework...
-//// <0079> \{智代}「小学校に入学したって、運動会があったって、いい成績をとったって、夏休みの宿題の絵で賞をもらったって…」
+<0079> \{Томоё}Even when I started elementary school, even during sports day, even when I got good grades, even when I got a prize for a drawing for summer vacation homework...
+//// <0079> \{Томоё}「小学校に入学したって、運動会があったって、いい成績をとったって、夏休みの宿題の絵で賞をもらったって…」
 //// <0079> \{Томоё}"Даже когда я впервые пошла в школу, вступила в кружок по атлетике, получала хорошие оценки, и когда меня наградили за картину, что я нарисовала во время летних каникул..."
 
-<0080> \{智代}They never cared at all.
-//// <0080> \{智代}「なにもないんだ」
+<0080> \{Томоё}They never cared at all.
+//// <0080> \{Томоё}「なにもないんだ」
 //// <0080> \{Томоё}"Ни какой реакции."
 
 <0081> \{Томоя}...
 //// <0081> \{Томоя}「………」
 //// <0081> \{Томоя}"........."
 
-<0082> \{智代}Do you understand now, Томоя?
-//// <0082> \{智代}「わかるか、\m{B}？」
+<0082> \{Томоё}Do you understand now, Томоя?
+//// <0082> \{Томоё}「わかるか、\m{B}？」
 //// <0082> \{Томоё}"Теперь ты понимаешь, Томоя?"
 
 <0083> \{Томоя}Yeah, I understand a little now.
 //// <0083> \{Томоя}「ああ、少しだけわかってきた」
 //// <0083> \{Томоя}"Да, немного."
 
-<0084> \{智代}I was raised without any love.
-//// <0084> \{智代}「私は愛情をかけられずに育ったんだ」
+<0084> \{Томоё}I was raised without any love.
+//// <0084> \{Томоё}「私は愛情をかけられずに育ったんだ」
 //// <0084> \{Томоё}"Меня растили без любви."
 
-<0085> \{智代}I never even learned what that was to begin with.
-//// <0085> \{智代}「そもそも、それがどんなものかもよくわからなかった」
+<0085> \{Томоё}I never even learned what that was to begin with.
+//// <0085> \{Томоё}「そもそも、それがどんなものかもよくわからなかった」
 //// <0085> \{Томоё}"Правильнее сказать, я даже не знала, что это такое."
 
 <0086> \{Томоя}Say, Tomoyo.
 //// <0086> \{Томоя}「あのさ、智代」
 //// <0086> \{Томоя}"Умм, Томоё,"
 
-<0087> \{智代}What is it? I'm in the middle of my story.
-//// <0087> \{智代}「なんだ、話の途中だぞ」
+<0087> \{Томоё}What is it? I'm in the middle of my story.
+//// <0087> \{Томоё}「なんだ、話の途中だぞ」
 //// <0087> \{Томоё}"Что, я сейчас на середине своего рассказа."
 
 <0088> \{Томоя}Um... is it all right if I move behind you?
 //// <0088> \{Томоя}「その…後ろ回っていいか」
 //// <0088> \{Томоя}"Ммм... ты не могла бы отвернуться?"
 
-<0089> \{智代}Behind me?
-//// <0089> \{智代}「後ろ？」
+<0089> \{Томоё}Behind me?
+//// <0089> \{Томоё}「後ろ？」
 //// <0089> \{Томоё}"Отвернуться?"
 
 <0090> Tomoyo looks behind her. Of course, there's nothing there.
@@ -379,336 +379,336 @@
 //// <0094> 智代が安心したように、深く息をついた。
 //// <0094> Томоё глубоко вздохнула, словно у неё упал камень с души.
 
-<0095> \{智代}They couldn't be happy unless they betrayed each other.
-//// <0095> \{智代}「互いを裏切ることでしか、幸せを得られないような人たちだったんだ」
+<0095> \{Томоё}They couldn't be happy unless they betrayed each other.
+//// <0095> \{Томоё}「互いを裏切ることでしか、幸せを得られないような人たちだったんだ」
 //// <0095> \{Томоё}"Люди вряд ли обретут счастье предавая ради этого других."
 
-<0096> \{智代}But that kind of thing won't give you happiness at all.
-//// <0096> \{智代}「そんなもの、幸せじゃないじゃないか…」
+<0096> \{Томоё}But that kind of thing won't give you happiness at all.
+//// <0096> \{Томоё}「そんなもの、幸せじゃないじゃないか…」
 //// <0096> \{Томоё}"Это будет вовсе не счастье..."
 
 <0097> \{Томоя}Yeah... I agree.
 //// <0097> \{Томоя}「ああ…そうだな」
 //// <0097> \{Томоя}"Да... я знаю."
 
-<0098> \{智代}The entire time... I was emotionally unstable.
-//// <0098> \{智代}「私は…ずっと情緒が不安定だった」
+<0098> \{Томоё}The entire time... I was emotionally unstable.
+//// <0098> \{Томоё}「私は…ずっと情緒が不安定だった」
 //// <0098> \{Томоё}"Я... всегда была такой непостоянной."
 
-<0099> \{智代}I felt like I could never forgive them for any of it. But then a few seconds later, I'd feel like I COULD forgive them for the exact same things.
-//// <0099> \{智代}「全部が許せない気がした。でも、数秒後には、同じ全てが許せる気もした」
+<0099> \{Томоё}I felt like I could never forgive them for any of it. But then a few seconds later, I'd feel like I COULD forgive them for the exact same things.
+//// <0099> \{Томоё}「全部が許せない気がした。でも、数秒後には、同じ全てが許せる気もした」
 //// <0099> \{Томоё}"То я чувствовала, что не смогу никому ничего простить. Но прощала уже через несколько секунд."
 
-<0100> \{智代}Then a couple more seconds later, all of it would just turn into an object of hatred for me.
-//// <0100> \{智代}「また数秒経つと、すべてが憎しみの対象に変わった」
+<0100> \{Томоё}Then a couple more seconds later, all of it would just turn into an object of hatred for me.
+//// <0100> \{Томоё}「また数秒経つと、すべてが憎しみの対象に変わった」
 //// <0100> \{Томоё}"А затем снова, я начинала всех ненавидеть."
 
-<0101> \{智代}That was the cycle I'd go through.
-//// <0101> \{智代}「それの繰り返しだった」
+<0101> \{Томоё}That was the cycle I'd go through.
+//// <0101> \{Томоё}「それの繰り返しだった」
 //// <0101> \{Томоё}"Так и продолжалось."
 
-<0102> \{智代}I'm sure everyone goes through something like this at some point in their lives.
-//// <0102> \{智代}「それはきっと、誰もがいつかは感じることなんだと思う」
+<0102> \{Томоё}I'm sure everyone goes through something like this at some point in their lives.
+//// <0102> \{Томоё}「それはきっと、誰もがいつかは感じることなんだと思う」
 //// <0102> \{Томоё}"Я уверена, что ни у кого больше не возникало таких изменчивых ощущений."
 
 <0103> \{Томоя}But everyone manages to get through that.
 //// <0103> \{Томоя}「でも、みんなはそれを乗りきれるんだ」
 //// <0103> \{Томоя}"Разумеется, любой волновался бы из-за такого."
 
-<0104> \{智代}That's right. By being supported by someone.
-//// <0104> \{智代}「そう。誰かに支えられて」
+<0104> \{Томоё}That's right. By being supported by someone.
+//// <0104> \{Томоё}「そう。誰かに支えられて」
 //// <0104> \{Томоё}"Да. Человеческая поддержка."
 
-<0105> \{智代}I didn't have anyone like that.
-//// <0105> \{智代}「私にはそんな存在がいなかった」
+<0105> \{Томоё}I didn't have anyone like that.
+//// <0105> \{Томоё}「私にはそんな存在がいなかった」
 //// <0105> \{Томоё}"Для меня такого не существовало."
 
-<0106> \{智代}That's why I went wild.
-//// <0106> \{智代}「だから、荒れた」
+<0106> \{Томоё}That's why I went wild.
+//// <0106> \{Томоё}「だから、荒れた」
 //// <0106> \{Томоё}"Поэтому я была бунтаркой."
 
-<0107> \{智代}Of course, I admit that I was more fragile than other people.
-//// <0107> \{智代}「もちろん、自分が他の人よりも、脆かったことは認める」
+<0107> \{Томоё}Of course, I admit that I was more fragile than other people.
+//// <0107> \{Томоё}「もちろん、自分が他の人よりも、脆かったことは認める」
 //// <0107> \{Томоё}"Конечно, любой бы осознал насколько это проблемная ситуация."
 
-<0108> \{智代}Since all I could ever do was blame other people for everything.
-//// <0108> \{智代}「他人のせいばかりにもできないからな」
+<0108> \{Томоё}Since all I could ever do was blame other people for everything.
+//// <0108> \{Томоё}「他人のせいばかりにもできないからな」
 //// <0108> \{Томоё}"Из-за этого никто ничего и не делал."
 
-<0109> \{智代}But after that, I found someone to support me.
-//// <0109> \{智代}「でも、その後、私は支えを得ることになるんだ」
+<0109> \{Томоё}But after that, I found someone to support me.
+//// <0109> \{Томоё}「でも、その後、私は支えを得ることになるんだ」
 //// <0109> \{Томоё}"Но вскоре, я всё же получила поддержку от одного человека."
 
-<0110> \{智代}And so a lot of things became clear to me.
-//// <0110> \{智代}「だから、いろんなことに気づけた」
+<0110> \{Томоё}And so a lot of things became clear to me.
+//// <0110> \{Томоё}「だから、いろんなことに気づけた」
 //// <0110> \{Томоё}"И тогда, я осознала многое."
 
 <0111> \{Томоя}If that person was a man, I'm probably going to go mad with jealousy.
 //// <0111> \{Томоя}「それが男だったら、俺は嫉妬に狂うな」
 //// <0111> \{Томоя}"Если это парень, то я буду ревновать."
 
-<0112> \{智代}It was a man.
-//// <0112> \{智代}「男だぞ」
+<0112> \{Томоё}It was a man.
+//// <0112> \{Томоё}「男だぞ」
 //// <0112> \{Томоё}"Это был парень."
 
 <0113> \{Томоя}Are you serious...?
 //// <0113> \{Томоя}「マジかよ…」
 //// <0113> \{Томоя}"Ты серьёзно...?"
 
-<0114> \{智代}Mhm. It was my little brother.
-//// <0114> \{智代}「うん。弟だ」
+<0114> \{Томоё}Mhm. It was my little brother.
+//// <0114> \{Томоё}「うん。弟だ」
 //// <0114> \{Томоё}"Да. Мой младший брат."
 
 <0115> \{Томоя}I never knew. So you had a little brother...
 //// <0115> \{Томоя}「知らなかった。弟がいたのかよ…」
 //// <0115> \{Томоя}"Не знал, что у тебя есть брат..."
 
-<0116> \{智代}I do. He was raised just the way I was back then.
-//// <0116> \{智代}「いる。昔から、同じように育ってきた」
+<0116> \{Томоё}I do. He was raised just the way I was back then.
+//// <0116> \{Томоё}「いる。昔から、同じように育ってきた」
 //// <0116> \{Томоё}"Есть. И он рос в той же обстановке, что и я."
 
-<0117> \{智代}To be honest, I was actually quite bitter toward that very brother.
-//// <0117> \{智代}「正直に告白すると、私は、弟にさえ辛辣だった」
+<0117> \{Томоё}To be honest, I was actually quite bitter toward that very brother.
+//// <0117> \{Томоё}「正直に告白すると、私は、弟にさえ辛辣だった」
 //// <0117> \{Томоё}"Должна признать, что я и с ним была жестока."
 
-<0118> \{智代}While everything was turning into an object for my hatred, even my own brother wasn't immune...
-//// <0118> \{智代}「すべてが憎しみの対象に見えた時は、弟さえもそのひとつになった…」
+<0118> \{Томоё}While everything was turning into an object for my hatred, even my own brother wasn't immune...
+//// <0118> \{Томоё}「すべてが憎しみの対象に見えた時は、弟さえもそのひとつになった…」
 //// <0118> \{Томоё}"Я ненавидела всех вокруг себя и его я отталкивала..."
 
 <0119> \{Томоя}Right...
 //// <0119> \{Томоя}「ああ…」
 //// <0119> \{Томоя}"Ясно..."
 
-<0120> \{智代}My little brother was always afraid...
-//// <0120> \{智代}「弟はいつだって、怯えていて…」
+<0120> \{Томоё}My little brother was always afraid...
+//// <0120> \{Томоё}「弟はいつだって、怯えていて…」
 //// <0120> \{Томоё}"Он всегда был напуган..."
 
-<0121> \{智代}And when I think back, all I can ever remember of him is that pained look on his face.
-//// <0121> \{智代}「思い出せるのは辛そうな顔だけだ…」
+<0121> \{Томоё}And when I think back, all I can ever remember of him is that pained look on his face.
+//// <0121> \{Томоё}「思い出せるのは辛そうな顔だけだ…」
 //// <0121> \{Томоё}"Одно из моих болезненных воспоминаний сейчас - это его напуганное лицо..."
 
-<0122> \{智代}I never knew he could even smile...
-//// <0122> \{智代}「弟が笑えることさえ知らなかったんだ、私は…」
+<0122> \{Томоё}I never knew he could even smile...
+//// <0122> \{Томоё}「弟が笑えることさえ知らなかったんだ、私は…」
 //// <0122> \{Томоё}"Я ни разу не видела его улыбки..."
 
-<0123> \{智代}I truly wasn't a good sister at all...
-//// <0123> \{智代}「まったくいい姉ではなかった…」
+<0123> \{Томоё}I truly wasn't a good sister at all...
+//// <0123> \{Томоё}「まったくいい姉ではなかった…」
 //// <0123> \{Томоё}"Дурацкая я сестра..."
 
 <0124> \{Томоя}It's not your fault.
 //// <0124> \{Томоя}「おまえのせいじゃない」
 //// <0124> \{Томоя}"Это не твоя вина."
 
-<0125> \{智代}I'll take those as words of consolation.
-//// <0125> \{智代}「慰めの言葉としては受け取っておこう」
+<0125> \{Томоё}I'll take those as words of consolation.
+//// <0125> \{Томоё}「慰めの言葉としては受け取っておこう」
 //// <0125> \{Томоё}"Мне приятно, что ты утешаешь меня."
 
 <0126> \{Томоя}I'm so useless as a boyfriend.
 //// <0126> \{Томоя}「つくづく情けない彼氏だよ、俺は」
 //// <0126> \{Томоя}"По правде сказать, я и сам никудышный парень."
 
-<0127> \{智代}This runs really deep for me. Please cut me at least a little slack on this.
-//// <0127> \{智代}「根が深いんだ。このことばかりは許せ」
+<0127> \{Томоё}This runs really deep for me. Please cut me at least a little slack on this.
+//// <0127> \{Томоё}「根が深いんだ。このことばかりは許せ」
 //// <0127> \{Томоё}"Проблема лежала гораздо глубже. А тебя за никудышность я прощаю."
 
 <0128> \{Томоя}Okay... Please continue.
 //// <0128> \{Томоя}「ああ…続けてくれ」
 //// <0128> \{Томоя}"Да... продолжай, пожалуйста."
 
-<0129> \{智代}I'm pretty sure my brother didn't run wild because I beat him to it.
-//// <0129> \{智代}「弟が荒れなかったのは、私が先にそうなってしまったからだと思う」
+<0129> \{Томоё}I'm pretty sure my brother didn't run wild because I beat him to it.
+//// <0129> \{Томоё}「弟が荒れなかったのは、私が先にそうなってしまったからだと思う」
 //// <0129> \{Томоё}"Должно быть я вела себя так, потому что мой брат всегда расстраивался из-за меня."
 
-<0130> \{智代}I ran away before he could.
-//// <0130> \{智代}「私が先に逃げた」
+<0130> \{Томоё}I ran away before he could.
+//// <0130> \{Томоё}「私が先に逃げた」
 //// <0130> \{Томоё}"И я убежала."
 
-<0131> \{智代}I abandoned my little brother.
-//// <0131> \{智代}「弟は置いてかれたんだ」
+<0131> \{Томоё}I abandoned my little brother.
+//// <0131> \{Томоё}「弟は置いてかれたんだ」
 //// <0131> \{Томоё}"Оставив своего брата позади."
 
-<0132> \{智代}I left him all alone in that family...
-//// <0132> \{智代}「だから、家族でひとりだけになったんだ…」
+<0132> \{Томоё}I left him all alone in that family...
+//// <0132> \{Томоё}「だから、家族でひとりだけになったんだ…」
 //// <0132> \{Томоё}"И так, он остался совсем один в этой семье..."
 
-<0133> \{智代}...and he tried holding on to that family.
-//// <0133> \{智代}「…この家族を繋ぎ止めようとしていたのは」
+<0133> \{Томоё}...and he tried holding on to that family.
+//// <0133> \{Томоё}「…この家族を繋ぎ止めようとしていたのは」
 //// <0133> \{Томоё}"... словно ему в одиночку пришлось удерживать семейные узы от разрыва."
 
-<0134> \{智代}He tried to cling to it because it was his true family. Even though it had stopped being an actual family.
-//// <0134> \{智代}「家族じゃなくなってしまった家族を、本当の家族として繋ぎ止めようとしていたんだぞ」
+<0134> \{Томоё}He tried to cling to it because it was his true family. Even though it had stopped being an actual family.
+//// <0134> \{Томоё}「家族じゃなくなってしまった家族を、本当の家族として繋ぎ止めようとしていたんだぞ」
 //// <0134> \{Томоё}"Снова объединить семью, которая перестала быть таковой..."
 
-<0135> \{智代}Do you know how irrational and meaningless that is?
-//// <0135> \{智代}「わかるか、その理不尽さと、難解さが」
+<0135> \{Томоё}Do you know how irrational and meaningless that is?
+//// <0135> \{Томоё}「わかるか、その理不尽さと、難解さが」
 //// <0135> \{Томоё}"Ты можешь себе представить насколько это безумно тяжело?"
 
 <0136> \{Томоя}I do...
 //// <0136> \{Томоя}「わかるよ…」
 //// <0136> \{Томоя}"Да..."
 
-<0137> \{智代}Then spring, two years ago.
-//// <0137> \{智代}「二年前の春だ」
+<0137> \{Томоё}Then spring, two years ago.
+//// <0137> \{Томоё}「二年前の春だ」
 //// <0137> \{Томоё}"Два года назад, весной"
 
-<0138> \{智代}My parents eventually, or rather, finally... tried to divorce.
-//// <0138> \{智代}「両親がついに、というか、ようやく、というか…離婚しようとした」
+<0138> \{Томоё}My parents eventually, or rather, finally... tried to divorce.
+//// <0138> \{Томоё}「両親がついに、というか、ようやく、というか…離婚しようとした」
 //// <0138> \{Томоё}"Мои родители, они, нуу... развелись."
 
-<0139> \{智代}In a way, they fed on each other's misery, so I never thought it would happen.
-//// <0139> \{智代}「あのふたりは、ある意味、互いの惨めさを糧に生きていたから、それだけはないと思っていたんだ」
+<0139> \{Томоё}In a way, they fed on each other's misery, so I never thought it would happen.
+//// <0139> \{Томоё}「あのふたりは、ある意味、互いの惨めさを糧に生きていたから、それだけはないと思っていたんだ」
 //// <0139> \{Томоё}"Наверное, они до этого считали, что в их семье всё было в порядке вещей, и что надежда на счастливую жизнь ещё оставалась."
 
-<0140> \{智代}But I guess, in the end, that's still how things ended up.
-//// <0140> \{智代}「でも、やっぱり、行き着くところはそこだったんだ」
+<0140> \{Томоё}But I guess, in the end, that's still how things ended up.
+//// <0140> \{Томоё}「でも、やっぱり、行き着くところはそこだったんだ」
 //// <0140> \{Томоё}"Но в итоге, всё закончилось этим."
 
-<0141> \{智代}It's nothing strange. Since both of them were already with other people at this point...
-//// <0141> \{智代}「無理もない。お互いには、すでに愛人もいたしな…」
+<0141> \{Томоё}It's nothing strange. Since both of them were already with other people at this point...
+//// <0141> \{Томоё}「無理もない。お互いには、すでに愛人もいたしな…」
 //// <0141> \{Томоё}"Но это логично. У обоих были любовники."
 
-<0142> \{智代}Our family wasn't going to be a family anymore. It never really had been in the first place, but even so, it was still ours...
-//// <0142> \{智代}「家族が、家族でなくなる。ずっと家族じゃなかったけど、それでも家族だったんだ…」
+<0142> \{Томоё}Our family wasn't going to be a family anymore. It never really had been in the first place, but even so, it was still ours...
+//// <0142> \{Томоё}「家族が、家族でなくなる。ずっと家族じゃなかったけど、それでも家族だったんだ…」
 //// <0142> \{Томоё}"Семья перестала быть семьёй. Оставалась лишь её видимость, пустая оболочка..."
 
-<0143> \{智代}And now that family was really going to fall apart.
-//// <0143> \{智代}「それが本当に、潰えてしまう」
+<0143> \{Томоё}And now that family was really going to fall apart.
+//// <0143> \{Томоё}「それが本当に、潰えてしまう」
 //// <0143> \{Томоё}"Такая вот драма."
 
-<0144> \{智代}My little brother was afraid of that.
-//// <0144> \{智代}「弟はそれを恐れた」
+<0144> \{Томоё}My little brother was afraid of that.
+//// <0144> \{Томоё}「弟はそれを恐れた」
 //// <0144> \{Томоё}"Мой брат был очень напуган."
 
-<0145> \{智代}And so, he went to his last resort.
-//// <0145> \{智代}「だから、最後の手段を選んだ」
+<0145> \{Томоё}And so, he went to his last resort.
+//// <0145> \{Томоё}「だから、最後の手段を選んだ」
 //// <0145> \{Томоё}"Поэтому он прибегнул к крайним мерам."
 
-<0146> \{智代}A last resort... that you can probably use only once...
-//// <0146> \{智代}「それは…二度と使えないかもしれない…最後の手段なんだ」
+<0146> \{Томоё}A last resort... that you can probably use only once...
+//// <0146> \{Томоё}「それは…二度と使えないかもしれない…最後の手段なんだ」
 //// <0146> \{Томоё}"То есть... то, что никогда нельзя использовать... последняя инстанция."
 
-<0147> \{智代}Can you imagine what he did...?
-//// <0147> \{智代}「想像がつくか…？」
+<0147> \{Томоё}Can you imagine what he did...?
+//// <0147> \{Томоё}「想像がつくか…？」
 //// <0147> \{Томоё}"Ты можешь себе представить нечто такое...?"
 
 <0148> \{Томоя}No...
 //// <0148> \{Томоя}「いや…」
 //// <0148> \{Томоя}"Нет..."
 
-<0149> \{智代}He threw himself onto the road.
-//// <0149> \{智代}「弟は、公道に飛び出た」
+<0149> \{Томоё}He threw himself onto the road.
+//// <0149> \{Томоё}「弟は、公道に飛び出た」
 //// <0149> \{Томоё}"Мой брат выбежал на дорогу."
 
-<0150> \{智代}Right in front of an oncoming car.
-//// <0150> \{智代}「自ら、車にはねられたんだ」
+<0150> \{Томоё}Right in front of an oncoming car.
+//// <0150> \{Томоё}「自ら、車にはねられたんだ」
 //// <0150> \{Томоё}"Чтобы его сбила машина."
 
 <0151> \{Томоя}...
 //// <0151> \{Томоя}「………」
 //// <0151> \{Томоя}"........."
 
-<0152> \{智代}It was a hospital in a small town...
-//// <0152> \{智代}「小さな町の病院だ…」
+<0152> \{Томоё}It was a hospital in a small town...
+//// <0152> \{Томоё}「小さな町の病院だ…」
 //// <0152> \{Томоё}"В итоге его отвезли в больницу на скорой..."
 
-<0153> \{智代}In a small hospital room...
-//// <0153> \{智代}「小さな病室だ…」
+<0153> \{Томоё}In a small hospital room...
+//// <0153> \{Томоё}「小さな病室だ…」
 //// <0153> \{Томоё}"Он лежал в одной маленькой больничной палате..."
 
-<0154> \{智代}That's where the entire family gathered.
-//// <0154> \{智代}「そこに、家族が揃っていた」
+<0154> \{Томоё}That's where the entire family gathered.
+//// <0154> \{Томоё}「そこに、家族が揃っていた」
 //// <0154> \{Томоё}"Где, наконец, и собралась вся семья."
 
-<0155> \{智代}Their faces were human faces.
-//// <0155> \{智代}「皆が、人間の顔をしていた」
+<0155> \{Томоё}Their faces were human faces.
+//// <0155> \{Томоё}「皆が、人間の顔をしていた」
 //// <0155> \{Томоё}"Лицо каждого приобрело человеческое выражение."
 
-<0156> \{智代}They made faces you'd expect actual people to make.
-//// <0156> \{智代}「人間らしい顔だ」
+<0156> \{Томоё}They made faces you'd expect actual people to make.
+//// <0156> \{Томоё}「人間らしい顔だ」
 //// <0156> \{Томоё}"Они стали похожи на людей с чувствами."
 
-<0157> \{智代}They looked pale, though...
-//// <0157> \{智代}「青ざめていたけどな…」
+<0157> \{Томоё}They looked pale, though...
+//// <0157> \{Томоё}「青ざめていたけどな…」
 //// <0157> \{Томоё}"Они были бледны..."
 
-<0158> \{智代}My little brother managed to escape death.
-//// <0158> \{智代}「弟は一命を取り留めた」
+<0158> \{Томоё}My little brother managed to escape death.
+//// <0158> \{Томоё}「弟は一命を取り留めた」
 //// <0158> \{Томоё}"Мой брат едва избежал смерти."
 
-<0159> \{智代}It was miraculous...
-//// <0159> \{智代}「奇跡的だったんだ…」
+<0159> \{Томоё}It was miraculous...
+//// <0159> \{Томоё}「奇跡的だったんだ…」
 //// <0159> \{Томоё}"Это было чудо..."
 
-<0160> \{智代}My little brother risked his own life to try and hold onto our family.
-//// <0160> \{智代}「弟は、自分の体を張って、家族を繋ぎ止めたんだ」
+<0160> \{Томоё}My little brother risked his own life to try and hold onto our family.
+//// <0160> \{Томоё}「弟は、自分の体を張って、家族を繋ぎ止めたんだ」
 //// <0160> \{Томоё}"Мой брат пожертвовал собственным телом ради сохранения семьи."
 
-<0161> \{智代}For those people who did nothing...
-//// <0161> \{智代}「何もない…」
+<0161> \{Томоё}For those people who did nothing...
+//// <0161> \{Томоё}「何もない…」
 //// <0161> \{Томоё}"А ведь до этого не было ничего..."
 
-<0162> \{智代}With no love or kindness to spare at all...
-//// <0162> \{智代}「どんな愛情も優しさもない…」
+<0162> \{Томоё}With no love or kindness to spare at all...
+//// <0162> \{Томоё}「どんな愛情も優しさもない…」
 //// <0162> \{Томоё}"Ни любви, ни доброты..."
 
-<0163> \{智代}...For this family only in name.
-//// <0163> \{智代}「…名ばかりの、家族を」
+<0163> \{Томоё}...For this family only in name.
+//// <0163> \{Томоё}「…名ばかりの、家族を」
 //// <0163> \{Томоё}"... от семьи оставалось лишь название."
 
-<0164> \{智代}...
-//// <0164> \{智代}「………」
+<0164> \{Томоё}...
+//// <0164> \{Томоё}「………」
 //// <0164> \{Томоё}"........."
 
-<0165> \{智代}He might have died, you know...
-//// <0165> \{智代}「死んでいたかもしれないんだぞ…」
+<0165> \{Томоё}He might have died, you know...
+//// <0165> \{Томоё}「死んでいたかもしれないんだぞ…」
 //// <0165> \{Томоё}"Он мог умереть..."
 
-<0166> \{智代}But the result was instant.
-//// <0166> \{智代}「でも、効果は覿面だった…」
+<0166> \{Томоё}But the result was instant.
+//// <0166> \{Томоё}「でも、効果は覿面だった…」
 //// <0166> \{Томоё}"Но ему вовремя оказали помощь..."
 
-<0167> \{智代}Because after he did that, we all finally realized...
-//// <0167> \{智代}「そうなって、ようやく気づけたんだからな…」
+<0167> \{Томоё}Because after he did that, we all finally realized...
+//// <0167> \{Томоё}「そうなって、ようやく気づけたんだからな…」
 //// <0167> \{Томоё}"Я осознала всё в полной мере только после того, как это случилось..."
 
-<0168> \{智代}My brother...
-//// <0168> \{智代}「弟が…」
+<0168> \{Томоё}My brother...
+//// <0168> \{Томоё}「弟が…」
 //// <0168> \{Томоё}"Мой брат..."
 
-<0169> \{智代}We were faced with the danger that he, a member of our family, might have died...
-//// <0169> \{智代}「家族のひとりが、死ぬ、という危機に直面してだ…」
+<0169> \{Томоё}We were faced with the danger that he, a member of our family, might have died...
+//// <0169> \{Томоё}「家族のひとりが、死ぬ、という危機に直面してだ…」
 //// <0169> \{Томоё}"Мой брат один взвалил на себя все семейные проблемы, поставив на кон свою жизнь..."
 
-<0170> \{智代}People don't notice things until it's too late...
-//// <0170> \{智代}「みんな、失わないと気づかないんだ…」
+<0170> \{Томоё}People don't notice things until it's too late...
+//// <0170> \{Томоё}「みんな、失わないと気づかないんだ…」
 //// <0170> \{Томоё}"Все воспринимали его как должное..."
 
-<0171> \{智代}What idiots we were.
-//// <0171> \{智代}「なんて、馬鹿だったんだろう」
+<0171> \{Томоё}What idiots we were.
+//// <0171> \{Томоё}「なんて、馬鹿だったんだろう」
 //// <0171> \{Томоё}"Насколько же глупо это могло быть?!"
 
-<0172> \{智代}My brother realized that...
-//// <0172> \{智代}「弟はそのことに気づいてたんだ…」
+<0172> \{Томоё}My brother realized that...
+//// <0172> \{Томоё}「弟はそのことに気づいてたんだ…」
 //// <0172> \{Томоё}"Мой брат всё понял..."
 
-<0173> \{智代}In our household, he was the only one who noticed...
-//// <0173> \{智代}「あんな家庭の中で、ひとりだけな…」
+<0173> \{Томоё}In our household, he was the only one who noticed...
+//// <0173> \{Томоё}「あんな家庭の中で、ひとりだけな…」
 //// <0173> \{Томоё}"И всё сделал в одиночку..."
 
 <0174> I notice that Tomoyo's shoulder is shivering, and so I put more force into my arms as I hold her.
 //// <0174> 智代を抱く腕に、力をこめた。智代の肩が震えた気がしたからだ。
 //// <0174> Я ещё сильнее сжал Томоё в своих объятиях. Я чувствовал, как сильно дрожали её плечи.
 
-<0175> \{智代}My brother, who was completely in tatters...
-//// <0175> \{智代}「ボロボロになってしまった弟は…」
+<0175> \{Томоё}My brother, who was completely in tatters...
+//// <0175> \{Томоё}「ボロボロになってしまった弟は…」
 //// <0175> \{Томоё}"Моего брата почти разорвало пополам..."
 
-<0176> \{智代}His body was in such a bad state. Yet, for the first time in his life, he smiled from the bottom of his heart...
-//// <0176> \{智代}「そんな体になって、ようやく、心の底から笑ってくれた…」
+<0176> \{Томоё}His body was in such a bad state. Yet, for the first time in his life, he smiled from the bottom of his heart...
+//// <0176> \{Томоё}「そんな体になって、ようやく、心の底から笑ってくれた…」
 //// <0176> \{Томоё}"И всё равно он улыбался нам с больничной койки, от всего своего сердца..."
 
-<0177> \{智代}Close to the hospital was a street lined with sakura trees...
-//// <0177> \{智代}「病院の近くにあった、桜の並木道…」
+<0177> \{Томоё}Close to the hospital was a street lined with sakura trees...
+//// <0177> \{Томоё}「病院の近くにあった、桜の並木道…」
 //// <0177> \{Томоё}"Рядом с больницей была аллея, окружённая сакурой..."
 
 <0178> My little brother, riding in a wheelchair...
@@ -767,76 +767,76 @@
 //// <0191> ………。
 //// <0191> .........
 
-<0192> \{智代}For me, he was the best little brother I could ask for.
-//// <0192> \{智代}「私にとって、最高の弟だ」
+<0192> \{Томоё}For me, he was the best little brother I could ask for.
+//// <0192> \{Томоё}「私にとって、最高の弟だ」
 //// <0192> \{Томоё}"Лучшего младшего брата и желать невозможно."
 
-<0193> \{智代}I can be proud of him from the bottom of my heart.
-//// <0193> \{智代}「心から誇れる」
+<0193> \{Томоё}I can be proud of him from the bottom of my heart.
+//// <0193> \{Томоё}「心から誇れる」
 //// <0193> \{Томоё}"Я от всей души им горжусь."
 
 <0194> \{Томоя}Yeah.
 //// <0194> \{Томоя}「ああ」
 //// <0194> \{Томоя}"Да."
 
-<0195> \{智代}I actually take a little pride in him these days.
-//// <0195> \{智代}「今ではちょっとした自慢だぞ」
+<0195> \{Томоё}I actually take a little pride in him these days.
+//// <0195> \{Томоё}「今ではちょっとした自慢だぞ」
 //// <0195> \{Томоё}"Даже сейчас моей гордости за него ничуть не убавилось."
 
-<0196> \{智代}Well, I wouldn't normally talk about this with other people, though.
-//// <0196> \{智代}「まぁ、今みたいな話は、他人にはしないけどな」
+<0196> \{Томоё}Well, I wouldn't normally talk about this with other people, though.
+//// <0196> \{Томоё}「まぁ、今みたいな話は、他人にはしないけどな」
 //// <0196> \{Томоё}"Что ж, вот такая история, я бы больше никому её не рассказала."
 
-<0197> \{智代}Ever since that day, I decided to do my best and hold onto my family, together with my little brother.
-//// <0197> \{智代}「その日から、私は、弟と一緒に、家族を繋ぎ止められるように頑張ることにしたんだ」
+<0197> \{Томоё}Ever since that day, I decided to do my best and hold onto my family, together with my little brother.
+//// <0197> \{Томоё}「その日から、私は、弟と一緒に、家族を繋ぎ止められるように頑張ることにしたんだ」
 //// <0197> \{Томоё}"С того дня мы с братом делали всё возможное, чтобы укрепить узы нашей семьи."
 
-<0198> \{智代}I studied a great deal.
-//// <0198> \{智代}「勉強をたくさんした」
+<0198> \{Томоё}I studied a great deal.
+//// <0198> \{Томоё}「勉強をたくさんした」
 //// <0198> \{Томоё}"Мы много работали."
 
-<0199> \{智代}After one year, I was even able to enter a school of this caliber.
-//// <0199> \{智代}「一年かけて、こんな学校にも入ることができた」
+<0199> \{Томоё}After one year, I was even able to enter a school of this caliber.
+//// <0199> \{Томоё}「一年かけて、こんな学校にも入ることができた」
 //// <0199> \{Томоё}"А через год я поступила в эту школу."
 
-<0200> \{智代}And when I did, my parents had smiles on their faces.
-//// <0200> \{智代}「その時の親たちの顔は笑えたぞ」
+<0200> \{Томоё}And when I did, my parents had smiles on their faces.
+//// <0200> \{Томоё}「その時の親たちの顔は笑えたぞ」
 //// <0200> \{Томоё}"К тому времени, наши родители тоже научились улыбаться."
 
-<0201> \{智代}It really knocked my socks off, you might say.
-//// <0201> \{智代}「いわゆる、豆鉄砲を食らった、というやつだ」
+<0201> \{Томоё}It really knocked my socks off, you might say.
+//// <0201> \{Томоё}「いわゆる、豆鉄砲を食らった、というやつだ」
 //// <0201> \{Томоё}"Можно сказать, что от радости они потеряли дар речи."
 
-<0202> \{智代}It's fun now, too, working hard to see their faces like that.
-//// <0202> \{智代}「あいつらのそんな顔を見るために頑張るのも、楽しい」
+<0202> \{Томоё}It's fun now, too, working hard to see their faces like that.
+//// <0202> \{Томоё}「あいつらのそんな顔を見るために頑張るのも、楽しい」
 //// <0202> \{Томоё}"Было здорово, что все наши усилия окупались такими вот улыбками."
 
 <0203> \{Томоя}That so? I guess things are fine now, then.
 //// <0203> \{Томоя}「そっか。もう、大丈夫なんだな」
 //// <0203> \{Томоя}"Понимаю. Значит теперь всё в порядке."
 
-<0204> \{智代}Yeah, you don't need to worry.
-//// <0204> \{智代}「ああ、心配しないでもいい」
+<0204> \{Томоё}Yeah, you don't need to worry.
+//// <0204> \{Томоё}「ああ、心配しないでもいい」
 //// <0204> \{Томоё}"Да, тебе не нужно беспокоится об этом."
 
 <0205> \{Томоя}In the midst of your talk, I was thinking of eloping with you or something.
 //// <0205> \{Томоя}「話の途中では、おまえと駆け落ちしようかと思ったぞ」
 //// <0205> \{Томоя}"Пока ты рассказывала свою историю, мне хотелось сбежать вместе с тобой."
 
-<0206> \{智代}Are you serious? That's a pretty startling statement, if so.
-//// <0206> \{智代}「本当なら、それは衝撃的な発言だぞ」
+<0206> \{Томоё}Are you serious? That's a pretty startling statement, if so.
+//// <0206> \{Томоё}「本当なら、それは衝撃的な発言だぞ」
 //// <0206> \{Томоё}"Если ты серьёзно, то это довольно шокирующее признание."
 
 <0207> \{Томоя}I was half-joking, but I was also half-serious.
 //// <0207> \{Томоя}「半分冗談だけど、半分本気だった」
 //// <0207> \{Томоя}"Я говорил наполовину в шутку и наполовину всерьёз."
 
-<0208> \{智代}In that case, I'm half-annoyed, and half-happy.
-//// <0208> \{智代}「なら私は半分腹立たしいが、半分うれしい」
+<0208> \{Томоё}In that case, I'm half-annoyed, and half-happy.
+//// <0208> \{Томоё}「なら私は半分腹立たしいが、半分うれしい」
 //// <0208> \{Томоё}"Тогда я наполовину счастлива и наполовину рассержена."
 
-<0209> \{智代}But there's no hate in my family right now, so we won't be doing that.
-//// <0209> \{智代}「けど、今の家は嫌いじゃないからな。そんなことはしない」
+<0209> \{Томоё}But there's no hate in my family right now, so we won't be doing that.
+//// <0209> \{Томоё}「けど、今の家は嫌いじゃないからな。そんなことはしない」
 //// <0209> \{Томоё}"Но теперь я люблю свой дом. Поэтому, я ни за что бы не сбежала."
 
 <0210> \{Томоя}That's a pity.
@@ -855,16 +855,16 @@
 //// <0213> \{Томоя}「親を驚かせるために、生徒会長になる、と、そういうことか？」
 //// <0213> \{Томоя}"Ты хочешь вступить в студсовет, чтобы удивить своих родителей?"
 
-<0214> \{智代}It's not a simple reason like that.
-//// <0214> \{智代}「そんな単純な理由じゃない」
+<0214> \{Томоё}It's not a simple reason like that.
+//// <0214> \{Томоё}「そんな単純な理由じゃない」
 //// <0214> \{Томоё}"Нет, всё не так просто."
 
 <0215> \{Томоя}Then what is it?
 //// <0215> \{Томоя}「じゃ、なんなんだよ」
 //// <0215> \{Томоя}"Но тогда зачем?"
 
-<0216> \{智代}Did you know? There used to be a row of sakura trees right beyond this point.
-//// <0216> \{智代}「知っていたか。この先は桜並木だったんだ」
+<0216> \{Томоё}Did you know? There used to be a row of sakura trees right beyond this point.
+//// <0216> \{Томоё}「知っていたか。この先は桜並木だったんだ」
 //// <0216> \{Томоё}"Ты знаешь, что находиться дальше за аллеей, окружённой сакурами?"
 
 <0217> \{Томоя}Hm?
@@ -887,16 +887,16 @@
 //// <0221> \{Томоя}「そういえば、そうだったな…」
 //// <0221> \{Томоя}"Насколько я помню, там, кажется..."
 
-<0222> \{智代}The town is changing. That's natural, though.
-//// <0222> \{智代}「町は変わっていく。当たり前だけどな」
+<0222> \{Томоё}The town is changing. That's natural, though.
+//// <0222> \{Томоё}「町は変わっていく。当たり前だけどな」
 //// <0222> \{Томоё}"Город меняется. Это очевидно."
 
-<0223> \{智代}It was that place from my memories.
-//// <0223> \{智代}「思い出の場所だったんだ」
+<0223> \{Томоё}It was that place from my memories.
+//// <0223> \{Томоё}「思い出の場所だったんだ」
 //// <0223> \{Томоё}"У этого места есть свои воспоминания."
 
-<0224> \{智代}Just beyond that is the little hospital I mentioned.
-//// <0224> \{智代}「その先に小さな病院がある」
+<0224> \{Томоё}Just beyond that is the little hospital I mentioned.
+//// <0224> \{Томоё}「その先に小さな病院がある」
 //// <0224> \{Томоё}"Раньше, там стояла небольшая больница."
 
 <0225> \{Томоя}Ah... I see.
@@ -911,58 +911,58 @@
 //// <0227> \{Томоя}「弟を押して歩いた道なんだな」
 //// <0227> \{Томоя}"Значит по этой дороге ты гуляла с своим братом."
 
-<0228> \{智代}That's right.
-//// <0228> \{智代}「そうだ」
+<0228> \{Томоё}That's right.
+//// <0228> \{Томоё}「そうだ」
 //// <0228> \{Томоё}"Так и есть."
 
-<0229> \{智代}I had wanted to walk through here one more time.
-//// <0229> \{智代}「私はもう一度歩きたかったんだ」
+<0229> \{Томоё}I had wanted to walk through here one more time.
+//// <0229> \{Томоё}「私はもう一度歩きたかったんだ」
 //// <0229> \{Томоё}"И я бы снова хотела здесь прогуляться."
 
-<0230> \{智代}Standing side by side with my little brother, in the midst of the falling cherry blossoms.
-//// <0230> \{智代}「桜の散る中、弟と肩を並べて」
+<0230> \{Томоё}Standing side by side with my little brother, in the midst of the falling cherry blossoms.
+//// <0230> \{Томоё}「桜の散る中、弟と肩を並べて」
 //// <0230> \{Томоё}"Со своим братом, когда сакура будет опадать."
 
-<0231> \{智代}And I wanted to have the conversation I couldn't have back then because I was crying.
-//// <0231> \{智代}「あの時は、泣いてできなかった会話をしたかったんだ」
+<0231> \{Томоё}And I wanted to have the conversation I couldn't have back then because I was crying.
+//// <0231> \{Томоё}「あの時は、泣いてできなかった会話をしたかったんだ」
 //// <0231> \{Томоё}"И тогда мы снова с ним поговорим, но уже без слёз."
 
-<0232> \{智代}I wanted to tell him, "Yeah, they're beautiful."
-//// <0232> \{智代}「ああ、綺麗だな、と」
+<0232> \{Томоё}I wanted to tell him, "Yeah, they're beautiful."
+//// <0232> \{Томоё}「ああ、綺麗だな、と」
 //// <0232> \{Томоё}"А он обязательно скажет, как красивы цветы."
 
-<0233> \{智代}That was all I wanted...
-//// <0233> \{智代}「私の望みはそれだけだったんだ…」
+<0233> \{Томоё}That was all I wanted...
+//// <0233> \{Томоё}「私の望みはそれだけだったんだ…」
 //// <0233> \{Томоё}"Сейчас это моё самое сокровенное желание..."
 
-<0234> \{智代}The town will change. There's nothing we can do about that.
-//// <0234> \{智代}「町は変わっていく。それは仕方がない」
+<0234> \{Томоё}The town will change. There's nothing we can do about that.
+//// <0234> \{Томоё}「町は変わっていく。それは仕方がない」
 //// <0234> \{Томоё}"Но город меняется. И это не остановить."
 
-<0235> \{智代}But if it's possible to fight it, I want to fight it with everything I have.
-//// <0235> \{智代}「でも、抗えるなら、この力で抗いたい」
+<0235> \{Томоё}But if it's possible to fight it, I want to fight it with everything I have.
+//// <0235> \{Томоё}「でも、抗えるなら、この力で抗いたい」
 //// <0235> \{Томоё}"Но если с этим можно как-то бороться, то это нужно делать."
 
-<0236> \{智代}To save all the pleasant memories I have here, to make sure they can be left in peace.
-//// <0236> \{智代}「たくさんの思い出を残すため、残せるようにだ」
+<0236> \{Томоё}To save all the pleasant memories I have here, to make sure they can be left in peace.
+//// <0236> \{Томоё}「たくさんの思い出を残すため、残せるようにだ」
 //// <0236> \{Томоё}"Чтобы сохранить драгоценные тебе воспоминания, а не просто оставить их в прошлом."
 
-<0237> \{智代}That's why I want to save the row of sakura lining the hill-road to school with my own two hands.
-//// <0237> \{智代}「だから…学校に続く坂道、あの桜並木はこの手で残したいんだ」
+<0237> \{Томоё}That's why I want to save the row of sakura lining the hill-road to school with my own two hands.
+//// <0237> \{Томоё}「だから…学校に続く坂道、あの桜並木はこの手で残したいんだ」
 //// <0237> \{Томоё}"Поэтому... я хочу сохранить эту аллею из деревьев сакуры."
 
 <0238> \{Томоя}So that's how it was...
 //// <0238> \{Томоя}「そうだったのか…」
 //// <0238> \{Томоя}"Вот как..."
 
-<0239> \{智代}To save that row of sakura trees. That will be my presidential promise.
-//// <0239> \{智代}「あの桜並木を残す。それは私の公約だ」
+<0239> \{Томоё}To save that row of sakura trees. That will be my presidential promise.
+//// <0239> \{Томоё}「あの桜並木を残す。それは私の公約だ」
 //// <0239> \{Томоё}"Я сберегу эти деревья. Я поклялась."
 
-<0240> \{智代}And remember, this isn't something I want to do just for myself.
-//// <0240> \{智代}「それは自分たちのためだけじゃなくな」
+<0240> \{Томоё}And remember, this isn't something I want to do just for myself.
+//// <0240> \{Томоё}「それは自分たちのためだけじゃなくな」
 //// <0240> \{Томоё}"И я делаю это не только для нас."
 
-<0241> \{智代}It's also for the students who come to our school, and all the students who will enroll in the future. It's for everyone.
-//// <0241> \{智代}「あの学校に通う生徒、これから入学してくる生徒、みんなのためだ」
+<0241> \{Томоё}It's also for the students who come to our school, and all the students who will enroll in the future. It's for everyone.
+//// <0241> \{Томоё}「あの学校に通う生徒、これから入学してくる生徒、みんなのためだ」
 //// <0241> \{Томоё}"Это для каждого ученика, что посещает эту школу, для людей, что сюда поступят, для всех, кому дорога эта аллея."
