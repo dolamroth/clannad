@@ -1631,8 +1631,8 @@
 //// <0407> 春原が手を揉む。
 //// <0407> Сунохара потёр руки.
 
-<0408> \{女生徒}Kyaaa, Sunohara-kun is going to use his little brother to do something naughty!
-//// <0408> \{女生徒}「きゃーっ、春原くんが、弟さん使って、エッチなことしようとしてますーっ！」
+<0408> \{Ученица}Kyaaa, Sunohara-kun is going to use his little brother to do something naughty!
+//// <0408> \{Ученица}「きゃーっ、春原くんが、弟さん使って、エッチなことしようとしてますーっ！」
 //// <0408> \{Ученица}"Кяяя, Сунохара-кун похоже задумал сделать что-то со своим младшим братом-!"
 
 <0409> \{Сунохара}I haven't done anything!

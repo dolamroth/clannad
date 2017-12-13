@@ -351,8 +351,8 @@
 //// <0087> チョコチョコチョコチョコチョコ～ッ！
 //// <0087> Шурх, шурх, шурх, шурх, шурх...~!
 
-<0088> \{女生徒}Eeek!
-//// <0088> \{女生徒}「ひぃっ」
+<0088> \{Ученица}Eeek!
+//// <0088> \{Ученица}「ひぃっ」
 //// <0088> \{Девушка}"Кяяяяяя!"
 
 <0089> We walk around school while keeping our upper bodies totally still, looking like real goons I'm sure.
@@ -519,8 +519,8 @@
 //// <0129> チョコチョコチョコチョコチョコ～ッ！
 //// <0129> Шурх, шурх, шурх, шурх, шурх...~!
 
-<0130> \{女生徒}Eeek!
-//// <0130> \{女生徒}「ひぃっ」
+<0130> \{Ученица}Eeek!
+//// <0130> \{Ученица}「ひぃっ」
 //// <0130> \{Девушка}"Кяяяяя!"
 
 <0131> We walk around school while keeping our upper bodies totally still, looking like real goons I'm sure.
