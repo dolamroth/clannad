@@ -11,24 +11,24 @@
 //// <0002> 俺と智代は、懇談室にいた。
 //// <0002> Мы с Томоё сидели в консультационной комнате.
 
-<0003> \{教師}...I wonder whether most of the student body consists of people who only fill out joke ballots.
-//// <0003> \{教師}「…興味本位、おもしろ半分で、投票した生徒が多くを占めてるんじゃないかと」
+<0003> \{Учитель}...I wonder whether most of the student body consists of people who only fill out joke ballots.
+//// <0003> \{Учитель}「…興味本位、おもしろ半分で、投票した生徒が多くを占めてるんじゃないかと」
 //// <0003> \{Учитель}"... ты набрала много голосов, будучи популярной у учеников этой школы."
 
-<0004> \{教師}That's what we are wondering.
-//// <0004> \{教師}「我々は、そう考えている」
+<0004> \{Учитель}That's what we are wondering.
+//// <0004> \{Учитель}「我々は、そう考えている」
 //// <0004> \{Учитель}"Это то, во что мы верим."
 
 <0005> The teacher standing in front of us... is the head of all the third-year teachers.
 //// <0005> 目の前に立つ教師…学年主任に呼び出されたのだ。
 //// <0005> Учитель перед нами был... деканом, заведующим третьими классами.
 
-<0006> \{教師}We made sure to investigate the reports from your previous school.
-//// <0006> \{教師}「前の学校での内申も調べさせてもらった」
+<0006> \{Учитель}We made sure to investigate the reports from your previous school.
+//// <0006> \{Учитель}「前の学校での内申も調べさせてもらった」
 //// <0006> \{Учитель}"Неофициально мы навели справке о той школе, где ты раньше училась."
 
-<0007> \{教師}Well, it was quite quaint.
-//// <0007> \{教師}「まぁ、それは珍しいものだった」
+<0007> \{Учитель}Well, it was quite quaint.
+//// <0007> \{Учитель}「まぁ、それは珍しいものだった」
 //// <0007> \{Учитель}"Должен сказать, редкий это случай."
 
 <0008> \{Томоя}What does that have to do with anything...?
@@ -39,96 +39,96 @@
 //// <0009> 俺は小さく呟く。
 //// <0009> Тихо пробурчал я.
 
-<0010> \{教師}Naturally, that was just for reference.
-//// <0010> \{教師}「確かに。それは参考程度だ」
+<0010> \{Учитель}Naturally, that was just for reference.
+//// <0010> \{Учитель}「確かに。それは参考程度だ」
 //// <0010> \{Учитель}"Возможно. Поэтому мы вас здесь и собрали."
 
-<0011> \{教師}However, Sakagami-kun. Even in your previous school, you have caused disturbances many times.
-//// <0011> \{教師}「だが、坂上くん、君は本校でも、すでに何度か騒ぎを起こしている」
+<0011> \{Учитель}However, Sakagami-kun. Even in your previous school, you have caused disturbances many times.
+//// <0011> \{Учитель}「だが、坂上くん、君は本校でも、すでに何度か騒ぎを起こしている」
 //// <0011> \{Учитель}"Но, Сакагами-кун, сколько именно раз ты устраивала беспорядки в своей предыдущей школе?"
 
-<0012> \{教師}You can't deny that, right?
-//// <0012> \{教師}「否定はしないな？」
+<0012> \{Учитель}You can't deny that, right?
+//// <0012> \{Учитель}「否定はしないな？」
 //// <0012> \{Учитель}"Я ведь не ошибаюсь, говоря это?"
 
 <0013> \{Томоё}...
 //// <0013> \{Томоё}「………」
 //// <0013> \{Томоё}"........."
 
-<0014> \{教師}And now you're associating yourself with this student called Оказаки, who doesn't even normally go to school.
-//// <0014> \{教師}「そして、この\m{A}というまともに登校もできないような生徒と付き合っている」
+<0014> \{Учитель}And now you're associating yourself with this student called Оказаки, who doesn't even normally go to school.
+//// <0014> \{Учитель}「そして、この\m{A}というまともに登校もできないような生徒と付き合っている」
 //// <0014> \{Учитель}"И, насколько я знаю, ты встречаешься с Оказаки сейчас?"
 
-<0015> \{教師}You can't deny that, right?
-//// <0015> \{教師}「否定はしないな？」
+<0015> \{Учитель}You can't deny that, right?
+//// <0015> \{Учитель}「否定はしないな？」
 //// <0015> \{Учитель}"Я прав, верно?"
 
 <0016> \{Томоё}...
 //// <0016> \{Томоё}「………」
 //// <0016> \{Томоё}"........."
 
-<0017> \{教師}And so now this is the second time we've had you come here.
-//// <0017> \{教師}「こうしてふたり、ここに来るのはこれで二度目だ」
+<0017> \{Учитель}And so now this is the second time we've had you come here.
+//// <0017> \{Учитель}「こうしてふたり、ここに来るのはこれで二度目だ」
 //// <0017> \{Учитель}"Ты здесь уже во второй раз."
 
-<0018> \{教師}You haven't forgotten already?
-//// <0018> \{教師}「忘れたわけではあるまいな？」
+<0018> \{Учитель}You haven't forgotten already?
+//// <0018> \{Учитель}「忘れたわけではあるまいな？」
 //// <0018> \{Учитель}"Или ты уже забыла?"
 
 <0019> \{Томоё}...
 //// <0019> \{Томоё}「………」
 //// <0019> \{Томоё}"........."
 
-<0020> \{教師}And there are cases besides this.
-//// <0020> \{教師}「他にも問題はあった」
+<0020> \{Учитель}And there are cases besides this.
+//// <0020> \{Учитель}「他にも問題はあった」
 //// <0020> \{Учитель}"И тут возникает небольшая проблема."
 
-<0021> \{教師}I'll raise them now.
-//// <0021> \{教師}「挙げてみよう」
+<0021> \{Учитель}I'll raise them now.
+//// <0021> \{Учитель}「挙げてみよう」
 //// <0021> \{Учитель}"Позволь я объясню."
 
 <0022> \{Томоё}...
 //// <0022> \{Томоё}「………」
 //// <0022> \{Томоё}"........."
 
-<0023> \{教師}On the day you assumed office as student council president, neither of you was present in your morning homeroom.
-//// <0023> \{教師}「生徒会長就任当日、朝のＨＲにふたりともいなかった」
+<0023> \{Учитель}On the day you assumed office as student council president, neither of you was present in your morning homeroom.
+//// <0023> \{Учитель}「生徒会長就任当日、朝のＨＲにふたりともいなかった」
 //// <0023> \{Учитель}"В тот день, когда ты была избрана президентом, вы двое пропустили утреннюю линейку."
 
-<0024> \{教師}Immediately after assuming office, you used the PA system for a private message.
-//// <0024> \{教師}「就任直後には、校内放送を私信に使う」
+<0024> \{Учитель}Immediately after assuming office, you used the PA system for a private message.
+//// <0024> \{Учитель}「就任直後には、校内放送を私信に使う」
 //// <0024> \{Учитель}"После этого, был случай, когда ты использовала школьную систему оповещения, для личных целей."
 
-<0025> \{教師}And that message was directed at this boy.
-//// <0025> \{教師}「それは、その男に宛てたものだった」
+<0025> \{Учитель}And that message was directed at this boy.
+//// <0025> \{Учитель}「それは、その男に宛てたものだった」
 //// <0025> \{Учитель}"То сообщение было как раз для этого молодого человека."
 
-<0026> \{教師}And then, on the very day that was supposed to be your first job, the Founder's Festival...
-//// <0026> \{教師}「そして、最初の仕事であるはずの創立者祭の当日…」
+<0026> \{Учитель}And then, on the very day that was supposed to be your first job, the Founder's Festival...
+//// <0026> \{Учитель}「そして、最初の仕事であるはずの創立者祭の当日…」
 //// <0026> \{Учитель}"А затем, во время проведения Школьного Дня Основателей, с самого начала..."
 
-<0027> \{教師}You left your position and went to have a rendezvous together.
-//// <0027> \{教師}「持ち場を離れ、逢い引きしていた」
+<0027> \{Учитель}You left your position and went to have a rendezvous together.
+//// <0027> \{Учитель}「持ち場を離れ、逢い引きしていた」
 //// <0027> \{Учитель}"Ты забросила всё и отправилась на свидание."
 
-<0028> \{教師}This is all that we have been able to find out about. However...
-//// <0028> \{教師}「我々の耳に届いているものは、これぐらいのものだが…」
+<0028> \{Учитель}This is all that we have been able to find out about. However...
+//// <0028> \{Учитель}「我々の耳に届いているものは、これぐらいのものだが…」
 //// <0028> \{Учитель}"Это то, что нам довелось услышать..."
 
 <0029> \{Томоё}...
 //// <0029> \{Томоё}「………」
 //// <0029> \{Томоё}"........."
 
-<0030> \{教師}The fact is, a student like this is our school's student council president.
-//// <0030> \{教師}「そんな生徒が、我が校の生徒会長という事実」
+<0030> \{Учитель}The fact is, a student like this is our school's student council president.
+//// <0030> \{Учитель}「そんな生徒が、我が校の生徒会長という事実」
 //// <0030> \{Учитель}"И это правда, об ученике, именуемом президентом студсовета."
 
-<0031> \{教師}It's more than enough evidence to arrive at the conclusion that you are not a suitable candidate.
-//// <0031> \{教師}「適任ではないとの判断に至るに十分な材料だ」
+<0031> \{Учитель}It's more than enough evidence to arrive at the conclusion that you are not a suitable candidate.
+//// <0031> \{Учитель}「適任ではないとの判断に至るに十分な材料だ」
 //// <0031> \{Учитель}"Пока у нас недостаточно сведений полагать, что ты некомпетентна для своей позиции."
 
-<0032> \{教師}In the first place, do you not understand that, as a representative of the students, you are supposed to be a role model for them?
-//// <0032> \{教師}「そもそも、君は生徒の代表として、見本であるべきだという自覚はないのか？」
+<0032> \{Учитель}In the first place, do you not understand that, as a representative of the students, you are supposed to be a role model for them?
+//// <0032> \{Учитель}「そもそも、君は生徒の代表として、見本であるべきだという自覚はないのか？」
 //// <0032> \{Учитель}"Но прежде всего, разве ты не осознаёшь, что как представитель всех учеников этой школы, ты должна быть образцом для подражания?"
 
 <0033> \{Томоё}...
@@ -139,96 +139,96 @@
 //// <0034> 教師は手元の紙に目を落とす。
 //// <0034> Учитель взглянул на лист бумаги, что держал в руке.
 
-<0035> \{教師}Yet, for all that...
-//// <0035> \{教師}「だが、しかし…」
+<0035> \{Учитель}Yet, for all that...
+//// <0035> \{Учитель}「だが、しかし…」
 //// <0035> \{Учитель}"Но, понимаешь..."
 
-<0036> \{教師}Unlike this boy, you're a very good student.
-//// <0036> \{教師}「その男とは違って、勉強はできる」
+<0036> \{Учитель}Unlike this boy, you're a very good student.
+//// <0036> \{Учитель}「その男とは違って、勉強はできる」
 //// <0036> \{Учитель}"В отличии от этого молодого человека, у тебя есть воля к учёбе."
 
-<0037> \{教師}In your spring Academic Aptitude Test, you were at the top of your class across all three topics. And... fourth in the school.
-//// <0037> \{教師}「春の実力考査では…三科目合計でクラスで１番。学年でも…４番」
+<0037> \{Учитель}In your spring Academic Aptitude Test, you were at the top of your class across all three topics. And... fourth in the school.
+//// <0037> \{Учитель}「春の実力考査では…三科目合計でクラスで１番。学年でも…４番」
 //// <0037> \{Учитель}"По результатам весенних экзаменов... ты была первой по успеваемости в классе и четвёртой по всей школе."
 
-<0038> \{教師}Achieving that position in THIS school, I am compelled to say you are a truly excellent student.
-//// <0038> \{教師}「本校でその位置ならば、実に優秀だと言わざるをえない」
+<0038> \{Учитель}Achieving that position in THIS school, I am compelled to say you are a truly excellent student.
+//// <0038> \{Учитель}「本校でその位置ならば、実に優秀だと言わざるをえない」
 //// <0038> \{Учитель}"Можно даже назвать это выдающимся результатом, для такой школы как эта."
 
-<0039> \{教師}And when faced with the attitude you seem to emanate, my assessment becomes solid.
-//// <0039> \{教師}「そして、君の人間性に視点を移してみると、その評価は揺るぎないものとなる」
+<0039> \{Учитель}And when faced with the attitude you seem to emanate, my assessment becomes solid.
+//// <0039> \{Учитель}「そして、君の人間性に視点を移してみると、その評価は揺るぎないものとなる」
 //// <0039> \{Учитель}"И, если не брать во внимание твоё прошлое, это довольно убедительные результаты."
 
-<0040> \{教師}It's not just a matter of leadership potential. You have the full confidence of your teacher and your classmates.
-//// <0040> \{教師}「リーダーシップ性に秀で、担任教師、クラスメイトからの信頼も厚い」
+<0040> \{Учитель}It's not just a matter of leadership potential. You have the full confidence of your teacher and your classmates.
+//// <0040> \{Учитель}「リーダーシップ性に秀で、担任教師、クラスメイトからの信頼も厚い」
 //// <0040> \{Учитель}"Став первой, ты завоевала доверие своих одноклассников и своего классного руководителя."
 
 <0041> \{Томоё}...
 //// <0041> \{Томоё}「………」
 //// <0041> \{Томоё}"........."
 
-<0042> \{教師}In other words, within your own class at least, you have been consistently exhibiting exemplary behavior.
-//// <0042> \{教師}「つまり、クラス内だと、君は極めて模範的に振る舞えているというわけだ」
+<0042> \{Учитель}In other words, within your own class at least, you have been consistently exhibiting exemplary behavior.
+//// <0042> \{Учитель}「つまり、クラス内だと、君は極めて模範的に振る舞えているというわけだ」
 //// <0042> \{Учитель}"Другими словами, в своём классе ты вела себя очень достойно."
 
-<0043> \{教師}So this means that your reputation has only been suffering when you are outside the classroom.
-//// <0043> \{教師}「君が評判を落としてしまっているのは、クラスを離れた場所だということになる」
+<0043> \{Учитель}So this means that your reputation has only been suffering when you are outside the classroom.
+//// <0043> \{Учитель}「君が評判を落としてしまっているのは、クラスを離れた場所だということになる」
 //// <0043> \{Учитель}"И когда оценка тебя в глазах других несколько снизилась, тебя не оказалось рядом со своими одноклассниками."
 
-<0044> \{教師}I wonder, why could that be...?
-//// <0044> \{教師}「これはどういうことだろうか…？」
+<0044> \{Учитель}I wonder, why could that be...?
+//// <0044> \{Учитель}「これはどういうことだろうか…？」
 //// <0044> \{Учитель}"Что, ты думаешь, это означает...?"
 
 <0045> \{Томоё}...
 //// <0045> \{Томоё}「………」
 //// <0045> \{Томоё}"........."
 
-<0046> \{教師}Somewhere that isn't your own classroom...
-//// <0046> \{教師}「クラスを離れた場所…」
+<0046> \{Учитель}Somewhere that isn't your own classroom...
+//// <0046> \{Учитель}「クラスを離れた場所…」
 //// <0046> \{Учитель}"Твои товарищи, рядом с которыми тебя не было..."
 
-<0047> \{教師}I wonder whether it's to do with the presence of this young man.
-//// <0047> \{教師}「そこには、その男が居るからではないだろうか」
+<0047> \{Учитель}I wonder whether it's to do with the presence of this young man.
+//// <0047> \{Учитель}「そこには、その男が居るからではないだろうか」
 //// <0047> \{Учитель}"Я полагаю вместо них, этот молодой человек был рядом с тобой?"
 
-<0048> \{教師}That is my personal guess.
-//// <0048> \{教師}「これは個人的な推測だ」
+<0048> \{Учитель}That is my personal guess.
+//// <0048> \{Учитель}「これは個人的な推測だ」
 //// <0048> \{Учитель}"Это просто моё личное мнение."
 
-<0049> \{教師}It's still nothing more than an observation...
-//// <0049> \{教師}「あくまでも参考までに、ということだが…」
+<0049> \{Учитель}It's still nothing more than an observation...
+//// <0049> \{Учитель}「あくまでも参考までに、ということだが…」
 //// <0049> \{Учитель}"А вот ситуация нашего молодого человека..."
 
-<0050> \{教師}But in situations where he ISN'T around...
-//// <0050> \{教師}「その男がいない状況であれば…」
+<0050> \{Учитель}But in situations where he ISN'T around...
+//// <0050> \{Учитель}「その男がいない状況であれば…」
 //// <0050> \{Учитель}"Это последнее, о чём бы мне хотелось говорить..."
 
-<0051> \{教師}You conduct yourself like an actual student council president: a good and proper person.
-//// <0051> \{教師}「君は生徒会長として相応しい、正しい人間でいることができる」
+<0051> \{Учитель}You conduct yourself like an actual student council president: a good and proper person.
+//// <0051> \{Учитель}「君は生徒会長として相応しい、正しい人間でいることができる」
 //// <0051> \{Учитель}"Как президент студсовета, ты могла бы вести себя более подобающе своему статусу."
 
-<0052> \{教師}In other words...
-//// <0052> \{教師}「つまり、それは…」
+<0052> \{Учитель}In other words...
+//// <0052> \{Учитель}「つまり、それは…」
 //// <0052> \{Учитель}"То есть, другими словами..."
 
-<0053> \{教師}There may still be hope for your future from here on out.
-//// <0053> \{教師}「これからの君の未来には期待できるかもしれない…ということだ」
+<0053> \{Учитель}There may still be hope for your future from here on out.
+//// <0053> \{Учитель}「これからの君の未来には期待できるかもしれない…ということだ」
 //// <0053> \{Учитель}"Ради своего собственного будущего... я это хотел сказать."
 
-<0054> \{教師}I WANT to have those hopes for you.
-//// <0054> \{教師}「私は、それに期待したい」
+<0054> \{Учитель}I WANT to have those hopes for you.
+//// <0054> \{Учитель}「私は、それに期待したい」
 //// <0054> \{Учитель}"Я очень рассчитываю на тебя."
 
 <0055> \{Томоё}...
 //// <0055> \{Томоё}「………」
 //// <0055> \{Томоё}"........."
 
-<0056> \{教師}That will be all for today.
-//// <0056> \{教師}「今日の話はここまでだ」
+<0056> \{Учитель}That will be all for today.
+//// <0056> \{Учитель}「今日の話はここまでだ」
 //// <0056> \{Учитель}"Пока мне больше нечего сказать."
 
-<0057> \{教師}We will have another talk on another day.
-//// <0057> \{教師}「また、後日、話をしよう」
+<0057> \{Учитель}We will have another talk on another day.
+//// <0057> \{Учитель}「また、後日、話をしよう」
 //// <0057> \{Учитель}"Давайте поговорим снова, как-нибудь в другой день."
 
 <0058> \{Томоя}He was pretty frank about it...

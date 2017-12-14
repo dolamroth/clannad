@@ -23,8 +23,8 @@
 //// <0005> だが、神は俺を見捨てなかった。
 //// <0005> Однако, Бог ещё меня не покинул.
 
-<0006> \{教師}Looks like I forgot the supplementary text. I'll go get it while you study on your own.
-//// <0006> \{教師}「副読本を忘れてしまったようだ。取ってくるから、各自自習しているように」
+<0006> \{Учитель}Looks like I forgot the supplementary text. I'll go get it while you study on your own.
+//// <0006> \{Учитель}「副読本を忘れてしまったようだ。取ってくるから、各自自習しているように」
 //// <0006> \{Учитель}"Похоже я забыл дополнительные материалы. Я пойду за ними, а вы пока позанимайтесь сами."
 
 <0007> After saying that, the teacher leaves the room.
@@ -651,8 +651,8 @@
 //// <0162> このままだと退学だぞとさんざん脅された。
 //// <0162> Меня предупредили, что если я продолжу сбегать, будет хуже.
 
-<0163> \{教師}Just when I thought your attitude was starting to improve...
-//// <0163> \{教師}「せっかくこのところ、少しは態度がマシになってきたと思ったら…」
+<0163> \{Учитель}Just when I thought your attitude was starting to improve...
+//// <0163> \{Учитель}「せっかくこのところ、少しは態度がマシになってきたと思ったら…」
 //// <0163> \{Учитель}"Я надеюсь, теперь ты будешь лучше вести себя..."
 
 <0164> I merely nod at each statement and stare out the window.
