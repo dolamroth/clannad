@@ -391,8 +391,8 @@
 //// <0097> そう返事をした。
 //// <0097> Вот был её ответ.
 
-<0098> \{男子生徒}Hey, Sakagami. Let me give this to you right now.
-//// <0098> \{男子生徒}「おい、坂上。ほら、今のうちに渡しとく」
+<0098> \{Ученик}Hey, Sakagami. Let me give this to you right now.
+//// <0098> \{Ученик}「おい、坂上。ほら、今のうちに渡しとく」
 //// <0098> \{Парень}"Эй, Сакагами. Вот, держи."
 
 <0099> A boy appears by her side and hands Tomoyo a beat-up cloth bag.
@@ -403,8 +403,8 @@
 //// <0100> \{Томоё}「うん、感謝する」
 //// <0100> \{Томоё}"Ага, спасибо."
 
-<0101> \{男子生徒}It's seriously bad news if you try to wear the wrong size, so don't hurt yourself.
-//// <0101> \{男子生徒}「サイズ合ってないと本当恐いから、怪我しないようにな」
+<0101> \{Ученик}It's seriously bad news if you try to wear the wrong size, so don't hurt yourself.
+//// <0101> \{Ученик}「サイズ合ってないと本当恐いから、怪我しないようにな」
 //// <0101> \{Парень}"Размер может не подойти, так что аккуратнее."
 
 <0102> \{Томоё}Yeah.

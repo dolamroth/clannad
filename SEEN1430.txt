@@ -1763,8 +1763,8 @@
 //// <0440> \{Фуко}「どうか、姉の結婚式、よろしくお願いします」
 //// <0440> \{Фуко}"Пожалуйста, приходите на свадьбу сестры Фуко."
 
-<0441> \{男子生徒}Well... if I can find the time.
-//// <0441> \{男子生徒}「そうだね…時間が合えばね」
+<0441> \{Ученик}Well... if I can find the time.
+//// <0441> \{Ученик}「そうだね…時間が合えばね」
 //// <0441> \{Ученик}"Уммм... Если время будет."
 
 <0442> They would then put on a forced smile and walk away awkwardly with an oversized starfish in hand.

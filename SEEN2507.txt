@@ -3,24 +3,24 @@
 //// <0000> ５月７日(水)
 //// <0000> 7 Мая (Ср)
 
-<0001> \{男子生徒}So apparently those guys were having a match with the baseball club...
-//// <0001> \{男子生徒}「あいつらが、野球部と戦ったってよ…」
+<0001> \{Ученик}So apparently those guys were having a match with the baseball club...
+//// <0001> \{Ученик}「あいつらが、野球部と戦ったってよ…」
 //// <0001> \{Ученик}"Это те ребята которые играли против бейсбольной команды..."
 
-<0002> \{男子生徒}Well, their captain is the only one who's decent. But apparently even he suffered a strike-out without even as much as grazing the ball.
-//// <0002> \{男子生徒}「あそこ主将だけはまともじゃん。なのに、そいつもかすりもせずに三振だって」
+<0002> \{Ученик}Well, their captain is the only one who's decent. But apparently even he suffered a strike-out without even as much as grazing the ball.
+//// <0002> \{Ученик}「あそこ主将だけはまともじゃん。なのに、そいつもかすりもせずに三振だって」
 //// <0002> \{Ученик}"Там даже капитан был. И их всё равно вынесли тремя страйками."
 
-<0003> \{男子生徒}Who was the pitcher?
-//// <0003> \{男子生徒}「ピッチャーは誰だったんだ？」
+<0003> \{Ученик}Who was the pitcher?
+//// <0003> \{Ученик}「ピッチャーは誰だったんだ？」
 //// <0003> \{Ученик}"А кто был подающим?"
 
-<0004> \{男子生徒}They say it was that girl.
-//// <0004> \{男子生徒}「それがあの女子だって」
+<0004> \{Ученик}They say it was that girl.
+//// <0004> \{Ученик}「それがあの女子だって」
 //// <0004> \{Ученик}"Вот эта девушка."
 
-<0005> \{男子生徒}Seriously...?!
-//// <0005> \{男子生徒}「マジかっ…」
+<0005> \{Ученик}Seriously...?!
+//// <0005> \{Ученик}「マジかっ…」
 //// <0005> \{Ученик}"В самом деле..."
 
 <0006> As we're walking around, we can already hear lots of people gossiping about us.
@@ -31,8 +31,8 @@
 //// <0007> \{Сунохара}「ふんっ…こりゃまた鼻が高いね」
 //// <0007> \{Сунохара}"Хех... это то, чем можно гордиться."
 
-<0008> \{男子生徒}And apparently the catcher fainted during the match.
-//// <0008> \{男子生徒}「キャッチャーは途中から気絶してたってよ」
+<0008> \{Ученик}And apparently the catcher fainted during the match.
+//// <0008> \{Ученик}「キャッチャーは途中から気絶してたってよ」
 //// <0008> \{Ученик}"Хотя кэтчер потерял сознание прямо во время игры."
 
 <0009> \{Сунохара}Well, sorry about that!
@@ -75,20 +75,20 @@
 //// <0018> \{Томоя}「下投げだ。安心しろ」
 //// <0018> \{Томоя}"Броски несильные будут, так что не парься."
 
-<0019> \{男子生徒}And I just heard that this time, those guys crushed the softball club...
-//// <0019> \{男子生徒}「あいつら今度はソフトボール部も撃破したってよ…」
+<0019> \{Ученик}And I just heard that this time, those guys crushed the softball club...
+//// <0019> \{Ученик}「あいつら今度はソフトボール部も撃破したってよ…」
 //// <0019> \{Ученик}"Теперь они хотят сокрушить команду по софтболу..."
 
-<0020> \{男子生徒}Wait, wasn't our softball club actually quite good?
-//// <0020> \{男子生徒}「ウチ、ソフトボール部は強かったんじゃなかったっけ？」
+<0020> \{Ученик}Wait, wasn't our softball club actually quite good?
+//// <0020> \{Ученик}「ウチ、ソフトボール部は強かったんじゃなかったっけ？」
 //// <0020> \{Ученик}"А у нас хоть сильная команда по софтболу?"
 
-<0021> \{男子生徒}That's why people keep saying that those guys are the real deal...
-//// <0021> \{男子生徒}「だから、本物だって言ってるんだよ…」
+<0021> \{Ученик}That's why people keep saying that those guys are the real deal...
+//// <0021> \{Ученик}「だから、本物だって言ってるんだよ…」
 //// <0021> \{Ученик}"Я тебе про что и говорю..."
 
-<0022> \{男子生徒}Although apparently the guy who was catching was totally holding them back.
-//// <0022> \{男子生徒}「ただ、キャッチャーやってる奴が、足引っ張ってるらしいけど」
+<0022> \{Ученик}Although apparently the guy who was catching was totally holding them back.
+//// <0022> \{Ученик}「ただ、キャッチャーやってる奴が、足引っ張ってるらしいけど」
 //// <0022> \{Ученик}"Кэтчер наверняка им будет подножки ставить."
 
 <0023> \{Сунохара}How about you try it, then?!
