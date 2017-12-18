@@ -35,24 +35,24 @@
 //// <0008> \{Томоя}「…藤林？」
 //// <0008> \{Томоя}"... Фудзибаяси?"
 
-<0009> \{椋}Ah, Оказаки-kun.
-//// <0009> \{椋}「あ、\m{A}くん」
+<0009> \{Рё}Ah, Оказаки-kun.
+//// <0009> \{Рё}「あ、\m{A}くん」
 //// <0009> \{Рё}"Ах, Оказаки-кун."
 
 <0010> \{Томоя}What's up? Did you forget your wallet?
 //// <0010> \{Томоя}「どうした、財布でも忘れたのか？」
 //// <0010> \{Томоя}"Что такое, кошелёк забыла?"
 
-<0011> \{椋}Haah... haah... N-No... um... you haven't gone to the store yet, have you?
-//// <0011> \{椋}「はぁはぁ…い、いえ…その…まだ購買部には行ってません…か？」
+<0011> \{Рё}Haah... haah... N-No... um... you haven't gone to the store yet, have you?
+//// <0011> \{Рё}「はぁはぁ…い、いえ…その…まだ購買部には行ってません…か？」
 //// <0011> \{Рё}"Фух... фух... н-нет... эм... ты же пока... ничего не купил?"
 
 <0012> \{Томоя}Nah, I'm heading there right now.
 //// <0012> \{Томоя}「ああ、今から行くとこだけど？」
 //// <0012> \{Томоя}"Ага, мы только собрались."
 
-<0013> \{椋}Haah... haah... t-thank goodness...
-//// <0013> \{椋}「はぁはぁ…よ…よかったです…」
+<0013> \{Рё}Haah... haah... t-thank goodness...
+//// <0013> \{Рё}「はぁはぁ…よ…よかったです…」
 //// <0013> \{Рё}"Фух, фух... я... я рада..."
 
 <0014> Having ran out of breath on her way running back here, Fujibayashi catches her breath while she smiles.
@@ -63,8 +63,8 @@
 //// <0015> \{Томоя}「？」
 //// <0015> \{Томоя}"?"
 
-<0016> \{椋}Um... Here.
-//// <0016> \{椋}「あ、あの…これ」
+<0016> \{Рё}Um... Here.
+//// <0016> \{Рё}「あ、あの…これ」
 //// <0016> \{Рё}"Э-эм... держи."
 
 <0017> She says, and holds out a paper bag that I've seen before.
@@ -75,8 +75,8 @@
 //// <0018> 売店でパンを買ったときに入れられるヤツだ。
 //// <0018> Похоже, она уже сходила в столовую и купила булочки.
 
-<0019> \{椋}W-Would you like to eat together?
-//// <0019> \{椋}「い…一緒に食べませんか？」
+<0019> \{Рё}W-Would you like to eat together?
+//// <0019> \{Рё}「い…一緒に食べませんか？」
 //// <0019> \{Рё}"Н... не хочешь пообедать вместе?"
 
 <0020> Upon hearing that, Sunohara and I look at each other.
@@ -111,8 +111,8 @@
 //// <0027> 春原の背中が廊下の角で見えなくなると、俺は藤林の方に向き直った。
 //// <0027> Проводив взглядом скрывшегося за углом Сунохару, я повернулся к Фудзибаяси.
 
-<0028> \{椋}Ah... uh... umm... was that rude...?
-//// <0028> \{椋}「ぁ…ぅ…えっと…差し出がましいことを…したでしょうか…？」
+<0028> \{Рё}Ah... uh... umm... was that rude...?
+//// <0028> \{Рё}「ぁ…ぅ…えっと…差し出がましいことを…したでしょうか…？」
 //// <0028> \{Рё}"Ах... уу... эм... я... помешала...?"
 
 <0029> \{Томоя}Nah, don't worry about it.
@@ -123,8 +123,8 @@
 //// <0030> \{Томоя}「前庭でいいか？」
 //// <0030> \{Томоя}"Во дворе, да?"
 
-<0031> \{椋}Okay.
-//// <0031> \{椋}「はいっ」
+<0031> \{Рё}Okay.
+//// <0031> \{Рё}「はいっ」
 //// <0031> \{Рё}"Да!"
 
 <0032> In the front yard.
@@ -159,8 +159,8 @@
 //// <0039> この先、どうなるんだろう…。
 //// <0039> Интересно, что ещё произойдёт...?
 
-<0040> \{椋}Um... Are you okay with here?
-//// <0040> \{椋}「えっと、ここでいいですか？」
+<0040> \{Рё}Um... Are you okay with here?
+//// <0040> \{Рё}「えっと、ここでいいですか？」
 //// <0040> \{Рё}"Эм... подойдёт?"
 
 <0041> She points at a stone fence suitable for sitting and asks.
@@ -171,8 +171,8 @@
 //// <0042> \{Томоя}「ああ、いいぜ」
 //// <0042> \{Томоя}"Да, прекрасно."
 
-<0043> \{椋}Yes.
-//// <0043> \{椋}「はい」
+<0043> \{Рё}Yes.
+//// <0043> \{Рё}「はい」
 //// <0043> \{Рё}"Хорошо."
 
 <0044> Fujibayashi sits on the stone fence, and then fishes through the contents of the paper bag as she peeks inside.
@@ -183,16 +183,16 @@
 //// <0045> そして目的の物を見つけると、俺に差し出した。
 //// <0045> Найдя то, что искала, она передала это мне.
 
-<0046> \{椋}Here.
-//// <0046> \{椋}「どうぞ」
+<0046> \{Рё}Here.
+//// <0046> \{Рё}「どうぞ」
 //// <0046> \{Рё}"Держи."
 
 <0047> \{Томоя}A curry bread and a melon bread?
 //// <0047> \{Томоя}「カレーパンとメロンパン？」
 //// <0047> \{Томоя}"Булочка с карри и дынная булочка?"
 
-<0048> \{椋}You mentioned last time that Onee-chan forced you to exchange your bread for her lunch box.
-//// <0048> \{椋}「前に言ってましたよね、お姉ちゃんに無理矢理お弁当と交換させられたって」
+<0048> \{Рё}You mentioned last time that Onee-chan forced you to exchange your bread for her lunch box.
+//// <0048> \{Рё}「前に言ってましたよね、お姉ちゃんに無理矢理お弁当と交換させられたって」
 //// <0048> \{Рё}"Разве ты сам не говорил, что стоит самим покупать еду, вместо того, чтобы обременять сестру нашими обедами?"
 
 <0049> \{Томоя}Y-Yeah... Oh, yeah, that did happen.
@@ -219,40 +219,40 @@
 //// <0054> キョロキョロと周囲を見回す。
 //// <0054> Я осмотрелся.
 
-<0055> \{椋}Is something wrong?
-//// <0055> \{椋}「どうしました？」
+<0055> \{Рё}Is something wrong?
+//// <0055> \{Рё}「どうしました？」
 //// <0055> \{Рё}"Что такое?"
 
 <0056> \{Томоя}This is the same place as two weeks ago, right?
 //// <0056> \{Томоя}「ここ…２週間前と同じ場所だな？」
 //// <0056> \{Томоя}"Это место... тоже самое место, что и две недели назад?"
 
-<0057> \{椋}Oh, you can tell?
-//// <0057> \{椋}「あ、わかりましたか？」
+<0057> \{Рё}Oh, you can tell?
+//// <0057> \{Рё}「あ、わかりましたか？」
 //// <0057> \{Рё}"А, ты догадался?"
 
-<0058> \{椋}Actually, I secretly told my own fortune during fourth period.
-//// <0058> \{椋}「実は四時間目にこっそり占いをしてみたんです」
+<0058> \{Рё}Actually, I secretly told my own fortune during fourth period.
+//// <0058> \{Рё}「実は四時間目にこっそり占いをしてみたんです」
 //// <0058> \{Рё}"Если честно, во время четвёртого урока я погадала."
 
 <0059> From her pocket, Fujibayashi takes out the deck of tarot cards that I ─ no, Kyou ─ bought, and smiles.
 //// <0059> 藤林はポケットから俺──…違う、杏が買ってくれたタロットを取り出し微笑む。
 //// <0059> Фудзибаяси достала из кармана карты, что я купил... нет, что купила Кё.
 
-<0060> \{椋}I tried a hexagram spread, and got the card "Judgement" in my keyword position.
-//// <0060> \{椋}「ヘキサグラムで占ってみたんですけど、その時、Judgmentのカードがキーワードの位置に来たんです」
+<0060> \{Рё}I tried a hexagram spread, and got the card "Judgement" in my keyword position.
+//// <0060> \{Рё}「ヘキサグラムで占ってみたんですけど、その時、Judgmentのカードがキーワードの位置に来たんです」
 //// <0060> \{Рё}"В этой гексаграмме, карта Определения, указала, что здесь наше ключевое место."
 
-<0061> \{椋}In its upright position, this card stands for reunion, absolution, restart, and new beginning.
-//// <0061> \{椋}「このカードの正位置の意味は、再会・決断・再出発・新しい道なんですよ」
+<0061> \{Рё}In its upright position, this card stands for reunion, absolution, restart, and new beginning.
+//// <0061> \{Рё}「このカードの正位置の意味は、再会・決断・再出発・新しい道なんですよ」
 //// <0061> \{Рё}"Точное значение карт было: воссоединение, определение, перезапуск и новый путь."
 
-<0062> \{椋}Reunion and restart can be taken to mean to visit a place you have been to once more.
-//// <0062> \{椋}「再会・再出発ということは…一度通った場所からもう一度ともとれるので…」
+<0062> \{Рё}Reunion and restart can be taken to mean to visit a place you have been to once more.
+//// <0062> \{Рё}「再会・再出発ということは…一度通った場所からもう一度ともとれるので…」
 //// <0062> \{Рё}"'Воссоединение' и 'определение' означали... возвращение на это место..."
 
-<0063> \{椋}And that's why... um... I thought about the place where we ate lunch together... the first time...
-//// <0063> \{椋}「だから…その…初めて二人でお弁当を…食べた場所でと思って…」
+<0063> \{Рё}And that's why... um... I thought about the place where we ate lunch together... the first time...
+//// <0063> \{Рё}「だから…その…初めて二人でお弁当を…食べた場所でと思って…」
 //// <0063> \{Рё}"Поэтому... эм... я подумала о... месте где мы впервые обедали..."
 
 <0064> When she neared the end of her sentence, she kept glancing between me and her hands while she spoke softly.
@@ -263,20 +263,20 @@
 //// <0065> \{Томоя}「なるほどね。こうすると良い未来が待ってる…と？」
 //// <0065> \{Томоя}"Ясно. Это означает, что у нас светлое будущее... верно?"
 
-<0066> \{椋}Y-Yes, exactly. Actually, I got an upright "Wheel of Fortune" in my final outcome position.
-//// <0066> \{椋}「そ、そうなんですよ。実は最終予想の結果位置に来たカードが正位置のWheel of Fortuneだったんです」
+<0066> \{Рё}Y-Yes, exactly. Actually, I got an upright "Wheel of Fortune" in my final outcome position.
+//// <0066> \{Рё}「そ、そうなんですよ。実は最終予想の結果位置に来たカードが正位置のWheel of Fortuneだったんです」
 //// <0066> \{Рё}"В-верно. На самом деле, последняя карта - Колесо Фортуны."
 
-<0067> \{椋}It stands for destiny, chances, and new developments.
-//// <0067> \{椋}「意味は、運命とかチャンスとか新しい展開なんです」
+<0067> \{Рё}It stands for destiny, chances, and new developments.
+//// <0067> \{Рё}「意味は、運命とかチャンスとか新しい展開なんです」
 //// <0067> \{Рё}"Которая означает, что ты можешь начать что-то новое."
 
-<0068> \{椋}Just as its name implies, it can be taken to mean that things will continue on as is indefinitely.
-//// <0068> \{椋}「Wheel of Fortuneは文字通り運命の輪で、これから途切れることなく回り続けるという意味にもとれます」
+<0068> \{Рё}Just as its name implies, it can be taken to mean that things will continue on as is indefinitely.
+//// <0068> \{Рё}「Wheel of Fortuneは文字通り運命の輪で、これから途切れることなく回り続けるという意味にもとれます」
 //// <0068> \{Рё}"Буквальное значение Колеса Фортуны - бесконечный круг."
 
-<0069> \{椋}Which is why I thought if things are going well now, then the future must be bright as well.
-//// <0069> \{椋}「だから今が良ければ、未来もきっと良いものになるんですよ」
+<0069> \{Рё}Which is why I thought if things are going well now, then the future must be bright as well.
+//// <0069> \{Рё}「だから今が良ければ、未来もきっと良いものになるんですよ」
 //// <0069> \{Рё}"Поэтому, хорошо, что сейчас у нас светлое будущее."
 
 <0070> Fujibayashi says with a happy expression.
@@ -299,16 +299,16 @@
 //// <0074> …俺の中に生まれてしまったわだかまりが、しこりになって今の現状を素直に受け入れられないでいる…。
 //// <0074> ... но когда я наблюдал за этим, внутри у меня затаилось нехорошее чувство, леденящее мои плечи...
 
-<0075> \{椋}...Оказаки-kun...?
-//// <0075> \{椋}「…\m{A}くん…？」
+<0075> \{Рё}...Оказаки-kun...?
+//// <0075> \{Рё}「…\m{A}くん…？」
 //// <0075> \{Рё}"... Оказаки-кун...?"
 
 <0076> \{Томоя}Eh? Yeah, what's up?
 //// <0076> \{Томоя}「え？　あ、なに？」
 //// <0076> \{Томоя}"А? Ах, что?"
 
-<0077> \{椋}...
-//// <0077> \{椋}「………」
+<0077> \{Рё}...
+//// <0077> \{Рё}「………」
 //// <0077> \{Рё}"........."
 
 <0078> \{Томоя}...?
@@ -327,8 +327,8 @@
 //// <0081> すぐに──…。
 //// <0081> Потом--...
 
-<0082> \{椋}For drinks, I have coffee milk and orange juice. Which one would you like?
-//// <0082> \{椋}「飲み物、コーヒー牛乳とオレンジジュースがありますけど、どっちにしますか？」
+<0082> \{Рё}For drinks, I have coffee milk and orange juice. Which one would you like?
+//// <0082> \{Рё}「飲み物、コーヒー牛乳とオレンジジュースがありますけど、どっちにしますか？」
 //// <0082> \{Рё}"У меня есть кофе с молоком и апельсиновый сок. Что будешь?"
 
 <0083> She asks as she pulls out the juice pack from the paper bag.
@@ -343,40 +343,40 @@
 //// <0085> 度々、校門を通る生徒や、昼食を終え教室から外を眺めている生徒がこっちを見る。
 //// <0085> Время от времени, ученики, что уже закончили обедать, проходили мимо, одаривая нас взглядами.
 
-<0086> \{椋}There's a lot of people looking at us.
-//// <0086> \{椋}「随分とみんなこっちを見ますね」
+<0086> \{Рё}There's a lot of people looking at us.
+//// <0086> \{Рё}「随分とみんなこっちを見ますね」
 //// <0086> \{Рё}"В последнее время, на нас часто смотрят."
 
 <0087> \{Томоя}You are right.
 //// <0087> \{Томоя}「そうだな」
 //// <0087> \{Томоя}"Ага."
 
-<0088> \{椋}I wonder... how they view us...?
-//// <0088> \{椋}「私達…どういう風に見られているんでしょうか…」
+<0088> \{Рё}I wonder... how they view us...?
+//// <0088> \{Рё}「私達…どういう風に見られているんでしょうか…」
 //// <0088> \{Рё}"Интересно... что они про нас говорят..."
 
 <0089> \{Томоя}View us? What do you mean...?
 //// <0089> \{Томоя}「どういう風に…とは…？」
 //// <0089> \{Томоя}"Что они говорят про... нас...?"
 
-<0090> \{椋}Do we look like we are dating to them?
-//// <0090> \{椋}「恋人同士に見えますか？」
+<0090> \{Рё}Do we look like we are dating to them?
+//// <0090> \{Рё}「恋人同士に見えますか？」
 //// <0090> \{Рё}"Они видят в нас влюблённых?"
 
 <0091> \{Томоя}Well... if we weren't, then we wouldn't be sitting next to each other and having lunch now, would we?
 //// <0091> \{Томоя}「そりゃー…そうじゃなきゃこうして肩並べて昼飯食わねぇだろ」
 //// <0091> \{Томоя}"Это--... может, они не считают, что мы в самом деле могли бы обедать вместе?"
 
-<0092> \{椋}That's... true. I suppose.
-//// <0092> \{椋}「そう…ですね、そうですよね」
+<0092> \{Рё}That's... true. I suppose.
+//// <0092> \{Рё}「そう…ですね、そうですよね」
 //// <0092> \{Рё}"Н... наверно. Полагаю это так."
 
 <0093> Fujibayashi smiles.
 //// <0093> 藤林はニコリと笑う。
 //// <0093> Фудзибаяси мило улыбнулась.
 
-<0094> \{椋}But this will create some rumors, right?
-//// <0094> \{椋}「でも、噂になっちゃいますね」
+<0094> \{Рё}But this will create some rumors, right?
+//// <0094> \{Рё}「でも、噂になっちゃいますね」
 //// <0094> \{Рё}"Но, слухи."
 
 <0095> \{Томоя}Eh...?
@@ -387,12 +387,12 @@
 //// <0096> 『噂』という言葉に、心臓がドンッと胸を強く叩いた。
 //// <0096> От этого слова "слухи", моё сердцебиение ускорилось.
 
-<0097> \{椋}By being together like this, others will start looking at us.
-//// <0097> \{椋}「こうして一緒にいれば、みんなが見て行きます」
+<0097> \{Рё}By being together like this, others will start looking at us.
+//// <0097> \{Рё}「こうして一緒にいれば、みんなが見て行きます」
 //// <0097> \{Рё}"Все смотрят на нас, когда мы вместе."
 
-<0098> \{椋}Which is why even if we don't proclaim to anyone that we are going out, the word will probably spread, and we will be publically recognized as lovers before we know it.
-//// <0098> \{椋}「だから付き合っていますって宣言とかしなくても話が広がって、気が付いたら公認カップルになっていそうです」
+<0098> \{Рё}Which is why even if we don't proclaim to anyone that we are going out, the word will probably spread, and we will be publically recognized as lovers before we know it.
+//// <0098> \{Рё}「だから付き合っていますって宣言とかしなくても話が広がって、気が付いたら公認カップルになっていそうです」
 //// <0098> \{Рё}"Может, они распространяют о нас слухи, что мы пара, встречаемся и всё такое."
 
 <0099> With a smile...
@@ -435,12 +435,12 @@
 //// <0108> \{Томоя}「…──！」
 //// <0108> \{Томоя}"...--!"
 
-<0109> \{椋}Оказаки-kun? What's the matter?
-//// <0109> \{椋}「\m{A}くん？　どうしたんですか？」
+<0109> \{Рё}Оказаки-kun? What's the matter?
+//// <0109> \{Рё}「\m{A}くん？　どうしたんですか？」
 //// <0109> \{Рё}"Оказаки-кун? Что такое?"
 
-<0110> \{椋}Is somebody looking at us from the school building?
-//// <0110> \{椋}「校舎から誰かこっちを見ていましたか…？」
+<0110> \{Рё}Is somebody looking at us from the school building?
+//// <0110> \{Рё}「校舎から誰かこっちを見ていましたか…？」
 //// <0110> \{Рё}"Кто-то из школы смотрит на нас...?"
 
 <0111> \{Томоя}N-Nah...
@@ -455,8 +455,8 @@
 //// <0113> \{Томоя}「確かにみんなこっちを見てたりするな…と思ってな」
 //// <0113> \{Томоя}"Я подумал, что все... смотрели на нас."
 
-<0114> \{椋}You're right... it really does make me feel a little embarrassed.
-//// <0114> \{椋}「そうです…ね、やっぱり少し恥ずかしいですね」
+<0114> \{Рё}You're right... it really does make me feel a little embarrassed.
+//// <0114> \{Рё}「そうです…ね、やっぱり少し恥ずかしいですね」
 //// <0114> \{Рё}"П... понятно. Это и правда смущает, да?"
 
 <0115> With her cheeks blushing just a little, Fujibayashi smiles, and then drinks from the box of orange juice she is holding.
