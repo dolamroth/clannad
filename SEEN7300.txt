@@ -31,8 +31,8 @@
 //// <0007> \{Томоя}「えーと…確か、伊吹さん」
 //// <0007> \{Томоя}"Умм... Вы Ибуки-сан, верно?"
 
-<0008> \{伊吹}Yes.
-//// <0008> \{伊吹}「はい」
+<0008> \{Ибуки}Yes.
+//// <0008> \{Ибуки}「はい」
 //// <0008> \{Ибуки}"Да."
 
 <0009> Where did I meet this woman...?
@@ -43,8 +43,8 @@
 //// <0010> そう、バスケ部との試合の前日だ。店内で会って、早苗さんから、渚のかつての担任だと紹介された。
 //// <0010> Правильно, за день до матча с баскетбольной командой. Мы встретились в магазине, и Нагиса представила меня ей, когда Санае ушла, оставив Нагису за ним приглядывать.
 
-<0011> \{伊吹}Did you come to visit Nagisa-chan?
-//// <0011> \{伊吹}「渚ちゃんに会いに来たんですか」
+<0011> \{Ибуки}Did you come to visit Nagisa-chan?
+//// <0011> \{Ибуки}「渚ちゃんに会いに来たんですか」
 //// <0011> \{Ибуки}"Ты пришёл встретиться с Нагисой-тян?"
 
 <0012> \{Томоя}Well, kind of. Sanae-san and the rest are here too.
@@ -59,44 +59,44 @@
 //// <0014> 手に何も持ってないことを確認して、俺はそう言った。
 //// <0014> Я заметил, что у неё в руках ничего не было.
 
-<0015> \{伊吹}That's right. I'm just here to say hi today, since I'm going to be leaving town for a while.
-//// <0015> \{伊吹}「はい。今日は、ご挨拶だけです。しばらく、この町を離れますので」
+<0015> \{Ибуки}That's right. I'm just here to say hi today, since I'm going to be leaving town for a while.
+//// <0015> \{Ибуки}「はい。今日は、ご挨拶だけです。しばらく、この町を離れますので」
 //// <0015> \{Ибуки}"Да. Сегодня я просто пришла поздороваться. Я собираюсь на некоторое время покинуть город."
 
 <0016> \{Томоя}Huh? Are you going back home or something?
 //// <0016> \{Томоя}「え？　田舎にでも帰るんすか」
 //// <0016> \{Томоя}"Что? Вы собираетесь вернуться в деревню?"
 
-<0017> \{伊吹}No, I'll be going one town over. My little sister is hospitalized there, and I want to stay by her side from now on.
-//// <0017> \{伊吹}「いえ。隣町です。妹が入院してるんで、これからはずっとそばにいようと思いまして」
+<0017> \{Ибуки}No, I'll be going one town over. My little sister is hospitalized there, and I want to stay by her side from now on.
+//// <0017> \{Ибуки}「いえ。隣町です。妹が入院してるんで、これからはずっとそばにいようと思いまして」
 //// <0017> \{Ибуки}"Нет. В соседний город. Моя младшая сестра в той больнице, и я думаю, что я должна остаться с ней пока она не поправится."
 
 <0018> \{Томоя}Ah, so that's what it's about.
 //// <0018> \{Томоя}「あ、そうだったんすか」
 //// <0018> \{Томоя}"Ох, понятно."
 
-<0019> \{伊吹}Yes. So it looks like I won't be seeing you for a while either, Оказаки-san.
-//// <0019> \{伊吹}「はい。\m{A}さんともしばらく会えなくなりますね」
+<0019> \{Ибуки}Yes. So it looks like I won't be seeing you for a while either, Оказаки-san.
+//// <0019> \{Ибуки}「はい。\m{A}さんともしばらく会えなくなりますね」
 //// <0019> \{Ибуки}"Да. Я думаю, мы давно не виделись, Оказаки-сан."
 
 <0020> \{Томоя}You'll just be in the next town over. It's really not that far.
 //// <0020> \{Томоя}「隣町でしょ。近いじゃないっすか」
 //// <0020> \{Томоя}"Соседний город, правильно? Разве он близко?"
 
-<0021> \{伊吹}I guess so.
-//// <0021> \{伊吹}「そうですね」
+<0021> \{Ибуки}I guess so.
+//// <0021> \{Ибуки}「そうですね」
 //// <0021> \{Ибуки}"Думаю, да."
 
-<0022> \{伊吹}...
-//// <0022> \{伊吹}「………」
+<0022> \{Ибуки}...
+//// <0022> \{Ибуки}「………」
 //// <0022> \{Ибуки}"........."
 
-<0023> \{伊吹}Оказаки-san...
-//// <0023> \{伊吹}「\m{A}さんは…」
+<0023> \{Ибуки}Оказаки-san...
+//// <0023> \{Ибуки}「\m{A}さんは…」
 //// <0023> \{Ибуки}"Оказаки-сан..."
 
-<0024> \{伊吹}You know Koumura-sensei, don't you?
-//// <0024> \{伊吹}「幸村先生をご存じですよね」
+<0024> \{Ибуки}You know Koumura-sensei, don't you?
+//// <0024> \{Ибуки}「幸村先生をご存じですよね」
 //// <0024> \{Ибуки}"Ты знаешь Коумуру-сенсея, не так ли?"
 
 <0025> \{Томоя}...Eh?
@@ -107,32 +107,32 @@
 //// <0026> いきなり思いもしない名前が出て、面食らう。
 //// <0026> Имя, которое не часто приходило мне в голову, сейчас заставило меня задуматься.
 
-<0027> \{伊吹}Koumura-sensei. Who teaches ancient literature.
-//// <0027> \{伊吹}「幸村先生。古文のですよ」
+<0027> \{Ибуки}Koumura-sensei. Who teaches ancient literature.
+//// <0027> \{Ибуки}「幸村先生。古文のですよ」
 //// <0027> \{Ибуки}"Коумура-сенсей, учитель классической литературы." *
 
 <0028> \{Томоя}Yes.
 //// <0028> \{Томоя}「ええ」
 //// <0028> \{Томоя}"Точно."
 
-<0029> \{伊吹}Was he your homeroom teacher during your first year?
-//// <0029> \{伊吹}「一年の時、担任だった？」
+<0029> \{Ибуки}Was he your homeroom teacher during your first year?
+//// <0029> \{Ибуки}「一年の時、担任だった？」
 //// <0029> \{Ибуки}"Он ведь с первого года ваш классный руководитель?"
 
 <0030> \{Томоя}Yes.
 //// <0030> \{Томоя}「はい」
 //// <0030> \{Томоя}"Да."
 
-<0031> \{伊吹}So, Оказаки-san... are you, well... going to university?
-//// <0031> \{伊吹}「\m{A}さんは、その…進学はする？」
+<0031> \{Ибуки}So, Оказаки-san... are you, well... going to university?
+//// <0031> \{Ибуки}「\m{A}さんは、その…進学はする？」
 //// <0031> \{Ибуки}"Оказаки-сан, ну... ты собираешься в университет?"
 
 <0032> \{Томоя}No, that'd seriously be impossible. I'll probably just get a job.
 //// <0032> \{Томоя}「いや、無理っすよ。たぶん、就職です」
 //// <0032> \{Томоя}"Нет, это невозможно. Я, наверное, устроюсь на работу."
 
-<0033> \{伊吹}And your friend too?
-//// <0033> \{伊吹}「お友達も？」
+<0033> \{Ибуки}And your friend too?
+//// <0033> \{Ибуки}「お友達も？」
 //// <0033> \{Ибуки}"Твой друг тоже?"
 
 <0034> \{Томоя}...
@@ -147,32 +147,32 @@
 //// <0036> 質問には答えず、訊き返してみた。
 //// <0036> Спросил я её в свою очередь.
 
-<0037> \{伊吹}Oh, I'm sorry for prying like this.
-//// <0037> \{伊吹}「ごめんなさい。探るようなことして」
+<0037> \{Ибуки}Oh, I'm sorry for prying like this.
+//// <0037> \{Ибуки}「ごめんなさい。探るようなことして」
 //// <0037> \{Ибуки}"Извини за такое любопытство."
 
-<0038> \{伊吹}I just remembered what Nagisa-chan had told me before.
-//// <0038> \{伊吹}「渚ちゃんが前に言ってたのを思い出して」
+<0038> \{Ибуки}I just remembered what Nagisa-chan had told me before.
+//// <0038> \{Ибуки}「渚ちゃんが前に言ってたのを思い出して」
 //// <0038> \{Ибуки}"Я вспомнила, что Нагиса-тян раньше об этом говорила."
 
-<0039> \{伊吹}How you two couldn't participate in sports anymore, even if you wanted to.
-//// <0039> \{伊吹}「スポーツしたくても、できなくなったって」
+<0039> \{Ибуки}How you two couldn't participate in sports anymore, even if you wanted to.
+//// <0039> \{Ибуки}「スポーツしたくても、できなくなったって」
 //// <0039> \{Ибуки}"Что ты хочешь заниматься спортом, но не можешь."
 
 <0040> \{Томоя}Yeah... what about that?
 //// <0040> \{Томоя}「ええ…そうですけど」
 //// <0040> \{Томоя}"Да... это правда."
 
-<0041> \{伊吹}And so in that case, I was wondering if you and your friend might just be Koumura-sensei's final students.
-//// <0041> \{伊吹}「それなら、もしかして、\m{A}さんとそのお友達の方が、幸村先生の、最後の教え子になるんじゃないかと思ったんです」
+<0041> \{Ибуки}And so in that case, I was wondering if you and your friend might just be Koumura-sensei's final students.
+//// <0041> \{Ибуки}「それなら、もしかして、\m{A}さんとそのお友達の方が、幸村先生の、最後の教え子になるんじゃないかと思ったんです」
 //// <0041> \{Ибуки}"Если так, то я думаю, что ты и твой друг станете последними учениками у Коумуры-сенсея."
 
 <0042> \{Томоя}His final students...?
 //// <0042> \{Томоя}「最後…？」
 //// <0042> \{Томоя}"Последними...?"
 
-<0043> \{伊吹}That's right. Koumura-sensei's going to retire after this year.
-//// <0043> \{伊吹}「はい。幸村先生、今年度で、退職されるんです」
+<0043> \{Ибуки}That's right. Koumura-sensei's going to retire after this year.
+//// <0043> \{Ибуки}「はい。幸村先生、今年度で、退職されるんです」
 //// <0043> \{Ибуки}"Да. Коумура-сенсей в этом году выходит на пенсию."
 
 <0044> \{Томоя}Really...? I didn't know.
@@ -183,32 +183,32 @@
 //// <0045> \{Томоя}「でも、俺の担任だったのは一年の時で、今じゃないっすよ。今は、担任持ってないはずです」
 //// <0045> \{Томоя}"Но, хотя он с первого года и был моим классным руководителем, сейчас он присматривает за другими учениками."
 
-<0046> \{伊吹}Yes, I know.
-//// <0046> \{伊吹}「はい、知っていますよ」
+<0046> \{Ибуки}Yes, I know.
+//// <0046> \{Ибуки}「はい、知っていますよ」
 //// <0046> \{Ибуки}"Да, я знаю."
 
-<0047> \{伊吹}When I say you're his final students, I don't mean as in the last ones to be taught by him.
-//// <0047> \{伊吹}「最後の教え子、というのは、担任を受け持っているとか、そういう意味ではないんです」
+<0047> \{Ибуки}When I say you're his final students, I don't mean as in the last ones to be taught by him.
+//// <0047> \{Ибуки}「最後の教え子、というのは、担任を受け持っているとか、そういう意味ではないんです」
 //// <0047> \{Ибуки}"Быть последними учениками... или отвечать за вас обоих... это не то что я имею в виду."
 
-<0048> \{伊吹}Well, saying it like this may be rude to you two...
-//// <0048> \{伊吹}「こういう言い方は、\m{A}さんたちに悪いですけど…」
+<0048> \{Ибуки}Well, saying it like this may be rude to you two...
+//// <0048> \{Ибуки}「こういう言い方は、\m{A}さんたちに悪いですけど…」
 //// <0048> \{Ибуки}"Тебе может не понравиться, что я хочу сказать Оказаки-сан..."
 
 <0049> \{Томоя}It's fine. Just say it.
 //// <0049> \{Томоя}「いいですよ、言ってください」
 //// <0049> \{Томоя}"Все в порядке, продолжайте."
 
-<0050> \{伊吹}What I meant was that you were the last ones he took care of.
-//// <0050> \{伊吹}「最後に世話を焼いた、という意味です」
+<0050> \{Ибуки}What I meant was that you were the last ones he took care of.
+//// <0050> \{Ибуки}「最後に世話を焼いた、という意味です」
 //// <0050> \{Ибуки}"Это значит, что вы последние, о ком он будет заботиться."
 
 <0051> \{Томоя}Huh...
 //// <0051> \{Томоя}「ああ…」
 //// <0051> \{Томоя}"Да..."
 
-<0052> \{伊吹}Koumura-sensei had told me that there were two students exactly like that.
-//// <0052> \{伊吹}「幸村先生から、そういうふたりがいるってことは話に聞いてたんです」
+<0052> \{Ибуки}Koumura-sensei had told me that there were two students exactly like that.
+//// <0052> \{Ибуки}「幸村先生から、そういうふたりがいるってことは話に聞いてたんです」
 //// <0052> \{Ибуки}"Я слышала от Коумуры-сенсея, что есть два ученика..."
 
 <0053> \{Томоя}In that case, yeah.
@@ -227,148 +227,148 @@
 //// <0056> 幸村
 //// <0056> Коумура
 
-<0057> \{伊吹}Up until six years ago, Koumura-sensei had been teaching at an industrial high school.
-//// <0057> \{伊吹}「幸村先生は、６年前まで、工業高校で教鞭を執っていたんです」
+<0057> \{Ибуки}Up until six years ago, Koumura-sensei had been teaching at an industrial high school.
+//// <0057> \{Ибуки}「幸村先生は、６年前まで、工業高校で教鞭を執っていたんです」
 //// <0057> \{Ибуки}"Шесть лет назад, Коумура-сенсей был преподавателем в одной старшей технической школе."
 
 <0058> Ibuki-san leans against the iron bar and starts talking.
 //// <0058> 伊吹さんは、鉄棒にもたれて、話を始めた。
 //// <0058> Ибуки-сан облокотилась на железные перила, когда начала говорить.
 
-<0059> \{伊吹}For a time, the behaviour of the students there had become a problem, and the school had become famous for it.
-//// <0059> \{伊吹}「一時期、生徒の素行が問題になって、それで有名になってしまった学校です」
+<0059> \{Ибуки}For a time, the behaviour of the students there had become a problem, and the school had become famous for it.
+//// <0059> \{Ибуки}「一時期、生徒の素行が問題になって、それで有名になってしまった学校です」
 //// <0059> \{Ибуки}"Некоторое время с учениками той школы постоянно возникали проблемы, и тогда школа приобрела дурную славу."
 
 <0060> I knew the school she was talking about. It was an infamous school, containing all the town's delinquents.
 //// <0060> どこの学校を指しているのかはわかった。町の不良が集まる悪名高い高校だ。
 //// <0060> Я уже знал, о какой школе она говорит. В городе была только одна школа, в которой собрали всех преступников.
 
-<0061> \{伊吹}And for a long time, he'd been working as a counselor there.
-//// <0061> \{伊吹}「そこで、ずっと、生活指導をしていたんです」
+<0061> \{Ибуки}And for a long time, he'd been working as a counselor there.
+//// <0061> \{Ибуки}「そこで、ずっと、生活指導をしていたんです」
 //// <0061> \{Ибуки}"Все время он преподавал там."
 
 <0062> \{Томоя}With that frail body of his?
 //// <0062> \{Томоя}「あの、細い体で？」
 //// <0062> \{Томоя}"С таким слабым телом?"
 
-<0063> \{伊吹}Of course he was far younger than he is now... Besides, that kind of thing doesn't take physical strength.
-//// <0063> \{伊吹}「もちろん今よりは若かったし…それに、そういうのは力じゃないでしょう？」
+<0063> \{Ибуки}Of course he was far younger than he is now... Besides, that kind of thing doesn't take physical strength.
+//// <0063> \{Ибуки}「もちろん今よりは若かったし…それに、そういうのは力じゃないでしょう？」
 //// <0063> \{Ибуки}"Конечно, тогда он был молодым... и не применял силу в отношении студентов, не так ли?"
 
 <0064> \{Томоя}Guess so...
 //// <0064> \{Томоя}「そうっすね…」
 //// <0064> \{Томоя}"Думаю, так..."
 
-<0065> \{伊吹}At any rate, he was really strict.
-//// <0065> \{伊吹}「とにかく厳しかったんです」
+<0065> \{Ибуки}At any rate, he was really strict.
+//// <0065> \{Ибуки}「とにかく厳しかったんです」
 //// <0065> \{Ибуки}"Во всяком случае, это время было очень насыщенным."
 
 <0066> \{Томоя}Seriously...?
 //// <0066> \{Томоя}「マジっすか…」
 //// <0066> \{Томоя}"Правда...?"
 
-<0067> \{伊吹}Yes, it's really true. Sometimes he'd even throw the parents into the counseling room and give them a scolding too...
-//// <0067> \{伊吹}「ええ、本当です。親も生活指導室に放り込んで説教したり…武勇伝はたくさんあるんですよ」
+<0067> \{Ибуки}Yes, it's really true. Sometimes he'd even throw the parents into the counseling room and give them a scolding too...
+//// <0067> \{Ибуки}「ええ、本当です。親も生活指導室に放り込んで説教したり…武勇伝はたくさんあるんですよ」
 //// <0067> \{Ибуки}"Да, это правда. Даже самих родителей заставляли ходить на консультации... было много случаев драк среди учащихся."
 
 <0068> I can't believe it...
 //// <0068> 信じられない…。
 //// <0068> Я не мог в это поверить...
 
-<0069> \{伊吹}He was pretty unconventional as a life coach...
-//// <0069> \{伊吹}「そんな型破りな指導者でしたけど…」
+<0069> \{Ибуки}He was pretty unconventional as a life coach...
+//// <0069> \{Ибуки}「そんな型破りな指導者でしたけど…」
 //// <0069> \{Ибуки}"Хотя он был необычным лидером..."
 
-<0070> \{伊吹}But there was one principle he would never let go of.
-//// <0070> \{伊吹}「でも、ただひとつ、貫いたことがあったんです」
+<0070> \{Ибуки}But there was one principle he would never let go of.
+//// <0070> \{Ибуки}「でも、ただひとつ、貫いたことがあったんです」
 //// <0070> \{Ибуки}"Было нечто, характерное только для него."
 
 <0071> \{Томоя}What was that?
 //// <0071> \{Томоя}「なんですか」
 //// <0071> \{Томоя}"Что это?"
 
-<0072> \{伊吹}He would definitely not let any students quit school.
-//// <0072> \{伊吹}「絶対に、学校を辞めさせない」
+<0072> \{Ибуки}He would definitely not let any students quit school.
+//// <0072> \{Ибуки}「絶対に、学校を辞めさせない」
 //// <0072> \{Ибуки}"Он никогда не выгнал бы тебя из школы."
 
-<0073> \{伊吹}He wouldn't even let them drop out of their own volition.
-//// <0073> \{伊吹}「自主退学もさせなかったんです」
+<0073> \{Ибуки}He wouldn't even let them drop out of their own volition.
+//// <0073> \{Ибуки}「自主退学もさせなかったんです」
 //// <0073> \{Ибуки}"И никогда не позволил бы тебе самостоятельно уйти."
 
-<0074> \{伊吹}Koumura-sensei considered the school like a microcosm of life.
-//// <0074> \{伊吹}「幸村先生は、学校を人生の縮図だと考えていたんです」
+<0074> \{Ибуки}Koumura-sensei considered the school like a microcosm of life.
+//// <0074> \{Ибуки}「幸村先生は、学校を人生の縮図だと考えていたんです」
 //// <0074> \{Ибуки}"Можно подумать, что в этой школе это было смыслом жизни Коумуры-сенсея."
 
-<0075> \{伊吹}The three years you spend at school aren't just for studying.
-//// <0075> \{伊吹}「学校で過ごす三年間は、勉強のためだけじゃない」
+<0075> \{Ибуки}The three years you spend at school aren't just for studying.
+//// <0075> \{Ибуки}「学校で過ごす三年間は、勉強のためだけじゃない」
 //// <0075> \{Ибуки}"Три года он там провёл, не только чтобы преподавать."
 
-<0076> \{伊吹}They're to get in contact with people, make friends, and work together...
-//// <0076> \{伊吹}「人と接して、友達を作って、協力して…」
+<0076> \{Ибуки}They're to get in contact with people, make friends, and work together...
+//// <0076> \{Ибуки}「人と接して、友達を作って、協力して…」
 //// <0076> \{Ибуки}"Он стал ближе к людям, завёл друзей, и общался с остальными..."
 
-<0077> \{伊吹}There are successes and failures...
-//// <0077> \{伊吹}「成功もあったり、失敗もあったり…」
+<0077> \{Ибуки}There are successes and failures...
+//// <0077> \{Ибуки}「成功もあったり、失敗もあったり…」
 //// <0077> \{Ибуки}"Все шло хорошо..."
 
-<0078> \{伊吹}Joy and pain...
-//// <0078> \{伊吹}「楽しいこともあったり、辛いこともあったり…」
+<0078> \{Ибуки}Joy and pain...
+//// <0078> \{Ибуки}「楽しいこともあったり、辛いこともあったり…」
 //// <0078> \{Ибуки}"Были и радость и боль..."
 
-<0079> \{伊吹}Everyone there is walking toward the goal they set for themselves when they enrolled: graduation.
-//// <0079> \{伊吹}「そして、誰もが入学した当初に描いていた卒業という目標に向かって、歩んでいく」
+<0079> \{Ибуки}Everyone there is walking toward the goal they set for themselves when they enrolled: graduation.
+//// <0079> \{Ибуки}「そして、誰もが入学した当初に描いていた卒業という目標に向かって、歩んでいく」
 //// <0079> \{Ибуки}"Он возвращал людей, которые сбились со своего пути."
 
-<0080> \{伊吹}If he let them quit this path halfway, or let them stop in frustration...
-//// <0080> \{伊吹}「それを途中で諦めたり、挫折しちゃったりしたら…」
+<0080> \{Ибуки}If he let them quit this path halfway, or let them stop in frustration...
+//// <0080> \{Ибуки}「それを途中で諦めたり、挫折しちゃったりしたら…」
 //// <0080> \{Ибуки}"Подбадривал тех, кто был расстроен..."
 
-<0081> \{伊吹}They would be set back in life, as well.
-//// <0081> \{伊吹}「人生に挫折したも同じ」
+<0081> \{Ибуки}They would be set back in life, as well.
+//// <0081> \{Ибуки}「人生に挫折したも同じ」
 //// <0081> \{Ибуки}"Тех, кто разочаровался в жизни."
 
-<0082> \{伊吹}They wouldn't be able to face the even bigger world to come.
-//// <0082> \{伊吹}「その後に待つ、もっと大きな人生に立ち向かっていけるはずがない」
+<0082> \{Ибуки}They wouldn't be able to face the even bigger world to come.
+//// <0082> \{Ибуки}「その後に待つ、もっと大きな人生に立ち向かっていけるはずがない」
 //// <0082> \{Ибуки}"Потому что после школы, они столкнутся лицом к лицу с настоящей жизнью." *
 
-<0083> \{伊吹}That's why he wouldn't just scold the students, but he would also walk alongside them, encouraging them.
-//// <0083> \{伊吹}「だから、生徒たちを叱るだけでなく、励ましながら、共に歩んでいったんです」
+<0083> \{Ибуки}That's why he wouldn't just scold the students, but he would also walk alongside them, encouraging them.
+//// <0083> \{Ибуки}「だから、生徒たちを叱るだけでなく、励ましながら、共に歩んでいったんです」
 //// <0083> \{Ибуки}"Вот почему он не ругал учеников, а воодушевлял их, будучи всегда рядом, готовый помочь."
 
-<0084> \{伊吹}But ever since he came to this school...
-//// <0084> \{伊吹}「でも、今の学校に来てからは…」
+<0084> \{Ибуки}But ever since he came to this school...
+//// <0084> \{Ибуки}「でも、今の学校に来てからは…」
 //// <0084> \{Ибуки}"Но когда он пришёл в эту школу..."
 
-<0085> \{伊吹}There was no need for him to do so anymore. You understand why, right?
-//// <0085> \{伊吹}「その必要がなくなったんです。わかりますよね？」
+<0085> \{Ибуки}There was no need for him to do so anymore. You understand why, right?
+//// <0085> \{Ибуки}「その必要がなくなったんです。わかりますよね？」
 //// <0085> \{Ибуки}"В этом не было необходимости. Ты понимаешь, о чем я говорю, верно?"
 
-<0086> \{伊吹}It's because the students here are all excellent.
-//// <0086> \{伊吹}「みんなが優秀なんです」
+<0086> \{Ибуки}It's because the students here are all excellent.
+//// <0086> \{Ибуки}「みんなが優秀なんです」
 //// <0086> \{Ибуки}"У всех и так всё хорошо."
 
-<0087> \{伊吹}What he surely must have considered his duty, something that he absolutely had to do as a teacher...
-//// <0087> \{伊吹}「きっと、幸村先生にとっての教育、自分の教員生活の中で為すべきこと…」
+<0087> \{Ибуки}What he surely must have considered his duty, something that he absolutely had to do as a teacher...
+//// <0087> \{Ибуки}「きっと、幸村先生にとっての教育、自分の教員生活の中で為すべきこと…」
 //// <0087> \{Ибуки}"Я уверена, Коумура-сенсей считал, что консультирование - это то, что он должен делать, как преподаватель..."
 
-<0088> \{伊吹}I think he must have spent these six years having that contradicted because he wasn't needed at all.
-//// <0088> \{伊吹}「それを必要とされず、そして、否定されてしまった６年間だったと思います」
+<0088> \{Ибуки}I think he must have spent these six years having that contradicted because he wasn't needed at all.
+//// <0088> \{Ибуки}「それを必要とされず、そして、否定されてしまった６年間だったと思います」
 //// <0088> \{Ибуки}"Тем не менее, ему 6 лет в этом отказывали, просто потому что это никому было не нужно."
 
-<0089> \{伊吹}It's because everyone only ever thought of the three years they would spend in that school as merely another step in their lives...
-//// <0089> \{伊吹}「みんな、あの学校で過ごす三年間は、人生のひとつのステップとしてしか考えてませんから…」
+<0089> \{Ибуки}It's because everyone only ever thought of the three years they would spend in that school as merely another step in their lives...
+//// <0089> \{Ибуки}「みんな、あの学校で過ごす三年間は、人生のひとつのステップとしてしか考えてませんから…」
 //// <0089> \{Ибуки}"Все в этой школе только и думали, что о своей карьере после выпуска..."
 
-<0090> \{伊吹}So what he considered himself to be his duty wasn't at all needed here.
-//// <0090> \{伊吹}「自分の役目だと思っていたことは、ここでは何一つ必要とされていない」
+<0090> \{Ибуки}So what he considered himself to be his duty wasn't at all needed here.
+//// <0090> \{Ибуки}「自分の役目だと思っていたことは、ここでは何一つ必要とされていない」
 //// <0090> \{Ибуки}"Он думал, что консультировать учеников его долг, но в новой школе это было никому не нужно."
 
-<0091> \{伊吹}And for six years, he continued feeling that way.
-//// <0091> \{伊吹}「それを感じ続けた６年間」
+<0091> \{Ибуки}And for six years, he continued feeling that way.
+//// <0091> \{Ибуки}「それを感じ続けた６年間」
 //// <0091> \{Ибуки}"Это продолжалось на протяжении 6 лет."
 
-<0092> \{伊吹}And now this spring, his teaching career is going to come to an end.
-//// <0092> \{伊吹}「そして、その教員生活も、この春終わってしまうんです」
+<0092> \{Ибуки}And now this spring, his teaching career is going to come to an end.
+//// <0092> \{Ибуки}「そして、その教員生活も、この春終わってしまうんです」
 //// <0092> \{Ибуки}"И этой весной его преподавательская карьера закончится."
 
 <0093> Ibuki-san finishes her story, and pulls away from the iron rod.
@@ -379,8 +379,8 @@
 //// <0094> そして、こっちに体を向けた。
 //// <0094> А потом посмотрела мне в лицо.
 
-<0095> \{伊吹}What do you think... Оказаки-san?
-//// <0095> \{伊吹}「\m{A}さんは…どう思いますか」
+<0095> \{Ибуки}What do you think... Оказаки-san?
+//// <0095> \{Ибуки}「\m{A}さんは…どう思いますか」
 //// <0095> \{Ибуки}"Что ты думаешь... Оказаки-сан?"
 
 <0096> \{Томоя}...
@@ -395,8 +395,8 @@
 //// <0098> 俺は思ったことを口にした。
 //// <0098> Я высказал свои мысли.
 
-<0099> \{伊吹}Quite so!
-//// <0099> \{伊吹}「そうですねっ」
+<0099> \{Ибуки}Quite so!
+//// <0099> \{Ибуки}「そうですねっ」
 //// <0099> \{Ибуки}"Совершенно верно."
 
 <0100> When she hears me say that, Ibuki-san smiles.
