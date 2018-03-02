@@ -1,0 +1,57 @@
+SEEN4421
+<0084> \{ことみ}Two. Kotomi-chan and \name{tomoya}-kun.
+//// <0084> \{ことみ}「ことみちゃんと\m{B}くんで、二人分」
+
+SEEN2423
+<0332> \{杏}Come now, go on and say it. Or are you planning to just ignore \name{tomoya}-kun's SOS signals here?
+//// <0332> \{杏}「ほら、言ってやりなさいよっ、\m{B}くんのＳＯＳ信号を無視する気？」
+
+SEEN2424
+<0231> \{智代}Is what I want to say, but no matter how stupid, you're still \name{tomoya}'s friend, so...
+//// <0231> \{智代}「と言いたいところだが、曲がりなりにも、\m{B}の友達だからな…」
+
+SEEN6426
+<0382> \{渚}I feel like I'm pretty used to \name{tomoya}-kun saying mean things.
+//// <0382> \{渚}「\m{B}くんの口が悪いのは、よくわかってるつもりです」
+
+SEEN6426
+<0612> \{渚}That's not true. \name{tomoya}-kun just says nasty things.
+//// <0612> \{渚}「そんなことないです。\m{B}くん、口が悪いだけです」
+
+SEEN6425
+<0676> \{渚}Let \name{tomoya}-kun join too.
+//// <0676> \{渚}「\m{B}くんも、一緒に居させてください」
+
+SEEN1426
+<0797> I push her to Nagisa's side.
+//// <0797> 俺は\l{A}のほうに押した。
+
+SEEN5423
+<0120> \{春原}Very well, from tomorrow you shall be known as \name{okazaki} the Shaken.
+//// <0120> \{春原}「よし、明日からは、ビビるの\m{A}だ」
+
+SEEN1003
+<0179> \{風子}It's such a shock, but there's no choice but to accept the new \name{okazaki}-san...
+//// <0179> \{風子}「ショックですが、新しい\m{A}さんを受け入れなければいけません…」
+
+SEEN1004
+<0267> \{風子}It's such a shock, but there's no choice but to accept the new \name{okazaki}-san...
+//// <0267> \{風子}「ショックですが、新しい\m{A}さんを受け入れなければいけません…」
+
+SEEN6425
+<0148> \{古河}Yes. And may I start calling you \name{tomoya}-san?
+//// <0148> \{古河}「はい。わたしも、\m{B}さんって呼んでいいですか」
+
+SEEN6426
+<0286> \{春原}But, you see, it's between \name{okazaki} and me.
+//// <0286> \{春原}「いや、だって、僕と\m{A}の付き合いだぜ？」
+
+SEEN2424
+<0359> \{風子}\name{okazaki}-san's saliva is totally running amuck in your mouth...
+//// <0359> \{風子}「\m{A}さんのツバ、つきまくりますよ…」
+
+SEEN1430
+<0018> Уверенно кивнув, Фуко тут же протягивает морскую звезду \l{A}.
+
+SEEN1503
+<0442> \{Томоя}Санаэ-сан, мать \l{A}.

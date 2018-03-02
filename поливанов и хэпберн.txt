@@ -1,0 +1,46 @@
+SEEN1003
+<0125> \{風子}Seriously though, since when did Fuko start doing things like the \dango{Kawaguchi Adventure Team}?
+//// <0125> \{風子}「しかし、どうして風子、知らない間に、川口探検隊のような真似をしてるんでしょうか」
+
+SEEN3423
+<0126> \{杏}I'm Tajima from class 2-A. My teacher asked me to get the samples from the biology prep room.
+//// <0126> \{杏}「２年Ａ組の田島です。先生に言われて生物準備室に標本を取りに行くところです」
+
+SEEN4423
+<0062> \{ことみ}In Japanese, they're called different names as they grow. They go from sagoshi to yanagi to sawara.
+//// <0062> \{ことみ}「出世魚だから、成長するにつれてサゴシ、ヤナギ、サワラと名前が変わっていくの」
+
+SEEN4423
+<0066> \{ことみ}If you use "autumn" instead, then it's a sculpin. If you use "winter," it's a gizzard shad.
+//// <0066> \{ことみ}「魚偏に秋だとカジカで、魚偏に冬だとコノシロなの」
+
+SEEN4423
+<0075> \{\m{B}}And sardine?
+//// <0075> \{\m{B}}「イワシは？」
+
+SEEN4423
+<0077> \{\m{B}}And orca?
+//// <0077> \{\m{B}}「シャチは？」
+
+SEEN0426
+<0033> \{男子}Hey, Takeshita! What's wrong? What happened?!
+//// <0033> \{男子}「おい、竹下っ、どうした、何があったんだぁっ！？」
+
+SEEN0426
+<0242> \{秋生}Yeah. The team from the shopping arcade a town over... is full of kids who played at the national tournament in Koshien.
+//// <0242> \{秋生}「ああ、隣町の商店街チームは…元甲子園球児がうじゃうじゃいやがる…」
+
+SEEN3426
+<0114> \{\m{B}}...Michiko Yukishima...? Saki Toudou...?
+//// <0114> \{\m{B}}「…雪島　美智子…？　藤堂　沙紀…？」
+
+SEEN3430
+<0345> \{Учитель}Он безнадёжен... Сэкигучи!
+
+SEEN6430
+<0343> \{Сунохара}А кто у вас тренер? Оогами?
+Также эту строчку проверить на звучание имени, другой вариант написания – Ооуэ
+<1941> \{Оогами}Don't be so selfish. Hey, Konishi. Go with her instead of him.
+
+SEEN1530
+<0224> \{Комура}Хм-м... Это «дзуйсоо». (раздумья)
