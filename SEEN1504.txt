@@ -1,7 +1,7 @@
-
 <0000> May 4 (Sun.)
 //// <0000> ５月４日(日)
 //// <0000> 4 Мая (Вc)
+<0000> 4 мая (Вс)
 
 <0001> Only two days left until the holidays are over. Today, I decide to take a detour before going to \l{A}'s house.
 //// <0001> 休みも残り二日。この日、俺は遠回りをして、\l{A}の家に向かった。
