@@ -1,7 +1,7 @@
-
 <0000> May 5 (Mon.)
 //// <0000> ５月５日(月)
 //// <0000> 5 Мая (Пн)
+<0000> 5 мая (Пн)
 
 <0001> When I go inside, I notice Sanae-san is tending the store alone.
 //// <0001> 店に入ると、早苗さんがひとりで店番をしていた。
