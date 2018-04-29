@@ -11,7 +11,7 @@
 <0002> Both Tomoyo and I skipped out on our morning homeroom, and met up in an empty classroom.
 //// <0002> 俺と智代は朝のＨＲにも出ずに、空き教室にふたりで居た。
 //// <0002> Томоё и я ушли с линейки и оба оказались в пустом классе.
-<0002> Мы с Томоё пропускаем утреннюю самоподготовку и встречаемся в пустом классе.
+<0002> Мы с Томоё пропускаем утренний классный час и встречаемся в пустом классе.
 
 <0003> Even Tomoyo, who's normally fussy about these kinds of things, doesn't say anything right now.
 //// <0003> そういうことにうるさい智代も、今ばかりは何も言わなかった。
