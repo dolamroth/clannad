@@ -2116,7 +2116,7 @@
 <0423> I feel pretty bothered by all people staring at me.
 //// <0423> その際、やけに視線が気になる。
 //// <0423> Чужие взгляды заставили меня беспокоиться.
-<0423> Немного раздражает, что все бросаюсь на меня взгляды.
+<0423> Немного раздражает, что все бросают на меня взгляды.
 
 <0424> I get the feeling that lots of people are trying to get a glimpse of me through the windows.
 //// <0424> 色んなヤツが、窓越しに俺を見ている様な気がする。
