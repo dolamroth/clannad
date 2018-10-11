@@ -991,6 +991,7 @@
 <0198> \{Томоя}Just go in. You want something from them too, right?
 //// <0198> \{Томоя}「いいから行けよ、おまえも中に用事だろ？」
 //// <0198> \{Томоя}"В общем, просто пришёл. А у тебя у самой какое-то дело там, да?"
+<0198> \{Томоя}Не тяни, заходи. Ты же тоже шла в учительскую?
 
 <0199> She places her thumb on the handle of the sliding door to the teacher's office and says...
 //// <0199> 職員室の戸口を親指で差しつつ言う。
