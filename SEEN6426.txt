@@ -1496,7 +1496,7 @@
 <0299> Sunohara is taken aback by what's just happened.
 //// <0299> 春原は唖然としている。
 //// <0299> Сунохара был в шоке.
-<0299> Сунохара впал в ступор.
+<0299> Сунохара, похоже, ещё не врубается.
 
 <0300> A clear explanation of what's actually going on is probably the only way to calm Nagisa down.
 //// <0300> 渚を落ち着かせるには、事実を明かすしかなかった。
@@ -1541,7 +1541,7 @@
 <0308> \{Нагиса}Urg...
 //// <0308> \{Нагиса}「ぐっ…」
 //// <0308> \{Нагиса}"Хнык..."
-<0308> \{Нагиса}Хнык...
+<0308> \{Нагиса}*Хнык*
 
 <0309> Finally, the tears she was trying to hold back break their dam and start flowing down her cheeks.
 //// <0309> ついに、堪えていた涙が、溢れ出してしまった。
