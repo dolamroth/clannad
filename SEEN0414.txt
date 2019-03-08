@@ -586,7 +586,7 @@
 <0117> However, he lost his spot on the varsity team as a freshman after being suspended for getting into a huge fight with a student from another school.
 //// <0117> しかし一年生の時に他校の生徒と大喧嘩をやらかし停学処分を受け、レギュラーから外された。
 //// <0117> Но в десятом классе он ввязался в большую драку с учениками из другой школы, и его временно исключили. Он перестал быть обычным игроком.
-<0117> Но в десятом классе он ввязался в большую драку с учениками из другой школы, и его временно исключили.
+<0117> Но в первом классе он ввязался в большую драку с учениками из другой школы, и его временно исключили.
 
 <0118> By the time the following year's squad was decided, he was already an outcast within the team.
 //// <0118> そして新人戦が終わる頃には、あいつの居場所は部にはなかった。
