@@ -176,12 +176,12 @@
 <0035> \{\l{A}}Hmm... 
 //// <0035> \{\l{A}}「あの…
 //// <0035> \{\s{strS[1800]}}"Умм...
-<0035> \{\l{A}}М-м-м...
+<0035> \{\l{A}}М-м-м... \
 
 <0036> \name{nagisatotomoya}, do you hate me?
 //// <0036> \s{strS[0]}、わたしのこと嫌いですか」
 //// <0036> \ я тебе не нравлюсь, \s{strS[0]}?"
-<0036> \ \name{nagisatotomoya}, ты меня ненавидишь?
+<0036> \name{nagisatotomoya}, ты меня ненавидишь?
 
 <0037> \{Томоя}Nope, I love you.
 //// <0037> \{Томоя}「いや、好きだよ」
@@ -366,12 +366,12 @@
 <0073> \{\l{A}}Is that right, 
 //// <0073> \{\l{A}}「そうですよね、
 //// <0073> \{\s{strS[1800]}}"Правильно,
-<0073> \{\l{A}}Ведь так,
+<0073> \{\l{A}}Ведь так, \
 
 <0074> \name{nagisatotomoya}?
 //// <0074> \s{strS[0]}」
 //// <0074> \ \s{strS[0]}?"
-<0074> \ \name{nagisatotomoya}?
+<0074> \name{nagisatotomoya}?
 
 <0075> \{Томоя}Yeah, well, he's just a senile old geezer. So it's not so much being gentle as it is he just doesn't have any strength left to be angry.
 //// <0075> \{Томоя}「ああ、老いぼれジジィだからな、優しいというより、怒る気力がない」
@@ -416,12 +416,12 @@
 <0083> \{\l{A}}That's right. It's just as 
 //// <0083> \{\l{A}}「そうです。
 //// <0083> \{\s{strS[1800]}}"Правильно.
-<0083> \{\l{A}}Именно так.
+<0083> \{\l{A}}Именно так. \
 
 <0084> \name{nagisatotomoya} said.
 //// <0084> \s{strS[0]}の言う通りです」
 //// <0084> Всё так, как говорит \s{strS[0]}."
-<0084> \ \name{nagisatotomoya} прав.
+<0084> \name{nagisatotomoya} прав.
 
 <0085> Yes. This is not like our usual entrance exam geared classes.
 //// <0085> そう。進学のための授業じゃない。
@@ -701,12 +701,12 @@
 <0140> \{\l{A}}Not at all! No matter how you look at it, 
 //// <0140> \{\l{A}}「いえ、そんなことないです。
 //// <0140> \{\s{strS[1800]}}"Всё совсем не так...
-<0140> \{\l{A}}Всё совсем не так...
+<0140> \{\l{A}}Всё совсем не так... \
 
 <0141> \name{nagisatotomoya} is more...
 //// <0141> \s{strS[0]}のほうが…」
 //// <0141> \ \s{strS[0]} подошёл бы лучше..."
-<0141> \ \name{nagisatotomoya}, ты подошёл бы лучше...
+<0141> \name{nagisatotomoya}, ты подошёл бы лучше...
 
 <0142> \{Сунохара}If he's the class rep, I'm going home.
 //// <0142> \{Сунохара}「こいつなんかが委員長だったら、僕は帰るね」
@@ -1461,12 +1461,12 @@
 <0292> \{\l{A}}Not to mention there's still 
 //// <0292> \{\l{A}}「
 //// <0292> \{\s{strS[1800]}}"
-<0292> \{\l{A}}Особенно по сравнению с тобой,
+<0292> \{\l{A}}Особенно по сравнению с тобой, \
 
 <0293> \name{nagisatotomoya} and Sunohara-san.
 //// <0293> \s{strS[0]}だって、春原さんだっています」
 //// <0293> Есть ещё ты, \s{strS[0]}, а ещё Сунохара-сан тоже."
-<0293> \ \name{nagisatotomoya}, или Сунохарой-саном.
+<0293> \name{nagisatotomoya}, или Сунохарой-саном.
 
 <0294> \{Томоя}Sunohara's an idiot, so it's impossible for him.
 //// <0294> \{Томоя}「春原はアホだから無理だ」
@@ -1731,12 +1731,12 @@
 <0346> \{\l{A}}Well, then, 
 //// <0346> \{\l{A}}「それでは、
 //// <0346> \{\s{strS[1800]}}"Так,
-<0346> \{\l{A}}Ладно, тогда,
+<0346> \{\l{A}}Ладно, тогда, \
 
 <0347> \name{nagisatotomoya}, let's do it...
 //// <0347> \s{strS[0]}、いきます…」
 //// <0347> давай, \s{strS[0]}..."
-<0347> \ \name{nagisatotomoya}, давай продолжим...
+<0347> \name{nagisatotomoya}, давай продолжим...
 
 <0348> \{Томоя}Yeah...
 //// <0348> \{Томоя}「ああ…」
@@ -1791,12 +1791,12 @@
 <0358> \{\l{A}}That's right. 
 //// <0358> \{\l{A}}「そうです。
 //// <0358> \{\s{strS[1800]}}"Именно,
-<0358> \{\l{A}}Всё правильно.
+<0358> \{\l{A}}Всё правильно. \
 
 <0359> \name{nagisatotomoya} is the teacher.
 //// <0359> \s{strS[0]}、先生です」
 //// <0359> \ ты - преподаватель, \s{strS[0]}."
-<0359> \ \name{nagisatotomoya}, ты учитель.
+<0359> \name{nagisatotomoya}, ты учитель.
 
 <0360> \{Томоя}You there, what's with that hair? Did you dye it?
 //// <0360> \{Томоя}「おまえ、その髪、染めてんじゃねぇのか？　ああん？」
@@ -2566,12 +2566,12 @@
 <0513> \{\l{A}}Not at all! No matter how you look at it, 
 //// <0513> \{\l{A}}「いえ、そんなことないです。
 //// <0513> \{\s{strS[1800]}}"Что ты, вовсе нет...
-<0513> \{\l{A}}Всё совсем не так...
+<0513> \{\l{A}}Всё совсем не так... \
 
 <0514> \name{nagisatotomoya} is more...
 //// <0514> \s{strS[0]}のほうが…」
 //// <0514> \ \s{strS[0]} подошёл бы лучше..."
-<0514> \ \name{nagisatotomoya}, ты подошёл бы лучше...
+<0514> \name{nagisatotomoya}, ты подошёл бы лучше...
 
 <0515> \{Сунохара}If he's the class rep, I'm going home.
 //// <0515> \{Сунохара}「こいつなんかが委員長だったら、僕は帰るね」

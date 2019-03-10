@@ -3071,12 +3071,12 @@
 <0614> \{\l{A}}I have heard from 
 //// <0614> \{\l{A}}「わたし、
 //// <0614> \{\s{strS[1800]}}"Я...
-<0614> \{\l{A}}Мне рассказал
+<0614> \{\l{A}}Мне рассказал \
 
 <0615> \name{nagisatotomoya} about you.
 //// <0615> \s{strS[0]}から話、聞きました」
 //// <0615> \ слышала от \s{strS[0]}."
-<0615> \ \name{nagisatotomoya}.
+<0615> \name{nagisatotomoya}.
 
 <0616> \{\l{A}}And how hard you're trying for Ibuki-sensei's sake.
 //// <0616> \{\l{A}}「ふぅちゃんが、伊吹先生のためにがんばろうとしてること」
@@ -4141,12 +4141,12 @@
 <0828> \{\l{A}}(Please calm down, 
 //// <0828> \{\l{A}}（落ち着いてください、
 //// <0828> \{\s{strS[1800]}}(Пожалуйста успокойся,
-<0828> \{\l{A}}Пожалуйста, успокойся,
+<0828> \{\l{A}}Пожалуйста, успокойся, \
 
 <0829> \name{nagisatotomoya}.)
 //// <0829> \s{strS[0]}っ）
 //// <0829> \ \s{strS[0]}!)
-<0829> \ \name{nagisatotomoya}.
+<0829> \name{nagisatotomoya}.
 
 <0830> \{\l{A}}(I'll do something about it.)
 //// <0830> \{\l{A}}（わたしがなんとかしますからっ）

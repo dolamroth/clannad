@@ -946,12 +946,12 @@
 <0189> \{\l{A}}What will you do, 
 //// <0189> \{\l{A}}「
 //// <0189> \{\s{strS[1800]}}"
-<0189> \{\l{A}}Как поступишь,
+<0189> \{\l{A}}Как поступишь, \
 
 <0190> \name{nagisatotomoya}?
 //// <0190> \s{strS[0]}はどうしますか」
 //// <0190> Что будешь делать, \s{strS[0]}?"
-<0190> \ \name{nagisatotomoya}?
+<0190> \name{nagisatotomoya}?
 
 <0191> \{Сунохара}Let's do this, Оказаки.
 //// <0191> \{Сунохара}「やろうぜ、\m{A}」
@@ -1071,12 +1071,12 @@
 <0214> \{\l{A}}In that case, you'd be able to play, 
 //// <0214> \{\l{A}}「それなら、
 //// <0214> \{\s{strS[1800]}}"В таком случае получается,
-<0214> \{\l{A}}В таком случае ты тоже сможешь участвовать,
+<0214> \{\l{A}}В таком случае ты тоже сможешь участвовать, \
 
 <0215> \name{nagisatotomoya}.
 //// <0215> \s{strS[0]}もできます」
 //// <0215> \ что ты можешь сделать это, \s{strS[0]}."
-<0215> \ \name{nagisatotomoya}.
+<0215> \name{nagisatotomoya}.
 
 <0216> \{Томоя}No, I can't...
 //// <0216> \{Томоя}「できねぇよ…」
@@ -1091,12 +1091,12 @@
 <0218> \{\l{A}}Why don't we help Sunohara-san, 
 //// <0218> \{\l{A}}「
 //// <0218> \{\s{strS[1800]}}"
-<0218> \{\l{A}}Давай поможем Сунохаре-сану,
+<0218> \{\l{A}}Давай поможем Сунохаре-сану, \
 
 <0219> \name{nagisatotomoya}?
 //// <0219> \s{strS[0]}、春原さんを手伝ってあげましょう」
 //// <0219> \s{strS[0]}, давай поможем Сунохаре-сану."
-<0219> \ \name{nagisatotomoya}?
+<0219> \name{nagisatotomoya}?
 
 <0220> \{Томоя}No matter how many times you ask me, I won't agree to it.
 //// <0220> \{Томоя}「何度頼まれても、俺は頷かないぞ」
@@ -1116,12 +1116,12 @@
 <0223> \name{nagisatotomoya}. 
 //// <0223> \s{strS[0]}、
 //// <0223> \s{strS[0]},
-<0223> \name{nagisatotomoya}.
+<0223> \name{nagisatotomoya}. \
 
 <0224> \name{nagisatotomoya}!
 //// <0224> \s{strS[0]}ってば」
 //// <0224> \ Эй, \s{strS[0]}!"
-<0224> \ \name{nagisatotomoya}!
+<0224> \name{nagisatotomoya}!
 
 <0225> \{Томоя}(Ah... How should I put it...)
 //// <0225> \{Томоя}（はぁ…なんていうか…）

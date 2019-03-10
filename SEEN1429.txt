@@ -26,12 +26,12 @@
 <0005> \{\l{A}}Ah, 
 //// <0005> \{\l{A}}「あ、
 //// <0005> \{\s{strS[1800]}}"Ах,
-<0005> \{\l{A}}А,
+<0005> \{\l{A}}А, \
 
 <0006> \name{nagisatotomoya}. Welcome.
 //// <0006> \s{strS[0]}。いらっしゃいです」
 //// <0006> \ \s{strS[0]}. Добро пожаловать."
-<0006> \ \name{nagisatotomoya}. Добро пожаловать.
+<0006> \name{nagisatotomoya}. Добро пожаловать.
 
 <0007> \{Санаэ}Welcome, Оказаки-san.
 //// <0007> \{Санаэ}「いらっしゃい、\m{A}さん」
@@ -286,12 +286,12 @@
 <0057> \{\l{A}}But you are a guest here, 
 //// <0057> \{\l{A}}「いえ、
 //// <0057> \{\s{strS[1800]}}"Нет,
-<0057> \{\l{A}}Нет, ты же посетитель,
+<0057> \{\l{A}}Нет, ты же посетитель, \
 
 <0058> \name{nagisatotomoya}.
 //// <0058> \s{strS[0]}はお客さんですから」
 //// <0058> ты тоже покупатель."
-<0058> \ \name{nagisatotomoya}.
+<0058> \name{nagisatotomoya}.
 
 <0059> \{Томоя}Please stop with that already. Are we still just strangers to each other?
 //// <0059> \{Томоя}「もう、そういうのはやめてくれ。今更だろ」
@@ -1241,12 +1241,12 @@
 <0248> \{\l{A}}Could you come and stay with me, 
 //// <0248> \{\l{A}}「
 //// <0248> \{\s{strS[1800]}}"
-<0248> \{\l{A}}Можешь пойти постоять со мной,
+<0248> \{\l{A}}Можешь пойти постоять со мной, \
 
 <0249> \name{nagisatotomoya}?
 //// <0249> \s{strS[0]}も、一緒に居てくださいませんか」
 //// <0249> Ты не мог бы побыть со мной, \s{strS[0]}?"
-<0249> \ \name{nagisatotomoya}?
+<0249> \name{nagisatotomoya}?
 
 <0250> \{\l{A}}If I'm alone... I don't know what I may tell her.
 //// <0250> \{\l{A}}「わたし、ひとりだと…何言ってしまうかわからないです」

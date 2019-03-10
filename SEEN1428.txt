@@ -2206,12 +2206,12 @@
 <0441> \{\l{A}}What should we do, 
 //// <0441> \{\l{A}}「どうしましょう、
 //// <0441> \{\s{strS[1800]}}"Что мне делать,
-<0441> \{\l{A}}Что же делать,
+<0441> \{\l{A}}Что же делать, \
 
 <0442> \name{nagisatotomoya}?
 //// <0442> \s{strS[0]}」
 //// <0442> \ \s{strS[0]}?"
-<0442> \ \name{nagisatotomoya}?
+<0442> \name{nagisatotomoya}?
 
 <0443> \{Томоя}Isn't it fine like that?
 //// <0443> \{Томоя}「だったら、いいんじゃないか」
@@ -2891,12 +2891,12 @@
 <0578> \{\l{A}}That wasn't a nice thing to do, 
 //// <0578> \{\l{A}}「ひどいです、
 //// <0578> \{\s{strS[1800]}}"
-<0578> \{\l{A}}Это было жестоко,
+<0578> \{\l{A}}Это было жестоко, \
 
 <0579> \name{nagisatotomoya}!
 //// <0579> \s{strS[0]}っ」
 //// <0579> Это жестоко, \s{strS[0]}!"
-<0579> \ \name{nagisatotomoya}!
+<0579> \name{nagisatotomoya}!
 
 <0580> \{Томоя}It was a love tap.
 //// <0580> \{Томоя}「愛だよ」
@@ -4021,12 +4021,12 @@
 <0804> \{\l{A}}What happened, 
 //// <0804> \{\l{A}}「どうしたんですか、
 //// <0804> \{\s{strS[1800]}}"Что такое,
-<0804> \{\l{A}}Что такое,
+<0804> \{\l{A}}Что такое, \
 
 <0805> \name{nagisatotomoya}?
 //// <0805> \s{strS[0]}」
 //// <0805> \ \s{strS[0]}?"
-<0805> \ \name{nagisatotomoya}?
+<0805> \name{nagisatotomoya}?
 
 <0806> \{Томоя}Just look at this...
 //// <0806> \{Томоя}「見てくれよ…」
@@ -4416,12 +4416,12 @@
 <0883> \{\l{A}}What happened, 
 //// <0883> \{\l{A}}「どうしたんですか、
 //// <0883> \{\s{strS[1800]}}"Что не так,
-<0883> \{\l{A}}Что не так,
+<0883> \{\l{A}}Что не так, \
 
 <0884> \name{nagisatotomoya}?
 //// <0884> \s{strS[0]}」
 //// <0884> \ \s{strS[0]}?"
-<0884> \ \name{nagisatotomoya}?
+<0884> \name{nagisatotomoya}?
 
 <0885> \{Фуко}Was it no good?
 //// <0885> \{Фуко}「ダメでしたでしょうか」
@@ -5031,12 +5031,12 @@
 <1006> \{\l{A}}What's wrong, 
 //// <1006> \{\l{A}}「どうしましたか、
 //// <1006> \{\s{strS[1800]}}"Что случилось,
-<1006> \{\l{A}}Что случилось,
+<1006> \{\l{A}}Что случилось, \
 
 <1007> \name{nagisatotomoya}?
 //// <1007> \s{strS[0]}」
 //// <1007> \ \s{strS[0]}?"
-<1007> \ \name{nagisatotomoya}?
+<1007> \name{nagisatotomoya}?
 
 <1008> \{Томоя}You two are supposed to put up more of a fight! Fight!
 //// <1008> \{Томоя}「おまえら、もっと戦えよっ、ファィッ！」

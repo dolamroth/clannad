@@ -1737,7 +1737,7 @@
 <0347> \size{intA[1001]} Kaaaaahhh!!\size{}
 //// <0347> \size{intA[1001]}ケェーーーーッ！」\size{}
 //// <0347> \size{intA[1001]}\ кеееееей!"\size{}
-<0347> \size{intA[1001]} Ке-е-е-е-е!
+<0347> \size{intA[1001]} Ке-е-е-е-е!\size{}
 
 <0348> She'd probably be the kind of girl whose a certain way one minute, then totally different the next.
 //// <0348> なんて、ひとつのセリフで前半と後半のキャラが違うような女に違いない。
