@@ -641,7 +641,6 @@
 <0128> We've been having some very loud secret discussions, apparently.
 //// <0128> 騒がしい内緒話だった。
 //// <0128> Какой бессмысленный разговор.
-<0128> We've been having some very loud secret discussions, apparently.
 
 <0129> \{Акио}Tsk. Well, whatever. Forget about the potty for now.
 //// <0129> \{Акио}「ちっ、まぁ、いい。オマルは置いておいてだ」
