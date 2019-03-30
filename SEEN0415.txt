@@ -1322,7 +1322,7 @@
 <0264> But this student is another third-year. And he's on the rugby team. And on top of that, he's sitting with the rest of his rugby pals.
 //// <0264> だが、そいつは同じ三年のラグビー部。
 //// <0264> Правда, это регбист-двенадцатиклассник.
-<0264> Вот только это уже третьегодка-регбист. Вдобавок он видит со своими товарищами.
+<0264> Вот только это уже третьегодка-регбист. Вдобавок он сидит со своими товарищами.
 
 <0265> \{Регбист}What, you want us to move while we're still in the middle of our meal?!
 //// <0265> \{Регбист}「なに、俺たち食ってる途中なのに、どけって？」
