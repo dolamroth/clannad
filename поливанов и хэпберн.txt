@@ -61,3 +61,6 @@ SEEN6425
 
 SEEN3502
 <0027> \{Кё}Сегодняшнее главное блюдо - утончённая никудзяга а-ля Киото.
+
+SEEN6800
+<0254> \{Нагиса}Minoshima-sensei, the new teacher I told you about yesterday, agreed to take over.
