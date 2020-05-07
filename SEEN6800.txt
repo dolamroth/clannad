@@ -30091,7 +30091,7 @@
 <6018> And that's how we got a second \dango{dango} in the corner of our room.
 //// <6018> そうして、部屋の隅には、ふたつめのだんごが並ぶことに。
 //// <6018> Так в нашей комнате появилась вторая игрушка.
-<6018> Так в нашей комнате появилась вторая игрушка.
+<6018> Так в нашей комнате появилась вторая игрушка \dango{данго}.
 
 <6019> I wonder if Nagisa has already forgotten about the wristwatches we bought.
 //// <6019> 渚は腕時計を買ったことをすでに忘れているんじゃないだろうか。
