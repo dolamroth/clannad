@@ -1321,7 +1321,7 @@
 <0264> \{Сунохара}It still ain't got nothing on Bomb a Head, though.
 //// <0264> \{Сунохара}「ま、ボンバヘッにはかなわないけどね」
 //// <0264> \{Сунохара}"Конечно, рядом с "Bomb A Head" оно и близко не стояло..."
-<0264> \{Сунохара}Конечно, рядом с Bomb a Head оно и близко не стояло...
+<0264> \{Сунохара}Конечно, рядом с \dango{Bomb a Head} оно и близко не стояло...
 
 <0265> \{Сунохара}And this is actually a favorite mixtape of mine that my little sister made especially for me.
 //// <0265> \{Сунохара}「これ、妹が僕のために作ってくれたベストなんだぜ？」
