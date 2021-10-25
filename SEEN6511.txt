@@ -1446,7 +1446,7 @@
 <0289> She's living her own life at the cost of other peoples' dreams.
 //// <0289> 人の夢を犠牲にして生きる自分。
 //// <0289> Кто-то, кто жил за счёт мечты других.
-<0289> Её жизнь стоила мечт нескольких людей.
+<0289> Её жизнь стоила стремлений нескольких людей.
 
 <0290> The pain she's feeling comes from not knowing how to react after being confronted with such a truth.
 //// <0290> そんな現実を突きつけられ、どうしていいかわからない辛さ。
