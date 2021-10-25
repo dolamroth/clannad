@@ -4126,7 +4126,7 @@
 <0825> \name{nagisatotomoya}, don't you feel at all bad for hitting her for no reason like that?
 //// <0825> \s{strS[0]}、いきなり叩いたら可哀想ですっ」
 //// <0825> \s{strS[0]}, ты не должен ни за что бить Фуко!"
-<0825> \name{nagisatotomoya}, тебе не жалко ни с того ни с чего бить Фуко?
+<0825> \name{nagisatotomoya}, тебе не жалко ни с того ни с сего бить Фуко?
 
 <0826> I put my hand on \l{A}'s shoulder and pull her closer.
 //// <0826> 俺は\l{A}の肩を掴んで引き寄せる。
@@ -4241,7 +4241,7 @@
 <0848> \{Фуко}Spend time together?
 //// <0848> \{Фуко}「遊ぶ？」
 //// <0848> \{Фуко}"Повеселимся?"
-<0848> \{Санаэ}Повеселимся?
+<0848> \{Фуко}Повеселимся?
 
 <0849> \{Санаэ}Yes. There is no school tomorrow, right?
 //// <0849> \{Санаэ}「ええ。学校お休みでしょ？」
