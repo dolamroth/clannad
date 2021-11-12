@@ -281,7 +281,7 @@
 <0056> I look down at \name{tomoyatonagisa}, and then...
 //// <0056> 俺は見上げる\l{C}の顔を見て…
 //// <0056> \s{strS[1802]} посмотрела мне в лицо...
-<0056> Я гляжу на \name{tomoyatonagisa} и...
+<0056> Я гляжу на неё и...
 
 <0057> \{Томоя}You know, you're pretty cute.
 //// <0057> \{Томоя}「おまえって、結構可愛いよな」
@@ -291,7 +291,7 @@
 <0058> ...I say out loud.
 //// <0058> そう口にしていた。
 //// <0058> Произнёс я.
-<0058> ...Произношу я.
+<0058> Вот.
 
 <0059> \{Томоя}(Wait, did I really just say that? Gaaah!!)
 //// <0059> \{Томоя}（って、なんて浮いたこと言ってんだ、俺はぁぁっ！）
@@ -911,7 +911,7 @@
 <0182> \name{tomoyatonagisa} and I go to the student council room time and time again to talk with them directly.
 //// <0182> 俺と\l{C}は、何度か、生徒会室へと直談判に行った。
 //// <0182> Я, а со мной и \s{strS[1802]}, мы много раз ходили в комнату студсовета на переговоры.
-<0182> Мы с \name{tomoyatonagisa} идём в их кабинет, чтобы поговорить с ними лично.
+<0182> Я и \name{tomoyatonagisa} идём в их кабинет, чтобы поговорить с ними лично.
 
 <0183> The topic of our conversations is, of course, the drama club.
 //// <0183> 件はもちろん、演劇部の再建。
@@ -936,7 +936,7 @@
 <0187> \name{tomoyatonagisa} and I go time and time again to speak to the student council president.
 //// <0187> 俺と\l{C}は、何度か、その生徒会長相手に直談判をした。
 //// <0187> Я, а со мной и \s{strS[1802]}, мы много раз ходили на встречу с президентом студсовета.
-<0187> Мы с \name{tomoyatonagisa} идём в кабинет совета, чтобы поговорить с ней напрямую.
+<0187> Я и \name{tomoyatonagisa} идём в кабинет совета, чтобы поговорить с ней напрямую.
 
 <0188> The topic of our conversations is, of course, the drama club.
 //// <0188> 件はもちろん、演劇部の再建。
@@ -961,7 +961,7 @@
 <0192> Thinking that this would make the conversation easier, \name{tomoyatonagisa} and I go to the student council room to speak with her directly.
 //// <0192> これで話しやすくなると思い、俺と\l{C}は、生徒会室へと談判に行った。
 //// <0192> Мы могли легко с ней общаться, так что \s{strS[1802]} и я пошли в комнату студсовета.
-<0192> Поскольку мы с ней знакомы, мы с \name{tomoyatonagisa} идём кабинет совета, чтобы поговорить с ней напрямую.
+<0192> Поскольку мы с ней знакомы, я и \name{tomoyatonagisa} идём кабинет совета, чтобы поговорить с ней напрямую.
 
 <0193> The topic of our conversations is, of course, the drama club.
 //// <0193> 件はもちろん、演劇部の再建。
@@ -986,7 +986,7 @@
 <0197> Tomoyo encourages \name{tomoyatonagisa} as much as she possibly can before going back to her own work.
 //// <0197> 智代は\l{C}に思いつく限りの励ましの言葉をかけて、自分の仕事に戻っていった。
 //// <0197> \s{strS[1802]} могла только получить от неё несколько ободрительных слов, и Томоё вернулась к своей работе.
-<0197> Приободрив \name{tomoyatonagisa}, Томоё возвращается к своей работе.
+<0197> Приободрив её, Томоё возвращается к своей работе.
 
 <0198> \{\l{A}}Is there really nothing we can do...?
 //// <0198> \{\l{A}}「どうしようもないんでしょうか…」
@@ -1021,12 +1021,12 @@
 <0204> I keep on trying to encourage \name{tomoyatonagisa}.
 //// <0204> 俺は\l{C}を励まし続けた。
 //// <0204> Я продолжал её подбадривать.
-<0204> Я продолжаю подбадривать \name{tomoyatonagisa}.
+<0204> Я тоже пытаюсь её подбодрить.
 
 <0205> I encourage \name{tomoyatonagisa} too.
 //// <0205> 俺も\l{C}を励ました。
 //// <0205> Я подбадривал её.
-<0205> Я тоже подбадриваю \name{tomoyatonagisa}.
+<0205> Я тоже её подбадриваю.
 
 <0206> \{\l{A}}Hm...
 //// <0206> \{\l{A}}「うーん…」
@@ -1061,7 +1061,7 @@
 <0212> It's the last day that I spend at school with \name{tomoyatonagisa}.
 //// <0212> その日が、\l{C}と学校で過ごせた最後の日となった。
 //// <0212> Наступил день, когда \s{strS[1802]} посетила школу в последний раз.
-<0212> Это наш последний школьный день с \name{tomoyatonagisa}.
+<0212> Это наш последний школьный день вместе.
 
 <0213> \{Томоя}Is she okay, Sanae-san?
 //// <0213> \{Томоя}「どうでしたか、早苗さん」
